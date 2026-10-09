@@ -1,0 +1,64 @@
+# Fichier: .github/workflows/elt_pipeline.yml
+
+name: Pipeline ELT Quotidien
+
+# Lancement manuel ou tous les jours à minuit UTC
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  run-elt:
+    runs-on: ubuntu-latest
+
+    # Permissions pour Workload Identity Federation (OIDC)
+    permissions:
+      contents: "read"
+      id-token: "write"
+
+    steps:
+      # Récupération du code
+      - name: Récupérer le code (Checkout)
+        uses: actions/checkout@v4
+
+      # Authentification Google Cloud
+      - name: Authentification Google Cloud (WIF)
+        uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: "projects/833312929773/locations/global/workloadIdentityPools/github-pool/providers/github-provider"
+          service_account: "github-actions-elt@lasalle-big-data.iam.gserviceaccount.com"
+
+      # Installation de Python
+      - name: Installation de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Installation de uv
+      - name: Installation de uv
+        uses: astral-sh/setup-uv@v5
+
+      # Installation des dépendances du projet
+      - name: Installation des dépendances
+        run: |
+          uv sync
+
+      # --- ÉTAPE BRONZE : INGESTION ---
+      - name: "1. Ingestion GCS vers Bronze"
+        run: |
+          uv run python ingestion/load_products.py
+
+      # --- ÉTAPE SILVER : TRANSFORMATION ---
+      - name: "2. Transformation Bronze vers Silver"
+        run: |
+          bq query \
+            --project_id=lasalle-big-data \
+            --use_legacy_sql=false < transformations/silver.sql
+
+      # --- ÉTAPE GOLD : AGRÉGATION ---
+      - name: "3. Agrégation Silver vers Gold"
+        run: |
+          bq query \
+            --project_id=lasalle-big-data \
+            --use_legacy_sql=false < transformations/gold.sql

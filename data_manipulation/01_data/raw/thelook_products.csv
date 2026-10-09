@@ -1,0 +1,2001 @@
+id,name,category,brand,department,cost,retail_price,sku,distribution_center_id
+1,Tommy Hilfiger Regular Fit Underwear,Underwear,Tommy Hilfiger,Women,6.57,10.31,SKU-00001,5
+2,Hurley Pro Shorts,Shorts,Hurley,Women,20.85,37.55,SKU-00002,6
+3,Columbia Sport Tops & Tees,Tops & Tees,Columbia,Men,21.34,44.52,SKU-00003,9
+4,Volcom Classic Leggings,Leggings,Volcom,Women,14.98,42.24,SKU-00004,2
+5,Hurley Urban Outerwear & Coats,Outerwear & Coats,Hurley,Women,89.58,149.11,SKU-00005,5
+6,Volcom Original Dresses,Dresses,Volcom,Women,60.37,157.91,SKU-00006,10
+7,Lacoste Original Underwear,Underwear,Lacoste,Women,4.72,13.83,SKU-00007,3
+8,Lacoste Comfort Tops & Tees,Tops & Tees,Lacoste,Women,16.82,27.19,SKU-00008,4
+9,Levi's Modern Shorts,Shorts,Levi's,Women,24.62,49.23,SKU-00009,9
+10,Diesel Essential Swim,Swim,Diesel,Women,7.77,20.62,SKU-00010,8
+11,Under Armour Premium Jumpsuits & Rompers,Jumpsuits & Rompers,Under Armour,Women,20.15,58.49,SKU-00011,5
+12,Hurley Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hurley,Women,9.06,16.94,SKU-00012,2
+13,True Religion Urban Sleep & Lounge,Sleep & Lounge,True Religion,Men,6.15,15.15,SKU-00013,2
+14,Allegra K Sport Tops & Tees,Tops & Tees,Allegra K,Men,14.03,36.44,SKU-00014,9
+15,True Religion Comfort Sleep & Lounge,Sleep & Lounge,True Religion,Women,22.82,48.06,SKU-00015,6
+16,Hanes Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Hanes,Women,25.32,63.41,SKU-00016,10
+17,Tommy Hilfiger Essential Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Tommy Hilfiger,Men,34.09,79.21,SKU-00017,2
+18,Diesel Premium Dresses,Dresses,Diesel,Men,22.45,65.23,SKU-00018,4
+19,Levi's Essential Accessories,Accessories,Levi's,Men,33.78,77.97,SKU-00019,1
+20,Columbia Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Columbia,Women,23.23,52.85,SKU-00020,2
+21,Volcom Slim Fit Pants,Pants,Volcom,Men,38.29,95.88,SKU-00021,1
+22,Polo Ralph Lauren Modern Jeans,Jeans,Polo Ralph Lauren,Men,18.24,31.53,SKU-00022,6
+23,BCBGMAXAZRIA Sport Sleep & Lounge,Sleep & Lounge,BCBGMAXAZRIA,Men,25.63,58.86,SKU-00023,3
+24,Tommy Hilfiger Pro Socks & Hosiery,Socks & Hosiery,Tommy Hilfiger,Men,5.76,9.08,SKU-00024,2
+25,Diesel Sport Pants,Pants,Diesel,Women,48.81,119.12,SKU-00025,9
+26,Diesel Slim Fit Tops & Tees,Tops & Tees,Diesel,Men,12.51,28.8,SKU-00026,5
+27,Calvin Klein Original Outerwear & Coats,Outerwear & Coats,Calvin Klein,Women,133.49,368.31,SKU-00027,6
+28,Lucky Brand Urban Sweaters,Sweaters,Lucky Brand,Women,30.6,82.51,SKU-00028,7
+29,True Religion Regular Fit Outerwear & Coats,Outerwear & Coats,True Religion,Women,34.03,73.12,SKU-00029,5
+30,Diesel Slim Fit Sleep & Lounge,Sleep & Lounge,Diesel,Men,22.5,55.99,SKU-00030,2
+31,Lucky Brand Urban Jeans,Jeans,Lucky Brand,Women,20.78,40.62,SKU-00031,5
+32,Lucky Brand Original Leggings,Leggings,Lucky Brand,Women,25.2,52.46,SKU-00032,10
+33,Volcom Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Volcom,Women,23.39,37.82,SKU-00033,7
+34,Carhartt Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Carhartt,Men,39.77,65.66,SKU-00034,8
+35,Lucky Brand Comfort Tops & Tees,Tops & Tees,Lucky Brand,Women,14.11,38.49,SKU-00035,6
+36,BCBGMAXAZRIA Sport Sleep & Lounge,Sleep & Lounge,BCBGMAXAZRIA,Women,18.89,55.88,SKU-00036,4
+37,Nike Vintage Suits & Sport Coats,Suits & Sport Coats,Nike,Women,155.42,347.18,SKU-00037,5
+38,BCBGMAXAZRIA Premium Shorts,Shorts,BCBGMAXAZRIA,Women,21.96,37.16,SKU-00038,5
+39,Volcom Pro Tops & Tees,Tops & Tees,Volcom,Women,17.95,29.3,SKU-00039,6
+40,Lacoste Sport Dresses,Dresses,Lacoste,Women,52.83,82.84,SKU-00040,9
+41,Hurley Urban Jeans,Jeans,Hurley,Women,40.09,112.98,SKU-00041,1
+42,Calvin Klein Urban Jeans,Jeans,Calvin Klein,Men,50.74,109.77,SKU-00042,5
+43,Nike Vintage Outerwear & Coats,Outerwear & Coats,Nike,Women,59.0,166.41,SKU-00043,3
+44,Nike Slim Fit Shorts,Shorts,Nike,Men,10.36,21.18,SKU-00044,10
+45,Columbia Premium Underwear,Underwear,Columbia,Men,11.56,27.54,SKU-00045,2
+46,Diesel Premium Jumpsuits & Rompers,Jumpsuits & Rompers,Diesel,Men,31.59,79.31,SKU-00046,1
+47,Lucky Brand Sport Swim,Swim,Lucky Brand,Women,36.62,57.68,SKU-00047,8
+48,Polo Ralph Lauren Original Sweaters,Sweaters,Polo Ralph Lauren,Men,58.25,146.93,SKU-00048,3
+49,Volcom Comfort Underwear,Underwear,Volcom,Women,13.27,35.82,SKU-00049,3
+50,Diesel Original Swim,Swim,Diesel,Women,24.62,37.75,SKU-00050,6
+51,Volcom Slim Fit Skirts,Skirts,Volcom,Women,32.13,51.03,SKU-00051,10
+52,Levi's Sport Accessories,Accessories,Levi's,Men,14.7,33.56,SKU-00052,2
+53,Dockers Regular Fit Tops & Tees,Tops & Tees,Dockers,Men,4.31,12.74,SKU-00053,6
+54,Lucky Brand Regular Fit Blazers & Jackets,Blazers & Jackets,Lucky Brand,Women,81.56,241.41,SKU-00054,4
+55,Diesel Comfort Swim,Swim,Diesel,Men,32.57,54.21,SKU-00055,2
+56,Levi's Premium Jumpsuits & Rompers,Jumpsuits & Rompers,Levi's,Men,10.32,27.26,SKU-00056,6
+57,Tommy Hilfiger Regular Fit Sleep & Lounge,Sleep & Lounge,Tommy Hilfiger,Men,26.73,71.9,SKU-00057,10
+58,Lucky Brand Vintage Sleep & Lounge,Sleep & Lounge,Lucky Brand,Women,27.15,76.44,SKU-00058,3
+59,True Religion Vintage Skirts,Skirts,True Religion,Men,18.26,28.58,SKU-00059,3
+60,Volcom Pro Sweaters,Sweaters,Volcom,Women,10.86,32.13,SKU-00060,2
+61,Levi's Slim Fit Sweaters,Sweaters,Levi's,Men,53.8,147.01,SKU-00061,7
+62,Lucky Brand Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lucky Brand,Women,10.96,26.43,SKU-00062,3
+63,Tommy Hilfiger Comfort Leggings,Leggings,Tommy Hilfiger,Men,11.57,18.51,SKU-00063,6
+64,Hanes Classic Accessories,Accessories,Hanes,Women,22.62,42.08,SKU-00064,1
+65,Tommy Hilfiger Original Leggings,Leggings,Tommy Hilfiger,Men,25.6,51.71,SKU-00065,8
+66,Calvin Klein Urban Leggings,Leggings,Calvin Klein,Women,24.76,68.98,SKU-00066,2
+67,Under Armour Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Under Armour,Men,37.25,98.4,SKU-00067,1
+68,Volcom Pro Accessories,Accessories,Volcom,Men,33.49,97.49,SKU-00068,1
+69,Tommy Hilfiger Modern Leggings,Leggings,Tommy Hilfiger,Women,22.45,47.9,SKU-00069,8
+70,Lacoste Pro Jeans,Jeans,Lacoste,Men,42.61,122.51,SKU-00070,10
+71,Carhartt Essential Jeans,Jeans,Carhartt,Men,20.05,57.01,SKU-00071,5
+72,Diesel Original Active,Active,Diesel,Women,23.16,35.38,SKU-00072,2
+73,Hugo Boss Urban Shorts,Shorts,Hugo Boss,Women,16.83,31.28,SKU-00073,9
+74,Polo Ralph Lauren Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Polo Ralph Lauren,Men,10.74,29.0,SKU-00074,1
+75,Carhartt Urban Sweaters,Sweaters,Carhartt,Men,30.28,75.63,SKU-00075,4
+76,Lucky Brand Slim Fit Dresses,Dresses,Lucky Brand,Women,24.76,45.42,SKU-00076,10
+77,Nike Sport Jeans,Jeans,Nike,Men,16.3,43.56,SKU-00077,4
+78,Under Armour Urban Socks & Hosiery,Socks & Hosiery,Under Armour,Men,6.01,11.87,SKU-00078,8
+79,Lucky Brand Pro Tops & Tees,Tops & Tees,Lucky Brand,Women,8.98,21.58,SKU-00079,4
+80,Nike Original Pants,Pants,Nike,Men,17.62,51.13,SKU-00080,3
+81,BCBGMAXAZRIA Essential Jeans,Jeans,BCBGMAXAZRIA,Men,49.77,92.54,SKU-00081,4
+82,Lacoste Classic Active,Active,Lacoste,Women,37.59,59.51,SKU-00082,9
+83,Allegra K Modern Outerwear & Coats,Outerwear & Coats,Allegra K,Women,105.91,263.74,SKU-00083,5
+84,Hurley Slim Fit Blazers & Jackets,Blazers & Jackets,Hurley,Men,31.93,82.78,SKU-00084,9
+85,Carhartt Comfort Tops & Tees,Tops & Tees,Carhartt,Men,17.29,34.04,SKU-00085,10
+86,Dockers Regular Fit Suits & Sport Coats,Suits & Sport Coats,Dockers,Women,151.84,334.45,SKU-00086,8
+87,Columbia Urban Outerwear & Coats,Outerwear & Coats,Columbia,Women,50.33,113.32,SKU-00087,3
+88,Calvin Klein Premium Underwear,Underwear,Calvin Klein,Women,3.73,10.16,SKU-00088,6
+89,Lucky Brand Original Skirts,Skirts,Lucky Brand,Women,21.87,55.54,SKU-00089,4
+90,Lucky Brand Essential Leggings,Leggings,Lucky Brand,Men,16.18,30.9,SKU-00090,6
+91,Adidas Slim Fit Swim,Swim,Adidas,Men,11.21,21.41,SKU-00091,8
+92,Hanes Classic Sweaters,Sweaters,Hanes,Men,19.59,38.93,SKU-00092,10
+93,Dockers Pro Jeans,Jeans,Dockers,Women,35.98,61.85,SKU-00093,8
+94,Hanes Pro Suits & Sport Coats,Suits & Sport Coats,Hanes,Men,120.61,205.21,SKU-00094,5
+95,BCBGMAXAZRIA Original Accessories,Accessories,BCBGMAXAZRIA,Men,22.44,61.17,SKU-00095,9
+96,Dockers Premium Tops & Tees,Tops & Tees,Dockers,Women,24.62,67.64,SKU-00096,9
+97,Volcom Vintage Outerwear & Coats,Outerwear & Coats,Volcom,Men,25.15,47.54,SKU-00097,3
+98,Volcom Urban Sweaters,Sweaters,Volcom,Women,49.31,136.86,SKU-00098,2
+99,BCBGMAXAZRIA Classic Leggings,Leggings,BCBGMAXAZRIA,Men,14.44,34.02,SKU-00099,5
+100,Dockers Comfort Blazers & Jackets,Blazers & Jackets,Dockers,Women,79.24,203.51,SKU-00100,8
+101,Calvin Klein Essential Accessories,Accessories,Calvin Klein,Men,29.95,84.48,SKU-00101,3
+102,Adidas Regular Fit Sleep & Lounge,Sleep & Lounge,Adidas,Men,20.88,40.98,SKU-00102,10
+103,Dockers Sport Underwear,Underwear,Dockers,Women,10.21,25.46,SKU-00103,10
+104,Levi's Sport Shorts,Shorts,Levi's,Men,21.93,43.04,SKU-00104,1
+105,Volcom Classic Jeans,Jeans,Volcom,Men,47.88,136.67,SKU-00105,4
+106,BCBGMAXAZRIA Comfort Swim,Swim,BCBGMAXAZRIA,Men,10.48,20.43,SKU-00106,3
+107,Polo Ralph Lauren Regular Fit Jeans,Jeans,Polo Ralph Lauren,Women,29.32,71.48,SKU-00107,9
+108,Allegra K Sport Active,Active,Allegra K,Men,38.84,69.39,SKU-00108,8
+109,Tommy Hilfiger Urban Shorts,Shorts,Tommy Hilfiger,Women,19.15,39.35,SKU-00109,7
+110,Allegra K Urban Socks & Hosiery,Socks & Hosiery,Allegra K,Women,2.41,4.89,SKU-00110,8
+111,Columbia Premium Active,Active,Columbia,Women,43.5,114.21,SKU-00111,8
+112,Under Armour Sport Tops & Tees,Tops & Tees,Under Armour,Women,24.74,47.75,SKU-00112,8
+113,Volcom Original Blazers & Jackets,Blazers & Jackets,Volcom,Women,59.06,117.6,SKU-00113,7
+114,Lacoste Sport Swim,Swim,Lacoste,Men,24.13,36.54,SKU-00114,10
+115,Columbia Regular Fit Underwear,Underwear,Columbia,Women,5.8,11.45,SKU-00115,6
+116,Lucky Brand Pro Sweaters,Sweaters,Lucky Brand,Women,35.81,68.33,SKU-00116,1
+117,Under Armour Classic Swim,Swim,Under Armour,Men,38.94,90.22,SKU-00117,5
+118,BCBGMAXAZRIA Regular Fit Swim,Swim,BCBGMAXAZRIA,Men,14.66,30.83,SKU-00118,7
+119,Levi's Sport Jeans,Jeans,Levi's,Women,26.62,79.08,SKU-00119,9
+120,Levi's Comfort Skirts,Skirts,Levi's,Women,36.72,85.16,SKU-00120,7
+121,Calvin Klein Slim Fit Dresses,Dresses,Calvin Klein,Men,34.99,56.3,SKU-00121,3
+122,Hanes Modern Socks & Hosiery,Socks & Hosiery,Hanes,Women,9.76,26.49,SKU-00122,3
+123,Adidas Classic Dresses,Dresses,Adidas,Men,32.72,51.69,SKU-00123,9
+124,Diesel Original Sleep & Lounge,Sleep & Lounge,Diesel,Women,6.11,16.84,SKU-00124,3
+125,Calvin Klein Modern Active,Active,Calvin Klein,Women,43.2,91.07,SKU-00125,1
+126,Adidas Modern Sweaters,Sweaters,Adidas,Men,21.85,34.8,SKU-00126,7
+127,Hugo Boss Regular Fit Sweaters,Sweaters,Hugo Boss,Men,44.71,132.61,SKU-00127,6
+128,Hanes Essential Dresses,Dresses,Hanes,Men,13.08,29.34,SKU-00128,7
+129,Columbia Slim Fit Active,Active,Columbia,Women,35.18,97.88,SKU-00129,5
+130,BCBGMAXAZRIA Vintage Shorts,Shorts,BCBGMAXAZRIA,Men,11.28,24.04,SKU-00130,7
+131,True Religion Vintage Socks & Hosiery,Socks & Hosiery,True Religion,Women,8.24,18.07,SKU-00131,4
+132,Lacoste Regular Fit Sleep & Lounge,Sleep & Lounge,Lacoste,Men,29.2,59.67,SKU-00132,5
+133,Diesel Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Diesel,Men,11.81,24.25,SKU-00133,2
+134,Calvin Klein Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Calvin Klein,Women,24.72,66.5,SKU-00134,7
+135,Under Armour Slim Fit Socks & Hosiery,Socks & Hosiery,Under Armour,Women,7.5,11.6,SKU-00135,6
+136,Volcom Modern Outerwear & Coats,Outerwear & Coats,Volcom,Women,149.54,334.19,SKU-00136,4
+137,Hurley Essential Outerwear & Coats,Outerwear & Coats,Hurley,Women,67.2,127.57,SKU-00137,6
+138,BCBGMAXAZRIA Original Jumpsuits & Rompers,Jumpsuits & Rompers,BCBGMAXAZRIA,Women,49.8,116.29,SKU-00138,3
+139,Calvin Klein Pro Leggings,Leggings,Calvin Klein,Women,27.58,50.27,SKU-00139,8
+140,Carhartt Slim Fit Outerwear & Coats,Outerwear & Coats,Carhartt,Men,113.51,229.65,SKU-00140,6
+141,Nike Pro Active,Active,Nike,Men,20.89,48.04,SKU-00141,7
+142,Columbia Original Jumpsuits & Rompers,Jumpsuits & Rompers,Columbia,Men,31.48,82.25,SKU-00142,7
+143,Levi's Sport Suits & Sport Coats,Suits & Sport Coats,Levi's,Men,153.02,446.66,SKU-00143,9
+144,Hanes Sport Jumpsuits & Rompers,Jumpsuits & Rompers,Hanes,Women,37.43,69.8,SKU-00144,9
+145,Allegra K Essential Pants,Pants,Allegra K,Men,21.54,47.91,SKU-00145,3
+146,Carhartt Essential Sweaters,Sweaters,Carhartt,Men,37.86,76.59,SKU-00146,5
+147,Hanes Modern Swim,Swim,Hanes,Women,34.39,82.85,SKU-00147,6
+148,Tommy Hilfiger Slim Fit Leggings,Leggings,Tommy Hilfiger,Men,17.4,35.67,SKU-00148,8
+149,True Religion Premium Leggings,Leggings,True Religion,Women,19.59,32.23,SKU-00149,1
+150,Nike Urban Tops & Tees,Tops & Tees,Nike,Men,10.88,26.35,SKU-00150,10
+151,Polo Ralph Lauren Regular Fit Suits & Sport Coats,Suits & Sport Coats,Polo Ralph Lauren,Men,58.9,91.49,SKU-00151,4
+152,Nike Sport Shorts,Shorts,Nike,Women,7.58,11.86,SKU-00152,5
+153,Calvin Klein Pro Swim,Swim,Calvin Klein,Women,19.81,55.99,SKU-00153,3
+154,Volcom Premium Sleep & Lounge,Sleep & Lounge,Volcom,Men,21.16,59.36,SKU-00154,6
+155,Under Armour Essential Suits & Sport Coats,Suits & Sport Coats,Under Armour,Men,159.68,374.3,SKU-00155,3
+156,Hurley Comfort Dresses,Dresses,Hurley,Women,15.46,23.61,SKU-00156,10
+157,Allegra K Comfort Blazers & Jackets,Blazers & Jackets,Allegra K,Women,42.75,86.13,SKU-00157,4
+158,Calvin Klein Slim Fit Jeans,Jeans,Calvin Klein,Men,50.78,102.55,SKU-00158,4
+159,Diesel Premium Blazers & Jackets,Blazers & Jackets,Diesel,Men,25.43,65.64,SKU-00159,1
+160,BCBGMAXAZRIA Comfort Jeans,Jeans,BCBGMAXAZRIA,Women,59.68,162.2,SKU-00160,8
+161,Levi's Essential Leggings,Leggings,Levi's,Women,21.18,43.02,SKU-00161,10
+162,Lucky Brand Essential Swim,Swim,Lucky Brand,Women,37.96,80.95,SKU-00162,6
+163,Volcom Regular Fit Blazers & Jackets,Blazers & Jackets,Volcom,Women,77.34,142.07,SKU-00163,10
+164,BCBGMAXAZRIA Regular Fit Underwear,Underwear,BCBGMAXAZRIA,Women,14.53,37.66,SKU-00164,5
+165,Adidas Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Women,36.61,74.09,SKU-00165,7
+166,Diesel Regular Fit Sleep & Lounge,Sleep & Lounge,Diesel,Men,12.43,31.8,SKU-00166,9
+167,BCBGMAXAZRIA Modern Suits & Sport Coats,Suits & Sport Coats,BCBGMAXAZRIA,Women,166.45,426.17,SKU-00167,8
+168,Volcom Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Volcom,Men,19.04,33.02,SKU-00168,2
+169,Dockers Classic Socks & Hosiery,Socks & Hosiery,Dockers,Women,6.17,17.45,SKU-00169,10
+170,Polo Ralph Lauren Essential Suits & Sport Coats,Suits & Sport Coats,Polo Ralph Lauren,Men,94.67,259.09,SKU-00170,1
+171,Hanes Modern Sleep & Lounge,Sleep & Lounge,Hanes,Men,25.18,59.79,SKU-00171,2
+172,Allegra K Pro Active,Active,Allegra K,Men,35.62,58.04,SKU-00172,3
+173,Hurley Classic Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hurley,Women,44.28,77.53,SKU-00173,8
+174,Adidas Sport Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Men,19.88,32.57,SKU-00174,9
+175,Calvin Klein Premium Blazers & Jackets,Blazers & Jackets,Calvin Klein,Women,99.79,219.08,SKU-00175,6
+176,Columbia Comfort Outerwear & Coats,Outerwear & Coats,Columbia,Women,124.7,236.71,SKU-00176,4
+177,Hanes Essential Underwear,Underwear,Hanes,Women,7.03,19.31,SKU-00177,5
+178,Diesel Urban Underwear,Underwear,Diesel,Men,3.66,7.88,SKU-00178,7
+179,Dockers Pro Suits & Sport Coats,Suits & Sport Coats,Dockers,Women,90.7,197.56,SKU-00179,3
+180,Allegra K Sport Blazers & Jackets,Blazers & Jackets,Allegra K,Women,24.92,71.84,SKU-00180,3
+181,Adidas Sport Socks & Hosiery,Socks & Hosiery,Adidas,Men,6.62,15.67,SKU-00181,3
+182,Diesel Classic Dresses,Dresses,Diesel,Women,17.34,36.08,SKU-00182,5
+183,Lucky Brand Urban Swim,Swim,Lucky Brand,Women,20.64,61.41,SKU-00183,8
+184,Columbia Premium Jeans,Jeans,Columbia,Women,44.04,96.61,SKU-00184,6
+185,Under Armour Modern Tops & Tees,Tops & Tees,Under Armour,Women,13.51,32.01,SKU-00185,1
+186,Carhartt Comfort Blazers & Jackets,Blazers & Jackets,Carhartt,Women,90.06,186.69,SKU-00186,3
+187,Hurley Urban Accessories,Accessories,Hurley,Women,11.16,27.94,SKU-00187,1
+188,Levi's Pro Leggings,Leggings,Levi's,Men,18.57,49.47,SKU-00188,4
+189,BCBGMAXAZRIA Pro Sweaters,Sweaters,BCBGMAXAZRIA,Men,55.66,135.98,SKU-00189,6
+190,Levi's Original Skirts,Skirts,Levi's,Men,19.3,36.14,SKU-00190,3
+191,Polo Ralph Lauren Classic Shorts,Shorts,Polo Ralph Lauren,Women,17.35,50.55,SKU-00191,1
+192,Allegra K Classic Jumpsuits & Rompers,Jumpsuits & Rompers,Allegra K,Men,47.31,107.28,SKU-00192,2
+193,Calvin Klein Essential Socks & Hosiery,Socks & Hosiery,Calvin Klein,Women,5.59,15.31,SKU-00193,7
+194,Diesel Essential Sweaters,Sweaters,Diesel,Women,53.21,80.52,SKU-00194,5
+195,Carhartt Vintage Dresses,Dresses,Carhartt,Men,71.13,161.94,SKU-00195,10
+196,Hurley Sport Underwear,Underwear,Hurley,Men,5.33,15.47,SKU-00196,6
+197,True Religion Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,True Religion,Women,41.01,103.85,SKU-00197,4
+198,Hanes Urban Pants,Pants,Hanes,Men,36.15,60.42,SKU-00198,1
+199,Volcom Comfort Active,Active,Volcom,Men,44.48,114.09,SKU-00199,8
+200,Allegra K Vintage Leggings,Leggings,Allegra K,Women,20.05,30.53,SKU-00200,4
+201,Polo Ralph Lauren Sport Jeans,Jeans,Polo Ralph Lauren,Men,50.05,102.75,SKU-00201,6
+202,Columbia Vintage Accessories,Accessories,Columbia,Men,15.14,28.09,SKU-00202,5
+203,Allegra K Classic Skirts,Skirts,Allegra K,Men,27.4,51.45,SKU-00203,1
+204,Hurley Urban Underwear,Underwear,Hurley,Women,12.12,18.93,SKU-00204,10
+205,Calvin Klein Premium Active,Active,Calvin Klein,Men,43.71,106.03,SKU-00205,2
+206,True Religion Vintage Leggings,Leggings,True Religion,Women,12.04,31.46,SKU-00206,7
+207,Columbia Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Columbia,Women,11.31,21.92,SKU-00207,2
+208,Hanes Sport Socks & Hosiery,Socks & Hosiery,Hanes,Men,9.79,23.3,SKU-00208,10
+209,Tommy Hilfiger Comfort Socks & Hosiery,Socks & Hosiery,Tommy Hilfiger,Men,6.5,14.6,SKU-00209,3
+210,Adidas Original Sleep & Lounge,Sleep & Lounge,Adidas,Women,6.41,19.16,SKU-00210,6
+211,Volcom Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Volcom,Men,30.8,83.73,SKU-00211,1
+212,Hurley Slim Fit Outerwear & Coats,Outerwear & Coats,Hurley,Men,141.69,413.6,SKU-00212,9
+213,Volcom Slim Fit Outerwear & Coats,Outerwear & Coats,Volcom,Men,147.98,404.95,SKU-00213,3
+214,True Religion Slim Fit Skirts,Skirts,True Religion,Men,18.42,45.8,SKU-00214,1
+215,Diesel Premium Pants,Pants,Diesel,Women,41.28,66.33,SKU-00215,3
+216,Diesel Original Dresses,Dresses,Diesel,Women,39.82,110.97,SKU-00216,6
+217,Carhartt Classic Pants,Pants,Carhartt,Women,25.92,68.47,SKU-00217,4
+218,Polo Ralph Lauren Vintage Shorts,Shorts,Polo Ralph Lauren,Men,24.2,46.54,SKU-00218,4
+219,Polo Ralph Lauren Slim Fit Socks & Hosiery,Socks & Hosiery,Polo Ralph Lauren,Women,3.58,6.82,SKU-00219,1
+220,Under Armour Classic Accessories,Accessories,Under Armour,Women,18.2,41.61,SKU-00220,8
+221,Lucky Brand Sport Socks & Hosiery,Socks & Hosiery,Lucky Brand,Women,3.37,6.49,SKU-00221,4
+222,Carhartt Modern Socks & Hosiery,Socks & Hosiery,Carhartt,Women,2.46,7.27,SKU-00222,9
+223,Hanes Urban Dresses,Dresses,Hanes,Women,34.65,62.04,SKU-00223,5
+224,Lacoste Comfort Leggings,Leggings,Lacoste,Women,29.02,50.21,SKU-00224,8
+225,Carhartt Vintage Underwear,Underwear,Carhartt,Men,7.45,11.66,SKU-00225,4
+226,Allegra K Essential Underwear,Underwear,Allegra K,Men,10.88,25.34,SKU-00226,1
+227,Hugo Boss Comfort Socks & Hosiery,Socks & Hosiery,Hugo Boss,Men,3.71,9.68,SKU-00227,7
+228,Lacoste Pro Sleep & Lounge,Sleep & Lounge,Lacoste,Men,26.77,63.7,SKU-00228,7
+229,BCBGMAXAZRIA Classic Shorts,Shorts,BCBGMAXAZRIA,Women,21.0,38.06,SKU-00229,10
+230,Levi's Essential Sweaters,Sweaters,Levi's,Men,57.52,165.95,SKU-00230,8
+231,Levi's Regular Fit Swim,Swim,Levi's,Men,17.08,35.34,SKU-00231,7
+232,Diesel Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Diesel,Men,30.6,52.36,SKU-00232,1
+233,Nike Premium Blazers & Jackets,Blazers & Jackets,Nike,Women,32.05,57.26,SKU-00233,9
+234,True Religion Essential Underwear,Underwear,True Religion,Men,3.77,8.13,SKU-00234,2
+235,Columbia Regular Fit Jeans,Jeans,Columbia,Men,40.1,92.89,SKU-00235,8
+236,Columbia Modern Outerwear & Coats,Outerwear & Coats,Columbia,Men,124.44,298.93,SKU-00236,7
+237,Calvin Klein Sport Blazers & Jackets,Blazers & Jackets,Calvin Klein,Men,32.78,52.77,SKU-00237,9
+238,Under Armour Urban Skirts,Skirts,Under Armour,Women,30.49,85.41,SKU-00238,4
+239,Hugo Boss Regular Fit Tops & Tees,Tops & Tees,Hugo Boss,Women,18.1,36.28,SKU-00239,5
+240,Carhartt Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Carhartt,Men,29.3,55.35,SKU-00240,1
+241,Hugo Boss Classic Sweaters,Sweaters,Hugo Boss,Women,48.35,122.39,SKU-00241,4
+242,Dockers Urban Shorts,Shorts,Dockers,Men,20.25,49.01,SKU-00242,9
+243,Calvin Klein Essential Sleep & Lounge,Sleep & Lounge,Calvin Klein,Men,28.72,85.85,SKU-00243,3
+244,Levi's Classic Outerwear & Coats,Outerwear & Coats,Levi's,Women,119.28,252.34,SKU-00244,10
+245,Levi's Comfort Accessories,Accessories,Levi's,Men,35.69,63.35,SKU-00245,1
+246,Lacoste Regular Fit Accessories,Accessories,Lacoste,Men,15.73,46.55,SKU-00246,4
+247,Carhartt Regular Fit Suits & Sport Coats,Suits & Sport Coats,Carhartt,Men,168.25,374.02,SKU-00247,4
+248,Lacoste Vintage Underwear,Underwear,Lacoste,Men,14.9,37.14,SKU-00248,10
+249,Tommy Hilfiger Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Tommy Hilfiger,Men,14.87,23.25,SKU-00249,6
+250,Diesel Sport Jeans,Jeans,Diesel,Men,36.54,73.22,SKU-00250,9
+251,Volcom Modern Sleep & Lounge,Sleep & Lounge,Volcom,Women,26.7,79.59,SKU-00251,9
+252,Lucky Brand Comfort Active,Active,Lucky Brand,Men,21.47,63.26,SKU-00252,6
+253,Hugo Boss Sport Sweaters,Sweaters,Hugo Boss,Men,35.41,105.39,SKU-00253,8
+254,Hurley Sport Pants,Pants,Hurley,Men,39.91,109.19,SKU-00254,8
+255,Lacoste Essential Shorts,Shorts,Lacoste,Women,25.79,58.05,SKU-00255,6
+256,BCBGMAXAZRIA Regular Fit Socks & Hosiery,Socks & Hosiery,BCBGMAXAZRIA,Men,2.96,6.98,SKU-00256,10
+257,Hugo Boss Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hugo Boss,Men,24.43,39.39,SKU-00257,5
+258,Lacoste Original Suits & Sport Coats,Suits & Sport Coats,Lacoste,Men,98.28,264.36,SKU-00258,8
+259,Polo Ralph Lauren Comfort Jeans,Jeans,Polo Ralph Lauren,Women,19.34,50.74,SKU-00259,4
+260,Adidas Sport Jeans,Jeans,Adidas,Men,16.38,41.97,SKU-00260,4
+261,BCBGMAXAZRIA Sport Shorts,Shorts,BCBGMAXAZRIA,Women,23.87,49.5,SKU-00261,4
+262,Volcom Urban Sleep & Lounge,Sleep & Lounge,Volcom,Men,26.45,50.22,SKU-00262,2
+263,Hurley Modern Accessories,Accessories,Hurley,Men,38.17,103.63,SKU-00263,9
+264,Levi's Slim Fit Dresses,Dresses,Levi's,Women,72.16,213.72,SKU-00264,5
+265,Under Armour Regular Fit Shorts,Shorts,Under Armour,Women,29.87,63.78,SKU-00265,7
+266,Adidas Classic Dresses,Dresses,Adidas,Women,15.39,24.37,SKU-00266,2
+267,Levi's Pro Shorts,Shorts,Levi's,Women,15.52,44.25,SKU-00267,7
+268,Lacoste Comfort Skirts,Skirts,Lacoste,Men,10.63,26.94,SKU-00268,1
+269,Volcom Premium Swim,Swim,Volcom,Women,29.05,72.83,SKU-00269,7
+270,Lacoste Vintage Pants,Pants,Lacoste,Women,48.9,142.61,SKU-00270,5
+271,Diesel Pro Tops & Tees,Tops & Tees,Diesel,Women,4.77,11.95,SKU-00271,2
+272,True Religion Sport Leggings,Leggings,True Religion,Women,18.63,45.2,SKU-00272,4
+273,Volcom Sport Skirts,Skirts,Volcom,Men,25.06,64.28,SKU-00273,1
+274,Dockers Premium Sleep & Lounge,Sleep & Lounge,Dockers,Women,9.92,22.08,SKU-00274,1
+275,Levi's Regular Fit Outerwear & Coats,Outerwear & Coats,Levi's,Men,128.35,247.78,SKU-00275,9
+276,Lacoste Comfort Suits & Sport Coats,Suits & Sport Coats,Lacoste,Men,98.31,184.59,SKU-00276,9
+277,Volcom Premium Tops & Tees,Tops & Tees,Volcom,Women,12.83,33.22,SKU-00277,9
+278,Lucky Brand Essential Dresses,Dresses,Lucky Brand,Men,72.53,135.19,SKU-00278,2
+279,Calvin Klein Original Jumpsuits & Rompers,Jumpsuits & Rompers,Calvin Klein,Men,19.9,57.64,SKU-00279,6
+280,Calvin Klein Modern Underwear,Underwear,Calvin Klein,Men,7.01,14.75,SKU-00280,7
+281,True Religion Modern Pants,Pants,True Religion,Men,40.81,100.0,SKU-00281,4
+282,Columbia Premium Swim,Swim,Columbia,Women,22.32,34.91,SKU-00282,6
+283,Carhartt Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Carhartt,Women,34.14,74.2,SKU-00283,3
+284,True Religion Urban Blazers & Jackets,Blazers & Jackets,True Religion,Women,56.14,117.86,SKU-00284,10
+285,Lacoste Original Accessories,Accessories,Lacoste,Women,12.77,33.61,SKU-00285,3
+286,Polo Ralph Lauren Essential Sleep & Lounge,Sleep & Lounge,Polo Ralph Lauren,Women,9.91,15.69,SKU-00286,3
+287,Diesel Essential Outerwear & Coats,Outerwear & Coats,Diesel,Men,130.52,274.55,SKU-00287,8
+288,Hugo Boss Modern Suits & Sport Coats,Suits & Sport Coats,Hugo Boss,Men,78.24,218.07,SKU-00288,3
+289,Hanes Urban Socks & Hosiery,Socks & Hosiery,Hanes,Men,9.98,24.98,SKU-00289,10
+290,Hugo Boss Classic Jumpsuits & Rompers,Jumpsuits & Rompers,Hugo Boss,Women,10.4,27.73,SKU-00290,7
+291,Hurley Essential Socks & Hosiery,Socks & Hosiery,Hurley,Men,8.96,23.7,SKU-00291,10
+292,True Religion Premium Jumpsuits & Rompers,Jumpsuits & Rompers,True Religion,Women,47.89,119.39,SKU-00292,6
+293,Hugo Boss Sport Swim,Swim,Hugo Boss,Men,8.0,16.7,SKU-00293,10
+294,Lacoste Vintage Dresses,Dresses,Lacoste,Women,50.79,106.61,SKU-00294,9
+295,Tommy Hilfiger Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Tommy Hilfiger,Women,40.87,64.44,SKU-00295,9
+296,Carhartt Classic Suits & Sport Coats,Suits & Sport Coats,Carhartt,Women,135.38,242.67,SKU-00296,2
+297,Hanes Premium Outerwear & Coats,Outerwear & Coats,Hanes,Men,134.42,314.16,SKU-00297,9
+298,Columbia Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Columbia,Men,15.3,43.49,SKU-00298,4
+299,Allegra K Vintage Suits & Sport Coats,Suits & Sport Coats,Allegra K,Men,191.39,462.85,SKU-00299,9
+300,Calvin Klein Essential Underwear,Underwear,Calvin Klein,Men,9.16,19.06,SKU-00300,1
+301,Adidas Slim Fit Dresses,Dresses,Adidas,Men,32.38,88.98,SKU-00301,1
+302,Adidas Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Adidas,Women,30.06,65.33,SKU-00302,8
+303,Columbia Classic Socks & Hosiery,Socks & Hosiery,Columbia,Women,4.19,7.92,SKU-00303,1
+304,Hugo Boss Urban Shorts,Shorts,Hugo Boss,Men,16.93,27.43,SKU-00304,4
+305,Polo Ralph Lauren Premium Shorts,Shorts,Polo Ralph Lauren,Men,9.76,26.77,SKU-00305,5
+306,Polo Ralph Lauren Sport Blazers & Jackets,Blazers & Jackets,Polo Ralph Lauren,Women,86.95,210.76,SKU-00306,3
+307,BCBGMAXAZRIA Comfort Skirts,Skirts,BCBGMAXAZRIA,Women,20.47,48.54,SKU-00307,8
+308,Hugo Boss Classic Accessories,Accessories,Hugo Boss,Women,19.75,50.97,SKU-00308,7
+309,Lacoste Sport Dresses,Dresses,Lacoste,Men,69.12,166.41,SKU-00309,7
+310,Lucky Brand Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Lucky Brand,Women,46.28,93.75,SKU-00310,3
+311,Allegra K Slim Fit Socks & Hosiery,Socks & Hosiery,Allegra K,Women,8.14,19.75,SKU-00311,1
+312,Adidas Premium Leggings,Leggings,Adidas,Men,6.72,11.49,SKU-00312,1
+313,Calvin Klein Premium Jumpsuits & Rompers,Jumpsuits & Rompers,Calvin Klein,Women,46.26,89.94,SKU-00313,3
+314,Nike Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Nike,Women,17.55,40.47,SKU-00314,3
+315,Calvin Klein Slim Fit Shorts,Shorts,Calvin Klein,Women,16.52,26.49,SKU-00315,7
+316,Adidas Urban Jeans,Jeans,Adidas,Men,55.34,151.23,SKU-00316,9
+317,Calvin Klein Modern Underwear,Underwear,Calvin Klein,Men,3.24,5.08,SKU-00317,3
+318,Adidas Classic Swim,Swim,Adidas,Women,10.53,21.68,SKU-00318,6
+319,True Religion Urban Skirts,Skirts,True Religion,Men,26.43,57.66,SKU-00319,10
+320,BCBGMAXAZRIA Slim Fit Sweaters,Sweaters,BCBGMAXAZRIA,Men,33.39,84.18,SKU-00320,5
+321,Hanes Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Men,24.37,42.22,SKU-00321,3
+322,Calvin Klein Sport Sweaters,Sweaters,Calvin Klein,Women,50.48,137.91,SKU-00322,5
+323,Polo Ralph Lauren Pro Leggings,Leggings,Polo Ralph Lauren,Men,27.47,58.76,SKU-00323,1
+324,Levi's Regular Fit Skirts,Skirts,Levi's,Women,39.73,74.56,SKU-00324,10
+325,Polo Ralph Lauren Classic Sweaters,Sweaters,Polo Ralph Lauren,Men,16.15,26.61,SKU-00325,10
+326,Tommy Hilfiger Essential Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Women,37.05,107.0,SKU-00326,1
+327,True Religion Modern Suits & Sport Coats,Suits & Sport Coats,True Religion,Women,178.39,375.52,SKU-00327,3
+328,True Religion Original Sleep & Lounge,Sleep & Lounge,True Religion,Women,11.77,24.39,SKU-00328,2
+329,Hugo Boss Classic Accessories,Accessories,Hugo Boss,Men,20.24,35.83,SKU-00329,9
+330,BCBGMAXAZRIA Premium Suits & Sport Coats,Suits & Sport Coats,BCBGMAXAZRIA,Men,33.2,75.02,SKU-00330,9
+331,Allegra K Regular Fit Blazers & Jackets,Blazers & Jackets,Allegra K,Women,27.31,54.07,SKU-00331,4
+332,Hugo Boss Sport Accessories,Accessories,Hugo Boss,Women,6.77,11.84,SKU-00332,6
+333,BCBGMAXAZRIA Original Pants,Pants,BCBGMAXAZRIA,Men,38.3,100.7,SKU-00333,7
+334,Allegra K Essential Shorts,Shorts,Allegra K,Women,20.93,59.6,SKU-00334,10
+335,Calvin Klein Modern Dresses,Dresses,Calvin Klein,Women,12.52,25.4,SKU-00335,9
+336,Nike Original Swim,Swim,Nike,Women,26.25,50.66,SKU-00336,7
+337,Hurley Original Jumpsuits & Rompers,Jumpsuits & Rompers,Hurley,Men,12.73,26.22,SKU-00337,5
+338,Adidas Sport Active,Active,Adidas,Men,13.89,40.1,SKU-00338,8
+339,Lucky Brand Sport Leggings,Leggings,Lucky Brand,Men,27.63,65.63,SKU-00339,7
+340,Allegra K Slim Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Allegra K,Men,27.89,48.78,SKU-00340,6
+341,Hugo Boss Slim Fit Sleep & Lounge,Sleep & Lounge,Hugo Boss,Women,24.75,60.61,SKU-00341,3
+342,BCBGMAXAZRIA Original Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,BCBGMAXAZRIA,Men,21.2,44.56,SKU-00342,1
+343,BCBGMAXAZRIA Comfort Active,Active,BCBGMAXAZRIA,Women,10.32,15.75,SKU-00343,6
+344,Under Armour Premium Blazers & Jackets,Blazers & Jackets,Under Armour,Men,90.61,267.74,SKU-00344,10
+345,Levi's Classic Socks & Hosiery,Socks & Hosiery,Levi's,Women,2.64,4.41,SKU-00345,10
+346,BCBGMAXAZRIA Urban Suits & Sport Coats,Suits & Sport Coats,BCBGMAXAZRIA,Women,90.74,192.39,SKU-00346,6
+347,Under Armour Premium Dresses,Dresses,Under Armour,Women,55.58,138.2,SKU-00347,10
+348,Nike Pro Sweaters,Sweaters,Nike,Women,39.59,94.19,SKU-00348,1
+349,BCBGMAXAZRIA Slim Fit Dresses,Dresses,BCBGMAXAZRIA,Women,70.32,105.92,SKU-00349,9
+350,Calvin Klein Essential Tops & Tees,Tops & Tees,Calvin Klein,Men,24.74,59.67,SKU-00350,3
+351,Adidas Premium Skirts,Skirts,Adidas,Women,12.69,32.88,SKU-00351,4
+352,Tommy Hilfiger Modern Suits & Sport Coats,Suits & Sport Coats,Tommy Hilfiger,Women,70.07,194.37,SKU-00352,4
+353,Volcom Sport Outerwear & Coats,Outerwear & Coats,Volcom,Women,103.09,183.08,SKU-00353,3
+354,Lucky Brand Classic Socks & Hosiery,Socks & Hosiery,Lucky Brand,Men,2.49,3.87,SKU-00354,3
+355,Tommy Hilfiger Pro Active,Active,Tommy Hilfiger,Men,27.15,79.18,SKU-00355,6
+356,Tommy Hilfiger Modern Underwear,Underwear,Tommy Hilfiger,Women,6.85,17.27,SKU-00356,1
+357,Diesel Sport Leggings,Leggings,Diesel,Women,27.32,59.62,SKU-00357,3
+358,Hanes Modern Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Men,46.56,120.48,SKU-00358,3
+359,Hugo Boss Premium Accessories,Accessories,Hugo Boss,Women,11.84,20.55,SKU-00359,1
+360,Hurley Regular Fit Swim,Swim,Hurley,Men,9.25,27.17,SKU-00360,9
+361,Adidas Original Dresses,Dresses,Adidas,Women,74.42,184.66,SKU-00361,5
+362,Allegra K Sport Skirts,Skirts,Allegra K,Men,12.8,36.04,SKU-00362,6
+363,Columbia Regular Fit Sweaters,Sweaters,Columbia,Women,18.67,43.6,SKU-00363,6
+364,BCBGMAXAZRIA Original Swim,Swim,BCBGMAXAZRIA,Men,14.57,39.36,SKU-00364,4
+365,Lucky Brand Classic Accessories,Accessories,Lucky Brand,Men,14.95,29.77,SKU-00365,3
+366,Under Armour Modern Tops & Tees,Tops & Tees,Under Armour,Women,7.1,12.07,SKU-00366,1
+367,Dockers Sport Socks & Hosiery,Socks & Hosiery,Dockers,Women,4.04,8.2,SKU-00367,9
+368,Lucky Brand Pro Accessories,Accessories,Lucky Brand,Women,2.84,8.08,SKU-00368,8
+369,Volcom Essential Shorts,Shorts,Volcom,Women,25.22,64.24,SKU-00369,7
+370,Hanes Premium Pants,Pants,Hanes,Men,20.54,44.87,SKU-00370,8
+371,Polo Ralph Lauren Pro Pants,Pants,Polo Ralph Lauren,Women,42.71,79.13,SKU-00371,9
+372,Adidas Original Skirts,Skirts,Adidas,Women,28.7,68.8,SKU-00372,1
+373,Diesel Sport Dresses,Dresses,Diesel,Men,41.24,98.54,SKU-00373,7
+374,Levi's Urban Sweaters,Sweaters,Levi's,Men,58.61,134.59,SKU-00374,10
+375,Tommy Hilfiger Urban Blazers & Jackets,Blazers & Jackets,Tommy Hilfiger,Women,48.48,126.37,SKU-00375,9
+376,Tommy Hilfiger Original Blazers & Jackets,Blazers & Jackets,Tommy Hilfiger,Women,30.98,57.75,SKU-00376,3
+377,Carhartt Sport Tops & Tees,Tops & Tees,Carhartt,Women,16.13,36.56,SKU-00377,6
+378,Diesel Sport Jumpsuits & Rompers,Jumpsuits & Rompers,Diesel,Men,15.61,30.64,SKU-00378,3
+379,Adidas Sport Underwear,Underwear,Adidas,Men,5.6,10.13,SKU-00379,2
+380,Volcom Slim Fit Pants,Pants,Volcom,Women,46.31,92.58,SKU-00380,4
+381,Tommy Hilfiger Modern Pants,Pants,Tommy Hilfiger,Women,45.69,123.57,SKU-00381,4
+382,Hurley Essential Sweaters,Sweaters,Hurley,Women,33.29,55.62,SKU-00382,10
+383,Hugo Boss Modern Accessories,Accessories,Hugo Boss,Women,20.17,38.59,SKU-00383,5
+384,Hurley Modern Active,Active,Hurley,Women,28.1,64.62,SKU-00384,9
+385,Columbia Classic Dresses,Dresses,Columbia,Men,15.47,32.51,SKU-00385,10
+386,Under Armour Classic Underwear,Underwear,Under Armour,Men,5.29,14.5,SKU-00386,7
+387,Hugo Boss Original Shorts,Shorts,Hugo Boss,Men,19.92,53.16,SKU-00387,5
+388,Allegra K Modern Shorts,Shorts,Allegra K,Men,13.71,34.51,SKU-00388,5
+389,Dockers Classic Skirts,Skirts,Dockers,Women,14.83,28.53,SKU-00389,8
+390,Tommy Hilfiger Regular Fit Dresses,Dresses,Tommy Hilfiger,Men,52.08,79.78,SKU-00390,4
+391,Columbia Urban Jeans,Jeans,Columbia,Women,39.19,77.24,SKU-00391,5
+392,Volcom Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Volcom,Women,21.74,52.21,SKU-00392,4
+393,Carhartt Sport Suits & Sport Coats,Suits & Sport Coats,Carhartt,Men,189.48,313.05,SKU-00393,3
+394,Volcom Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Volcom,Women,40.66,111.22,SKU-00394,4
+395,Carhartt Pro Dresses,Dresses,Carhartt,Men,48.75,145.27,SKU-00395,1
+396,Allegra K Essential Jeans,Jeans,Allegra K,Women,22.05,57.47,SKU-00396,9
+397,Diesel Urban Skirts,Skirts,Diesel,Women,28.74,60.98,SKU-00397,9
+398,Hugo Boss Pro Swim,Swim,Hugo Boss,Women,29.38,79.2,SKU-00398,7
+399,Under Armour Essential Skirts,Skirts,Under Armour,Women,26.6,50.78,SKU-00399,8
+400,Hugo Boss Slim Fit Tops & Tees,Tops & Tees,Hugo Boss,Men,17.4,51.0,SKU-00400,5
+401,Lucky Brand Sport Sweaters,Sweaters,Lucky Brand,Women,18.11,37.12,SKU-00401,6
+402,Levi's Essential Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Levi's,Men,22.07,55.94,SKU-00402,10
+403,BCBGMAXAZRIA Pro Accessories,Accessories,BCBGMAXAZRIA,Men,35.85,54.79,SKU-00403,1
+404,Lucky Brand Vintage Active,Active,Lucky Brand,Women,11.35,27.76,SKU-00404,2
+405,True Religion Slim Fit Jumpsuits & Rompers,Jumpsuits & Rompers,True Religion,Women,33.59,65.3,SKU-00405,9
+406,Hugo Boss Premium Blazers & Jackets,Blazers & Jackets,Hugo Boss,Men,91.4,151.1,SKU-00406,1
+407,Tommy Hilfiger Pro Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Men,10.57,22.73,SKU-00407,8
+408,Carhartt Slim Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Carhartt,Women,48.68,80.75,SKU-00408,4
+409,Adidas Modern Socks & Hosiery,Socks & Hosiery,Adidas,Men,8.97,15.95,SKU-00409,8
+410,Levi's Slim Fit Tops & Tees,Tops & Tees,Levi's,Men,19.02,54.07,SKU-00410,10
+411,True Religion Premium Pants,Pants,True Religion,Women,38.37,61.21,SKU-00411,6
+412,Lacoste Classic Swim,Swim,Lacoste,Women,35.5,86.53,SKU-00412,1
+413,Tommy Hilfiger Original Accessories,Accessories,Tommy Hilfiger,Men,8.5,13.52,SKU-00413,6
+414,Diesel Slim Fit Outerwear & Coats,Outerwear & Coats,Diesel,Men,110.99,286.03,SKU-00414,1
+415,Calvin Klein Modern Shorts,Shorts,Calvin Klein,Women,14.24,42.25,SKU-00415,10
+416,Lacoste Vintage Sweaters,Sweaters,Lacoste,Women,53.78,115.32,SKU-00416,4
+417,Hugo Boss Regular Fit Outerwear & Coats,Outerwear & Coats,Hugo Boss,Men,89.33,263.72,SKU-00417,10
+418,Allegra K Sport Skirts,Skirts,Allegra K,Women,32.51,80.05,SKU-00418,10
+419,Carhartt Urban Underwear,Underwear,Carhartt,Men,4.17,9.98,SKU-00419,4
+420,Lucky Brand Essential Leggings,Leggings,Lucky Brand,Men,11.81,20.75,SKU-00420,4
+421,Polo Ralph Lauren Classic Sleep & Lounge,Sleep & Lounge,Polo Ralph Lauren,Men,26.12,76.49,SKU-00421,9
+422,Diesel Slim Fit Blazers & Jackets,Blazers & Jackets,Diesel,Men,49.2,137.38,SKU-00422,7
+423,Calvin Klein Premium Swim,Swim,Calvin Klein,Women,23.95,40.66,SKU-00423,6
+424,Diesel Classic Skirts,Skirts,Diesel,Women,31.22,48.17,SKU-00424,9
+425,Lucky Brand Sport Sweaters,Sweaters,Lucky Brand,Men,18.48,37.67,SKU-00425,3
+426,Hugo Boss Classic Sleep & Lounge,Sleep & Lounge,Hugo Boss,Women,13.26,23.06,SKU-00426,7
+427,Polo Ralph Lauren Classic Pants,Pants,Polo Ralph Lauren,Men,23.03,46.16,SKU-00427,4
+428,Volcom Regular Fit Tops & Tees,Tops & Tees,Volcom,Men,23.25,68.3,SKU-00428,1
+429,BCBGMAXAZRIA Modern Suits & Sport Coats,Suits & Sport Coats,BCBGMAXAZRIA,Men,55.11,153.91,SKU-00429,4
+430,Hugo Boss Vintage Tops & Tees,Tops & Tees,Hugo Boss,Women,11.8,25.49,SKU-00430,2
+431,Hurley Pro Tops & Tees,Tops & Tees,Hurley,Men,24.15,46.22,SKU-00431,10
+432,Nike Pro Jumpsuits & Rompers,Jumpsuits & Rompers,Nike,Men,43.39,102.69,SKU-00432,3
+433,Polo Ralph Lauren Classic Accessories,Accessories,Polo Ralph Lauren,Women,27.48,79.86,SKU-00433,10
+434,Lacoste Sport Shorts,Shorts,Lacoste,Men,19.17,51.49,SKU-00434,8
+435,Polo Ralph Lauren Classic Sweaters,Sweaters,Polo Ralph Lauren,Women,51.94,145.52,SKU-00435,4
+436,Under Armour Urban Accessories,Accessories,Under Armour,Women,37.96,100.28,SKU-00436,9
+437,Hugo Boss Slim Fit Sweaters,Sweaters,Hugo Boss,Women,56.2,126.76,SKU-00437,1
+438,Carhartt Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Carhartt,Women,35.56,60.89,SKU-00438,2
+439,Volcom Original Socks & Hosiery,Socks & Hosiery,Volcom,Women,7.61,20.76,SKU-00439,9
+440,BCBGMAXAZRIA Premium Accessories,Accessories,BCBGMAXAZRIA,Men,31.46,77.91,SKU-00440,4
+441,True Religion Regular Fit Suits & Sport Coats,Suits & Sport Coats,True Religion,Men,167.97,446.63,SKU-00441,2
+442,Hurley Premium Sleep & Lounge,Sleep & Lounge,Hurley,Men,23.59,61.36,SKU-00442,2
+443,Diesel Original Suits & Sport Coats,Suits & Sport Coats,Diesel,Women,62.23,116.32,SKU-00443,9
+444,Hurley Vintage Dresses,Dresses,Hurley,Men,59.37,114.5,SKU-00444,5
+445,Hanes Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Hanes,Women,25.62,71.34,SKU-00445,5
+446,Hugo Boss Comfort Accessories,Accessories,Hugo Boss,Women,9.59,20.24,SKU-00446,4
+447,Columbia Urban Accessories,Accessories,Columbia,Men,5.9,10.42,SKU-00447,1
+448,Lacoste Comfort Pants,Pants,Lacoste,Women,19.61,48.32,SKU-00448,10
+449,Volcom Classic Sleep & Lounge,Sleep & Lounge,Volcom,Men,18.19,35.42,SKU-00449,3
+450,Calvin Klein Vintage Suits & Sport Coats,Suits & Sport Coats,Calvin Klein,Women,73.48,181.06,SKU-00450,4
+451,True Religion Comfort Active,Active,True Religion,Women,31.97,76.25,SKU-00451,9
+452,Carhartt Original Accessories,Accessories,Carhartt,Men,38.65,96.42,SKU-00452,1
+453,Polo Ralph Lauren Sport Suits & Sport Coats,Suits & Sport Coats,Polo Ralph Lauren,Women,39.4,117.81,SKU-00453,6
+454,Levi's Modern Jeans,Jeans,Levi's,Men,18.27,35.0,SKU-00454,6
+455,Columbia Sport Socks & Hosiery,Socks & Hosiery,Columbia,Men,3.38,10.02,SKU-00455,8
+456,Polo Ralph Lauren Original Outerwear & Coats,Outerwear & Coats,Polo Ralph Lauren,Women,124.57,329.51,SKU-00456,10
+457,Lucky Brand Urban Tops & Tees,Tops & Tees,Lucky Brand,Women,9.7,27.0,SKU-00457,1
+458,Hanes Original Blazers & Jackets,Blazers & Jackets,Hanes,Men,32.09,86.76,SKU-00458,4
+459,Polo Ralph Lauren Regular Fit Leggings,Leggings,Polo Ralph Lauren,Women,9.67,14.84,SKU-00459,4
+460,True Religion Vintage Blazers & Jackets,Blazers & Jackets,True Religion,Men,28.59,64.49,SKU-00460,9
+461,Adidas Classic Leggings,Leggings,Adidas,Men,23.28,38.61,SKU-00461,5
+462,True Religion Premium Jumpsuits & Rompers,Jumpsuits & Rompers,True Religion,Men,38.32,96.19,SKU-00462,5
+463,Calvin Klein Sport Dresses,Dresses,Calvin Klein,Men,30.22,48.03,SKU-00463,3
+464,Lacoste Slim Fit Underwear,Underwear,Lacoste,Women,7.84,12.15,SKU-00464,6
+465,Lacoste Vintage Pants,Pants,Lacoste,Women,35.13,100.48,SKU-00465,7
+466,Levi's Regular Fit Outerwear & Coats,Outerwear & Coats,Levi's,Women,146.76,422.02,SKU-00466,6
+467,Volcom Original Pants,Pants,Volcom,Men,39.73,96.77,SKU-00467,7
+468,Carhartt Urban Jeans,Jeans,Carhartt,Women,50.55,110.7,SKU-00468,9
+469,Levi's Pro Leggings,Leggings,Levi's,Women,29.47,80.83,SKU-00469,9
+470,Hanes Original Accessories,Accessories,Hanes,Men,16.48,48.56,SKU-00470,6
+471,Nike Modern Pants,Pants,Nike,Women,12.76,20.18,SKU-00471,10
+472,Lacoste Essential Pants,Pants,Lacoste,Women,39.88,66.01,SKU-00472,4
+473,Columbia Comfort Shorts,Shorts,Columbia,Women,8.91,25.46,SKU-00473,1
+474,Under Armour Classic Outerwear & Coats,Outerwear & Coats,Under Armour,Men,77.02,127.01,SKU-00474,8
+475,Hanes Vintage Active,Active,Hanes,Women,34.8,89.48,SKU-00475,8
+476,Tommy Hilfiger Sport Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Men,32.33,75.34,SKU-00476,1
+477,Polo Ralph Lauren Essential Active,Active,Polo Ralph Lauren,Women,20.32,46.38,SKU-00477,4
+478,Tommy Hilfiger Modern Jeans,Jeans,Tommy Hilfiger,Women,36.69,60.41,SKU-00478,3
+479,Adidas Sport Leggings,Leggings,Adidas,Women,11.89,30.83,SKU-00479,6
+480,Hurley Sport Shorts,Shorts,Hurley,Women,7.78,18.7,SKU-00480,3
+481,BCBGMAXAZRIA Comfort Outerwear & Coats,Outerwear & Coats,BCBGMAXAZRIA,Men,73.62,213.0,SKU-00481,8
+482,Volcom Slim Fit Active,Active,Volcom,Men,8.27,18.37,SKU-00482,6
+483,Lacoste Essential Leggings,Leggings,Lacoste,Women,29.51,84.65,SKU-00483,9
+484,Tommy Hilfiger Premium Pants,Pants,Tommy Hilfiger,Women,27.91,49.56,SKU-00484,9
+485,Hanes Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Men,45.06,81.37,SKU-00485,3
+486,Carhartt Slim Fit Socks & Hosiery,Socks & Hosiery,Carhartt,Women,9.58,28.01,SKU-00486,6
+487,BCBGMAXAZRIA Comfort Sweaters,Sweaters,BCBGMAXAZRIA,Women,32.47,53.55,SKU-00487,7
+488,Volcom Classic Underwear,Underwear,Volcom,Women,7.46,13.84,SKU-00488,5
+489,Adidas Slim Fit Skirts,Skirts,Adidas,Men,36.59,62.64,SKU-00489,10
+490,Levi's Regular Fit Accessories,Accessories,Levi's,Women,3.32,8.51,SKU-00490,1
+491,Diesel Sport Pants,Pants,Diesel,Women,29.49,78.75,SKU-00491,10
+492,Polo Ralph Lauren Premium Suits & Sport Coats,Suits & Sport Coats,Polo Ralph Lauren,Women,77.13,219.99,SKU-00492,10
+493,Polo Ralph Lauren Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Polo Ralph Lauren,Women,40.11,69.0,SKU-00493,4
+494,Hurley Vintage Pants,Pants,Hurley,Women,43.47,86.18,SKU-00494,3
+495,Levi's Slim Fit Underwear,Underwear,Levi's,Women,10.06,19.88,SKU-00495,1
+496,Allegra K Sport Blazers & Jackets,Blazers & Jackets,Allegra K,Men,50.18,148.54,SKU-00496,2
+497,Hanes Original Jeans,Jeans,Hanes,Women,38.64,91.75,SKU-00497,3
+498,Volcom Classic Underwear,Underwear,Volcom,Women,9.46,18.98,SKU-00498,9
+499,Adidas Original Accessories,Accessories,Adidas,Women,26.14,50.92,SKU-00499,8
+500,True Religion Urban Socks & Hosiery,Socks & Hosiery,True Religion,Women,9.32,18.44,SKU-00500,9
+501,Hugo Boss Urban Leggings,Leggings,Hugo Boss,Women,11.98,30.77,SKU-00501,4
+502,Carhartt Premium Blazers & Jackets,Blazers & Jackets,Carhartt,Women,32.93,76.53,SKU-00502,3
+503,Lucky Brand Regular Fit Swim,Swim,Lucky Brand,Men,12.47,30.37,SKU-00503,9
+504,Hurley Comfort Pants,Pants,Hurley,Women,37.89,83.58,SKU-00504,6
+505,Lucky Brand Essential Active,Active,Lucky Brand,Men,41.29,63.56,SKU-00505,1
+506,Tommy Hilfiger Essential Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Women,23.07,58.38,SKU-00506,8
+507,Tommy Hilfiger Modern Blazers & Jackets,Blazers & Jackets,Tommy Hilfiger,Men,51.34,132.77,SKU-00507,1
+508,Lacoste Urban Active,Active,Lacoste,Women,43.76,77.47,SKU-00508,1
+509,Diesel Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Diesel,Men,14.1,34.88,SKU-00509,10
+510,Volcom Classic Tops & Tees,Tops & Tees,Volcom,Women,22.47,63.28,SKU-00510,10
+511,Diesel Original Skirts,Skirts,Diesel,Men,38.7,93.04,SKU-00511,8
+512,Calvin Klein Vintage Sweaters,Sweaters,Calvin Klein,Men,49.98,125.09,SKU-00512,4
+513,Levi's Classic Socks & Hosiery,Socks & Hosiery,Levi's,Men,4.16,10.61,SKU-00513,2
+514,Under Armour Original Swim,Swim,Under Armour,Men,28.22,56.06,SKU-00514,5
+515,Columbia Slim Fit Pants,Pants,Columbia,Men,21.66,37.5,SKU-00515,6
+516,Hanes Premium Active,Active,Hanes,Women,10.71,23.66,SKU-00516,1
+517,Diesel Pro Swim,Swim,Diesel,Men,9.65,17.83,SKU-00517,7
+518,BCBGMAXAZRIA Sport Blazers & Jackets,Blazers & Jackets,BCBGMAXAZRIA,Women,16.78,42.46,SKU-00518,1
+519,Under Armour Premium Swim,Swim,Under Armour,Men,39.26,100.99,SKU-00519,5
+520,Hurley Pro Pants,Pants,Hurley,Women,36.2,54.74,SKU-00520,2
+521,Levi's Regular Fit Dresses,Dresses,Levi's,Men,30.88,90.52,SKU-00521,1
+522,Dockers Slim Fit Tops & Tees,Tops & Tees,Dockers,Women,16.16,46.66,SKU-00522,4
+523,Carhartt Pro Sweaters,Sweaters,Carhartt,Men,40.95,69.53,SKU-00523,6
+524,Columbia Classic Underwear,Underwear,Columbia,Women,4.38,9.71,SKU-00524,10
+525,Carhartt Essential Skirts,Skirts,Carhartt,Men,17.24,31.27,SKU-00525,1
+526,Hanes Sport Socks & Hosiery,Socks & Hosiery,Hanes,Women,6.02,17.73,SKU-00526,6
+527,Levi's Original Outerwear & Coats,Outerwear & Coats,Levi's,Women,129.17,303.43,SKU-00527,8
+528,Nike Urban Swim,Swim,Nike,Women,10.41,26.55,SKU-00528,4
+529,Adidas Sport Leggings,Leggings,Adidas,Women,26.6,78.92,SKU-00529,9
+530,Lucky Brand Premium Swim,Swim,Lucky Brand,Women,26.71,67.03,SKU-00530,5
+531,Columbia Slim Fit Active,Active,Columbia,Women,25.1,70.43,SKU-00531,1
+532,Lucky Brand Urban Pants,Pants,Lucky Brand,Women,15.76,29.33,SKU-00532,3
+533,Volcom Pro Active,Active,Volcom,Women,27.45,50.62,SKU-00533,5
+534,Hanes Sport Sleep & Lounge,Sleep & Lounge,Hanes,Men,14.49,31.32,SKU-00534,7
+535,Tommy Hilfiger Regular Fit Suits & Sport Coats,Suits & Sport Coats,Tommy Hilfiger,Women,63.75,179.92,SKU-00535,2
+536,True Religion Modern Jumpsuits & Rompers,Jumpsuits & Rompers,True Religion,Women,45.2,70.45,SKU-00536,6
+537,Polo Ralph Lauren Pro Outerwear & Coats,Outerwear & Coats,Polo Ralph Lauren,Women,79.87,172.68,SKU-00537,8
+538,Lucky Brand Sport Suits & Sport Coats,Suits & Sport Coats,Lucky Brand,Men,45.4,124.28,SKU-00538,4
+539,Hanes Pro Pants,Pants,Hanes,Men,22.09,39.01,SKU-00539,2
+540,Dockers Classic Suits & Sport Coats,Suits & Sport Coats,Dockers,Women,62.49,151.45,SKU-00540,7
+541,Lacoste Essential Accessories,Accessories,Lacoste,Men,37.69,60.49,SKU-00541,7
+542,Calvin Klein Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Calvin Klein,Men,19.72,29.89,SKU-00542,4
+543,Lacoste Pro Jeans,Jeans,Lacoste,Men,36.31,71.83,SKU-00543,9
+544,True Religion Original Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,True Religion,Women,39.31,106.47,SKU-00544,9
+545,Nike Slim Fit Tops & Tees,Tops & Tees,Nike,Women,7.33,11.45,SKU-00545,2
+546,BCBGMAXAZRIA Sport Sweaters,Sweaters,BCBGMAXAZRIA,Men,31.87,65.24,SKU-00546,6
+547,Columbia Comfort Dresses,Dresses,Columbia,Men,52.46,136.03,SKU-00547,7
+548,BCBGMAXAZRIA Slim Fit Tops & Tees,Tops & Tees,BCBGMAXAZRIA,Women,22.52,46.25,SKU-00548,3
+549,Columbia Essential Sleep & Lounge,Sleep & Lounge,Columbia,Women,21.7,48.14,SKU-00549,2
+550,BCBGMAXAZRIA Comfort Sweaters,Sweaters,BCBGMAXAZRIA,Women,14.0,31.51,SKU-00550,2
+551,Carhartt Slim Fit Swim,Swim,Carhartt,Women,16.93,48.45,SKU-00551,4
+552,Carhartt Essential Suits & Sport Coats,Suits & Sport Coats,Carhartt,Men,90.96,255.95,SKU-00552,3
+553,Under Armour Essential Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Under Armour,Women,24.31,38.79,SKU-00553,8
+554,Dockers Essential Pants,Pants,Dockers,Men,47.66,120.98,SKU-00554,10
+555,Nike Premium Suits & Sport Coats,Suits & Sport Coats,Nike,Women,38.0,87.95,SKU-00555,5
+556,Volcom Essential Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Volcom,Women,20.69,42.04,SKU-00556,9
+557,Lucky Brand Original Jeans,Jeans,Lucky Brand,Women,35.64,79.79,SKU-00557,6
+558,Lucky Brand Essential Outerwear & Coats,Outerwear & Coats,Lucky Brand,Men,31.23,88.06,SKU-00558,10
+559,BCBGMAXAZRIA Regular Fit Sleep & Lounge,Sleep & Lounge,BCBGMAXAZRIA,Men,17.6,46.81,SKU-00559,4
+560,Hanes Vintage Dresses,Dresses,Hanes,Women,16.96,39.89,SKU-00560,8
+561,Volcom Pro Shorts,Shorts,Volcom,Women,26.11,46.04,SKU-00561,9
+562,Carhartt Slim Fit Shorts,Shorts,Carhartt,Women,12.48,30.3,SKU-00562,10
+563,Lacoste Sport Blazers & Jackets,Blazers & Jackets,Lacoste,Men,59.93,134.66,SKU-00563,4
+564,Polo Ralph Lauren Sport Dresses,Dresses,Polo Ralph Lauren,Women,50.19,108.93,SKU-00564,4
+565,BCBGMAXAZRIA Modern Shorts,Shorts,BCBGMAXAZRIA,Women,13.34,38.9,SKU-00565,1
+566,Allegra K Urban Blazers & Jackets,Blazers & Jackets,Allegra K,Men,45.51,136.03,SKU-00566,7
+567,Under Armour Regular Fit Leggings,Leggings,Under Armour,Men,18.25,53.42,SKU-00567,6
+568,Hanes Vintage Skirts,Skirts,Hanes,Women,33.77,88.08,SKU-00568,4
+569,Polo Ralph Lauren Comfort Accessories,Accessories,Polo Ralph Lauren,Women,19.2,46.05,SKU-00569,3
+570,Diesel Essential Swim,Swim,Diesel,Women,22.69,44.91,SKU-00570,9
+571,BCBGMAXAZRIA Classic Socks & Hosiery,Socks & Hosiery,BCBGMAXAZRIA,Women,6.44,18.81,SKU-00571,10
+572,Diesel Original Swim,Swim,Diesel,Men,20.46,44.67,SKU-00572,10
+573,Levi's Classic Tops & Tees,Tops & Tees,Levi's,Women,19.25,34.7,SKU-00573,5
+574,Adidas Classic Blazers & Jackets,Blazers & Jackets,Adidas,Women,16.41,27.34,SKU-00574,8
+575,Adidas Premium Underwear,Underwear,Adidas,Women,8.28,22.8,SKU-00575,9
+576,Carhartt Modern Leggings,Leggings,Carhartt,Men,28.15,56.08,SKU-00576,8
+577,Columbia Slim Fit Pants,Pants,Columbia,Women,34.64,91.77,SKU-00577,4
+578,Columbia Essential Dresses,Dresses,Columbia,Women,41.62,101.6,SKU-00578,9
+579,Nike Urban Jeans,Jeans,Nike,Men,49.06,94.45,SKU-00579,7
+580,Carhartt Original Active,Active,Carhartt,Men,21.33,59.21,SKU-00580,1
+581,True Religion Urban Active,Active,True Religion,Men,24.22,67.02,SKU-00581,2
+582,Lacoste Slim Fit Suits & Sport Coats,Suits & Sport Coats,Lacoste,Men,64.79,113.88,SKU-00582,5
+583,Under Armour Premium Shorts,Shorts,Under Armour,Men,8.98,15.11,SKU-00583,10
+584,Hugo Boss Original Suits & Sport Coats,Suits & Sport Coats,Hugo Boss,Men,36.29,87.12,SKU-00584,8
+585,Carhartt Modern Outerwear & Coats,Outerwear & Coats,Carhartt,Women,115.1,212.95,SKU-00585,7
+586,Under Armour Original Sweaters,Sweaters,Under Armour,Women,33.41,66.76,SKU-00586,7
+587,Under Armour Essential Active,Active,Under Armour,Men,42.63,123.84,SKU-00587,10
+588,BCBGMAXAZRIA Original Outerwear & Coats,Outerwear & Coats,BCBGMAXAZRIA,Women,42.99,75.81,SKU-00588,6
+589,Under Armour Slim Fit Shorts,Shorts,Under Armour,Men,11.86,26.16,SKU-00589,5
+590,Columbia Sport Sleep & Lounge,Sleep & Lounge,Columbia,Men,21.33,41.43,SKU-00590,4
+591,Hanes Premium Tops & Tees,Tops & Tees,Hanes,Women,5.15,10.41,SKU-00591,6
+592,Polo Ralph Lauren Pro Swim,Swim,Polo Ralph Lauren,Men,23.12,47.51,SKU-00592,3
+593,Allegra K Vintage Swim,Swim,Allegra K,Men,10.2,19.28,SKU-00593,10
+594,Dockers Original Sleep & Lounge,Sleep & Lounge,Dockers,Women,9.87,26.11,SKU-00594,10
+595,Calvin Klein Premium Leggings,Leggings,Calvin Klein,Men,18.29,49.71,SKU-00595,4
+596,Levi's Essential Shorts,Shorts,Levi's,Men,19.66,45.4,SKU-00596,8
+597,Polo Ralph Lauren Comfort Pants,Pants,Polo Ralph Lauren,Women,18.48,52.65,SKU-00597,8
+598,Polo Ralph Lauren Sport Jumpsuits & Rompers,Jumpsuits & Rompers,Polo Ralph Lauren,Women,20.85,35.55,SKU-00598,7
+599,Hanes Urban Sweaters,Sweaters,Hanes,Women,24.21,54.71,SKU-00599,2
+600,Levi's Premium Jumpsuits & Rompers,Jumpsuits & Rompers,Levi's,Women,15.67,42.98,SKU-00600,1
+601,Levi's Classic Suits & Sport Coats,Suits & Sport Coats,Levi's,Men,194.24,472.27,SKU-00601,8
+602,Polo Ralph Lauren Regular Fit Socks & Hosiery,Socks & Hosiery,Polo Ralph Lauren,Women,7.29,21.71,SKU-00602,2
+603,True Religion Premium Underwear,Underwear,True Religion,Men,3.44,8.23,SKU-00603,9
+604,Adidas Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Women,24.29,71.41,SKU-00604,5
+605,Allegra K Vintage Outerwear & Coats,Outerwear & Coats,Allegra K,Women,42.44,69.94,SKU-00605,9
+606,Polo Ralph Lauren Original Skirts,Skirts,Polo Ralph Lauren,Women,15.5,24.24,SKU-00606,2
+607,Diesel Classic Tops & Tees,Tops & Tees,Diesel,Women,23.73,48.29,SKU-00607,4
+608,Volcom Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Volcom,Men,13.74,37.95,SKU-00608,2
+609,Tommy Hilfiger Regular Fit Sweaters,Sweaters,Tommy Hilfiger,Men,53.99,85.08,SKU-00609,5
+610,Allegra K Modern Active,Active,Allegra K,Men,38.83,72.94,SKU-00610,1
+611,Adidas Slim Fit Sweaters,Sweaters,Adidas,Women,47.18,140.48,SKU-00611,3
+612,Volcom Comfort Active,Active,Volcom,Men,25.37,62.45,SKU-00612,3
+613,Diesel Urban Blazers & Jackets,Blazers & Jackets,Diesel,Men,37.7,78.78,SKU-00613,6
+614,Polo Ralph Lauren Pro Sweaters,Sweaters,Polo Ralph Lauren,Men,51.55,83.35,SKU-00614,1
+615,BCBGMAXAZRIA Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,BCBGMAXAZRIA,Men,43.36,114.16,SKU-00615,4
+616,Under Armour Premium Jeans,Jeans,Under Armour,Women,37.22,107.49,SKU-00616,8
+617,Columbia Urban Skirts,Skirts,Columbia,Men,9.52,24.87,SKU-00617,5
+618,Tommy Hilfiger Modern Swim,Swim,Tommy Hilfiger,Women,12.56,21.03,SKU-00618,6
+619,Lacoste Premium Swim,Swim,Lacoste,Men,7.91,18.18,SKU-00619,9
+620,Lacoste Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lacoste,Women,15.55,32.72,SKU-00620,6
+621,Polo Ralph Lauren Vintage Dresses,Dresses,Polo Ralph Lauren,Men,43.05,122.95,SKU-00621,9
+622,Volcom Urban Socks & Hosiery,Socks & Hosiery,Volcom,Women,8.72,23.05,SKU-00622,10
+623,Under Armour Comfort Tops & Tees,Tops & Tees,Under Armour,Women,17.72,47.9,SKU-00623,6
+624,Hugo Boss Original Jumpsuits & Rompers,Jumpsuits & Rompers,Hugo Boss,Men,34.04,72.19,SKU-00624,5
+625,Under Armour Original Leggings,Leggings,Under Armour,Men,23.95,36.82,SKU-00625,4
+626,Levi's Essential Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Levi's,Women,34.88,92.05,SKU-00626,9
+627,Dockers Slim Fit Pants,Pants,Dockers,Men,27.74,67.96,SKU-00627,8
+628,Lacoste Essential Sleep & Lounge,Sleep & Lounge,Lacoste,Women,25.57,43.78,SKU-00628,2
+629,Carhartt Essential Outerwear & Coats,Outerwear & Coats,Carhartt,Men,60.32,158.95,SKU-00629,7
+630,Hugo Boss Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hugo Boss,Women,46.98,80.99,SKU-00630,3
+631,Hugo Boss Original Dresses,Dresses,Hugo Boss,Women,17.55,45.8,SKU-00631,10
+632,Calvin Klein Vintage Sweaters,Sweaters,Calvin Klein,Men,41.88,107.65,SKU-00632,4
+633,Polo Ralph Lauren Sport Shorts,Shorts,Polo Ralph Lauren,Men,18.01,27.22,SKU-00633,1
+634,True Religion Pro Jumpsuits & Rompers,Jumpsuits & Rompers,True Religion,Women,27.03,71.96,SKU-00634,10
+635,Allegra K Slim Fit Leggings,Leggings,Allegra K,Men,16.31,34.44,SKU-00635,7
+636,Lucky Brand Urban Blazers & Jackets,Blazers & Jackets,Lucky Brand,Men,19.55,44.18,SKU-00636,10
+637,BCBGMAXAZRIA Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,BCBGMAXAZRIA,Women,40.06,118.06,SKU-00637,9
+638,Polo Ralph Lauren Classic Blazers & Jackets,Blazers & Jackets,Polo Ralph Lauren,Men,45.6,131.32,SKU-00638,5
+639,BCBGMAXAZRIA Pro Underwear,Underwear,BCBGMAXAZRIA,Women,8.2,17.01,SKU-00639,5
+640,Carhartt Urban Leggings,Leggings,Carhartt,Women,26.34,67.55,SKU-00640,9
+641,Allegra K Essential Pants,Pants,Allegra K,Men,33.08,75.08,SKU-00641,4
+642,Lucky Brand Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lucky Brand,Men,43.76,119.61,SKU-00642,3
+643,Diesel Pro Blazers & Jackets,Blazers & Jackets,Diesel,Men,27.51,54.46,SKU-00643,6
+644,Lucky Brand Original Pants,Pants,Lucky Brand,Men,21.27,46.93,SKU-00644,6
+645,Lacoste Slim Fit Leggings,Leggings,Lacoste,Men,11.47,19.14,SKU-00645,9
+646,Allegra K Vintage Skirts,Skirts,Allegra K,Women,36.36,105.08,SKU-00646,2
+647,Polo Ralph Lauren Pro Shorts,Shorts,Polo Ralph Lauren,Women,24.76,70.59,SKU-00647,5
+648,Lacoste Urban Accessories,Accessories,Lacoste,Men,33.7,64.5,SKU-00648,6
+649,Polo Ralph Lauren Classic Active,Active,Polo Ralph Lauren,Women,28.18,66.91,SKU-00649,10
+650,Lucky Brand Essential Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lucky Brand,Men,17.27,35.71,SKU-00650,3
+651,Lacoste Urban Underwear,Underwear,Lacoste,Women,6.9,11.96,SKU-00651,7
+652,BCBGMAXAZRIA Modern Sleep & Lounge,Sleep & Lounge,BCBGMAXAZRIA,Women,19.21,30.11,SKU-00652,6
+653,Levi's Sport Socks & Hosiery,Socks & Hosiery,Levi's,Women,1.37,3.75,SKU-00653,10
+654,Tommy Hilfiger Classic Sweaters,Sweaters,Tommy Hilfiger,Women,41.98,81.18,SKU-00654,5
+655,Hugo Boss Premium Active,Active,Hugo Boss,Men,39.34,89.43,SKU-00655,2
+656,Carhartt Pro Shorts,Shorts,Carhartt,Women,13.82,39.44,SKU-00656,6
+657,Nike Regular Fit Underwear,Underwear,Nike,Women,10.84,16.58,SKU-00657,9
+658,Levi's Original Active,Active,Levi's,Women,24.86,57.7,SKU-00658,2
+659,Polo Ralph Lauren Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Polo Ralph Lauren,Women,8.17,23.96,SKU-00659,8
+660,Levi's Urban Pants,Pants,Levi's,Men,21.36,57.97,SKU-00660,6
+661,Volcom Modern Socks & Hosiery,Socks & Hosiery,Volcom,Women,5.85,10.7,SKU-00661,8
+662,Hugo Boss Pro Skirts,Skirts,Hugo Boss,Men,31.2,56.2,SKU-00662,4
+663,Hugo Boss Comfort Jeans,Jeans,Hugo Boss,Women,31.3,82.75,SKU-00663,9
+664,Tommy Hilfiger Premium Leggings,Leggings,Tommy Hilfiger,Men,10.47,16.96,SKU-00664,2
+665,Lucky Brand Sport Suits & Sport Coats,Suits & Sport Coats,Lucky Brand,Men,42.26,101.38,SKU-00665,6
+666,Hanes Original Socks & Hosiery,Socks & Hosiery,Hanes,Women,7.49,13.87,SKU-00666,6
+667,Under Armour Regular Fit Skirts,Skirts,Under Armour,Men,19.68,54.29,SKU-00667,3
+668,Nike Regular Fit Tops & Tees,Tops & Tees,Nike,Men,17.59,36.4,SKU-00668,2
+669,Lucky Brand Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Lucky Brand,Women,18.87,40.05,SKU-00669,10
+670,Diesel Comfort Tops & Tees,Tops & Tees,Diesel,Women,19.85,53.43,SKU-00670,5
+671,Polo Ralph Lauren Regular Fit Sleep & Lounge,Sleep & Lounge,Polo Ralph Lauren,Women,14.27,23.29,SKU-00671,10
+672,True Religion Slim Fit Suits & Sport Coats,Suits & Sport Coats,True Religion,Women,40.8,97.98,SKU-00672,4
+673,BCBGMAXAZRIA Original Sleep & Lounge,Sleep & Lounge,BCBGMAXAZRIA,Women,18.25,53.73,SKU-00673,7
+674,Lucky Brand Sport Swim,Swim,Lucky Brand,Men,30.87,76.42,SKU-00674,6
+675,Dockers Modern Pants,Pants,Dockers,Women,47.3,76.75,SKU-00675,5
+676,Levi's Regular Fit Pants,Pants,Levi's,Women,48.83,139.79,SKU-00676,5
+677,Polo Ralph Lauren Regular Fit Sleep & Lounge,Sleep & Lounge,Polo Ralph Lauren,Men,16.95,28.7,SKU-00677,3
+678,Carhartt Regular Fit Shorts,Shorts,Carhartt,Women,20.68,42.46,SKU-00678,2
+679,Volcom Comfort Jeans,Jeans,Volcom,Men,38.75,68.69,SKU-00679,7
+680,Hugo Boss Classic Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hugo Boss,Women,30.41,78.54,SKU-00680,3
+681,Volcom Comfort Swim,Swim,Volcom,Men,9.89,18.76,SKU-00681,6
+682,Hanes Modern Leggings,Leggings,Hanes,Women,22.1,41.81,SKU-00682,6
+683,Under Armour Premium Shorts,Shorts,Under Armour,Women,29.17,61.85,SKU-00683,10
+684,Carhartt Slim Fit Active,Active,Carhartt,Men,10.95,21.12,SKU-00684,9
+685,Carhartt Slim Fit Outerwear & Coats,Outerwear & Coats,Carhartt,Men,60.54,162.06,SKU-00685,2
+686,Lacoste Original Shorts,Shorts,Lacoste,Women,7.85,17.98,SKU-00686,1
+687,BCBGMAXAZRIA Original Shorts,Shorts,BCBGMAXAZRIA,Women,15.67,36.57,SKU-00687,10
+688,BCBGMAXAZRIA Sport Pants,Pants,BCBGMAXAZRIA,Men,29.27,51.0,SKU-00688,1
+689,Dockers Pro Suits & Sport Coats,Suits & Sport Coats,Dockers,Men,92.15,264.49,SKU-00689,8
+690,Under Armour Original Jumpsuits & Rompers,Jumpsuits & Rompers,Under Armour,Women,29.06,58.8,SKU-00690,8
+691,Calvin Klein Pro Outerwear & Coats,Outerwear & Coats,Calvin Klein,Men,124.39,257.0,SKU-00691,9
+692,Dockers Regular Fit Pants,Pants,Dockers,Women,18.56,34.59,SKU-00692,4
+693,Hurley Regular Fit Accessories,Accessories,Hurley,Women,30.8,90.56,SKU-00693,4
+694,Hugo Boss Comfort Socks & Hosiery,Socks & Hosiery,Hugo Boss,Women,8.18,19.72,SKU-00694,3
+695,Lacoste Regular Fit Underwear,Underwear,Lacoste,Men,9.55,15.2,SKU-00695,2
+696,Columbia Vintage Sleep & Lounge,Sleep & Lounge,Columbia,Men,13.57,24.28,SKU-00696,3
+697,Carhartt Original Tops & Tees,Tops & Tees,Carhartt,Men,23.67,52.56,SKU-00697,3
+698,Lacoste Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Lacoste,Men,24.56,43.76,SKU-00698,10
+699,Hanes Comfort Dresses,Dresses,Hanes,Women,13.24,31.88,SKU-00699,5
+700,Under Armour Slim Fit Shorts,Shorts,Under Armour,Women,9.27,18.19,SKU-00700,6
+701,True Religion Vintage Skirts,Skirts,True Religion,Women,36.53,73.95,SKU-00701,7
+702,Hurley Slim Fit Socks & Hosiery,Socks & Hosiery,Hurley,Men,2.52,6.75,SKU-00702,2
+703,Under Armour Vintage Jeans,Jeans,Under Armour,Men,33.47,76.53,SKU-00703,10
+704,Dockers Regular Fit Pants,Pants,Dockers,Women,37.68,62.91,SKU-00704,5
+705,Calvin Klein Vintage Blazers & Jackets,Blazers & Jackets,Calvin Klein,Women,64.19,132.09,SKU-00705,6
+706,Polo Ralph Lauren Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Polo Ralph Lauren,Women,36.13,102.77,SKU-00706,3
+707,Allegra K Comfort Skirts,Skirts,Allegra K,Women,19.16,53.06,SKU-00707,3
+708,Calvin Klein Urban Accessories,Accessories,Calvin Klein,Men,27.16,71.7,SKU-00708,2
+709,BCBGMAXAZRIA Modern Jeans,Jeans,BCBGMAXAZRIA,Men,12.44,34.4,SKU-00709,6
+710,Carhartt Essential Tops & Tees,Tops & Tees,Carhartt,Women,9.53,15.6,SKU-00710,10
+711,Diesel Essential Sweaters,Sweaters,Diesel,Women,16.18,27.24,SKU-00711,1
+712,Volcom Comfort Sweaters,Sweaters,Volcom,Men,32.76,50.06,SKU-00712,5
+713,Nike Original Blazers & Jackets,Blazers & Jackets,Nike,Women,28.25,47.67,SKU-00713,4
+714,Columbia Slim Fit Suits & Sport Coats,Suits & Sport Coats,Columbia,Women,123.96,339.07,SKU-00714,7
+715,Tommy Hilfiger Premium Sleep & Lounge,Sleep & Lounge,Tommy Hilfiger,Men,10.34,16.1,SKU-00715,8
+716,Lucky Brand Classic Jeans,Jeans,Lucky Brand,Men,31.88,70.06,SKU-00716,9
+717,Calvin Klein Slim Fit Pants,Pants,Calvin Klein,Men,12.97,24.26,SKU-00717,3
+718,True Religion Original Blazers & Jackets,Blazers & Jackets,True Religion,Men,52.96,145.57,SKU-00718,3
+719,Hugo Boss Sport Dresses,Dresses,Hugo Boss,Men,62.52,169.07,SKU-00719,5
+720,Calvin Klein Sport Suits & Sport Coats,Suits & Sport Coats,Calvin Klein,Men,85.24,225.8,SKU-00720,2
+721,Adidas Slim Fit Dresses,Dresses,Adidas,Men,55.91,115.59,SKU-00721,5
+722,Allegra K Original Pants,Pants,Allegra K,Women,27.04,78.1,SKU-00722,3
+723,Under Armour Regular Fit Leggings,Leggings,Under Armour,Men,11.62,33.04,SKU-00723,4
+724,Calvin Klein Regular Fit Pants,Pants,Calvin Klein,Women,22.14,54.82,SKU-00724,8
+725,Hugo Boss Original Underwear,Underwear,Hugo Boss,Men,5.93,14.34,SKU-00725,2
+726,Lacoste Sport Dresses,Dresses,Lacoste,Women,58.25,116.82,SKU-00726,4
+727,Lucky Brand Slim Fit Suits & Sport Coats,Suits & Sport Coats,Lucky Brand,Men,65.76,171.23,SKU-00727,7
+728,Hurley Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Hurley,Women,49.11,142.8,SKU-00728,5
+729,Dockers Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Dockers,Men,37.5,74.04,SKU-00729,9
+730,Volcom Comfort Active,Active,Volcom,Women,21.65,41.76,SKU-00730,1
+731,Adidas Premium Leggings,Leggings,Adidas,Women,29.95,56.77,SKU-00731,5
+732,Volcom Classic Underwear,Underwear,Volcom,Women,4.81,14.31,SKU-00732,1
+733,Diesel Original Shorts,Shorts,Diesel,Men,24.31,56.17,SKU-00733,1
+734,Adidas Classic Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Men,20.84,61.51,SKU-00734,5
+735,Under Armour Regular Fit Outerwear & Coats,Outerwear & Coats,Under Armour,Men,90.66,219.95,SKU-00735,3
+736,Nike Essential Suits & Sport Coats,Suits & Sport Coats,Nike,Women,41.14,79.82,SKU-00736,2
+737,Adidas Classic Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Men,43.86,104.37,SKU-00737,10
+738,Dockers Pro Skirts,Skirts,Dockers,Men,19.72,34.18,SKU-00738,8
+739,Polo Ralph Lauren Slim Fit Jeans,Jeans,Polo Ralph Lauren,Men,40.06,87.02,SKU-00739,5
+740,Lucky Brand Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lucky Brand,Women,46.95,101.61,SKU-00740,10
+741,Under Armour Modern Tops & Tees,Tops & Tees,Under Armour,Men,4.64,10.97,SKU-00741,1
+742,Volcom Comfort Active,Active,Volcom,Women,43.75,91.04,SKU-00742,10
+743,Columbia Pro Swim,Swim,Columbia,Women,23.86,52.08,SKU-00743,9
+744,Adidas Essential Active,Active,Adidas,Men,36.45,102.58,SKU-00744,5
+745,Adidas Vintage Accessories,Accessories,Adidas,Women,19.98,35.38,SKU-00745,8
+746,Calvin Klein Sport Accessories,Accessories,Calvin Klein,Women,33.0,95.17,SKU-00746,3
+747,Hurley Essential Jeans,Jeans,Hurley,Women,54.27,125.24,SKU-00747,10
+748,Adidas Premium Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Men,25.27,61.74,SKU-00748,5
+749,Allegra K Regular Fit Sweaters,Sweaters,Allegra K,Men,46.13,76.41,SKU-00749,3
+750,Carhartt Urban Pants,Pants,Carhartt,Women,49.94,85.79,SKU-00750,2
+751,Tommy Hilfiger Slim Fit Active,Active,Tommy Hilfiger,Men,35.53,92.34,SKU-00751,7
+752,Lucky Brand Regular Fit Skirts,Skirts,Lucky Brand,Women,38.62,110.11,SKU-00752,10
+753,Allegra K Premium Dresses,Dresses,Allegra K,Women,57.88,131.87,SKU-00753,7
+754,True Religion Pro Sweaters,Sweaters,True Religion,Men,26.49,46.39,SKU-00754,7
+755,Allegra K Regular Fit Underwear,Underwear,Allegra K,Men,12.75,34.37,SKU-00755,8
+756,Carhartt Essential Jumpsuits & Rompers,Jumpsuits & Rompers,Carhartt,Men,36.65,105.42,SKU-00756,3
+757,True Religion Premium Pants,Pants,True Religion,Men,11.32,28.36,SKU-00757,4
+758,Lacoste Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lacoste,Women,15.24,27.04,SKU-00758,8
+759,Lacoste Essential Suits & Sport Coats,Suits & Sport Coats,Lacoste,Men,75.89,160.79,SKU-00759,7
+760,Hanes Vintage Shorts,Shorts,Hanes,Men,23.85,69.4,SKU-00760,3
+761,Dockers Vintage Dresses,Dresses,Dockers,Men,61.81,110.48,SKU-00761,1
+762,Hurley Vintage Sweaters,Sweaters,Hurley,Men,51.34,90.16,SKU-00762,8
+763,Nike Regular Fit Blazers & Jackets,Blazers & Jackets,Nike,Women,21.65,55.27,SKU-00763,9
+764,Columbia Premium Leggings,Leggings,Columbia,Women,7.73,17.89,SKU-00764,5
+765,Carhartt Sport Socks & Hosiery,Socks & Hosiery,Carhartt,Women,3.84,6.94,SKU-00765,9
+766,Adidas Modern Skirts,Skirts,Adidas,Men,29.8,72.26,SKU-00766,9
+767,BCBGMAXAZRIA Essential Tops & Tees,Tops & Tees,BCBGMAXAZRIA,Men,21.69,63.01,SKU-00767,8
+768,Polo Ralph Lauren Classic Shorts,Shorts,Polo Ralph Lauren,Men,26.87,74.77,SKU-00768,10
+769,Columbia Original Skirts,Skirts,Columbia,Women,14.64,22.1,SKU-00769,10
+770,Columbia Original Jumpsuits & Rompers,Jumpsuits & Rompers,Columbia,Women,40.7,114.58,SKU-00770,4
+771,Volcom Essential Underwear,Underwear,Volcom,Men,10.33,25.21,SKU-00771,9
+772,Levi's Vintage Active,Active,Levi's,Women,42.14,80.1,SKU-00772,6
+773,Hurley Modern Leggings,Leggings,Hurley,Men,24.55,40.27,SKU-00773,4
+774,Hanes Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Women,30.2,89.3,SKU-00774,3
+775,Hugo Boss Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Hugo Boss,Men,41.33,63.8,SKU-00775,7
+776,BCBGMAXAZRIA Modern Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,BCBGMAXAZRIA,Men,20.95,37.23,SKU-00776,9
+777,Adidas Slim Fit Jeans,Jeans,Adidas,Men,49.73,124.67,SKU-00777,3
+778,Nike Sport Active,Active,Nike,Women,36.47,96.17,SKU-00778,5
+779,Polo Ralph Lauren Urban Dresses,Dresses,Polo Ralph Lauren,Men,65.59,124.62,SKU-00779,9
+780,BCBGMAXAZRIA Classic Skirts,Skirts,BCBGMAXAZRIA,Men,15.76,41.06,SKU-00780,10
+781,Dockers Urban Pants,Pants,Dockers,Men,43.96,116.4,SKU-00781,5
+782,Lucky Brand Pro Accessories,Accessories,Lucky Brand,Men,8.42,22.77,SKU-00782,9
+783,Levi's Original Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Levi's,Men,40.42,106.34,SKU-00783,9
+784,Dockers Urban Skirts,Skirts,Dockers,Men,37.76,58.49,SKU-00784,3
+785,Dockers Classic Blazers & Jackets,Blazers & Jackets,Dockers,Men,19.01,53.96,SKU-00785,5
+786,Allegra K Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Allegra K,Women,35.04,82.14,SKU-00786,2
+787,Calvin Klein Classic Skirts,Skirts,Calvin Klein,Men,29.11,62.49,SKU-00787,1
+788,Columbia Classic Socks & Hosiery,Socks & Hosiery,Columbia,Men,8.37,12.86,SKU-00788,7
+789,True Religion Original Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,True Religion,Women,12.32,29.4,SKU-00789,1
+790,Calvin Klein Essential Tops & Tees,Tops & Tees,Calvin Klein,Men,23.1,40.29,SKU-00790,4
+791,Adidas Classic Dresses,Dresses,Adidas,Women,74.6,173.18,SKU-00791,2
+792,Lacoste Original Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lacoste,Women,36.23,64.63,SKU-00792,3
+793,Dockers Regular Fit Active,Active,Dockers,Women,22.77,57.65,SKU-00793,3
+794,Columbia Premium Pants,Pants,Columbia,Women,35.4,57.82,SKU-00794,6
+795,Hurley Slim Fit Leggings,Leggings,Hurley,Men,7.31,17.55,SKU-00795,8
+796,Calvin Klein Classic Leggings,Leggings,Calvin Klein,Men,24.07,59.35,SKU-00796,6
+797,Levi's Pro Dresses,Dresses,Levi's,Men,14.55,30.45,SKU-00797,8
+798,Tommy Hilfiger Original Active,Active,Tommy Hilfiger,Women,18.58,53.43,SKU-00798,6
+799,Polo Ralph Lauren Regular Fit Socks & Hosiery,Socks & Hosiery,Polo Ralph Lauren,Men,2.43,5.56,SKU-00799,7
+800,Lacoste Urban Outerwear & Coats,Outerwear & Coats,Lacoste,Men,114.39,300.36,SKU-00800,3
+801,Polo Ralph Lauren Regular Fit Sleep & Lounge,Sleep & Lounge,Polo Ralph Lauren,Men,20.27,43.92,SKU-00801,4
+802,Polo Ralph Lauren Vintage Socks & Hosiery,Socks & Hosiery,Polo Ralph Lauren,Men,7.35,19.75,SKU-00802,2
+803,True Religion Essential Pants,Pants,True Religion,Women,12.58,35.8,SKU-00803,6
+804,Carhartt Classic Blazers & Jackets,Blazers & Jackets,Carhartt,Men,47.11,99.85,SKU-00804,2
+805,Adidas Premium Skirts,Skirts,Adidas,Women,21.0,61.97,SKU-00805,7
+806,Hanes Comfort Shorts,Shorts,Hanes,Women,20.46,35.39,SKU-00806,8
+807,Lacoste Premium Tops & Tees,Tops & Tees,Lacoste,Women,6.15,17.03,SKU-00807,9
+808,Volcom Sport Jeans,Jeans,Volcom,Women,43.07,98.58,SKU-00808,5
+809,Lucky Brand Original Outerwear & Coats,Outerwear & Coats,Lucky Brand,Men,71.31,121.77,SKU-00809,10
+810,Adidas Slim Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Men,46.24,112.73,SKU-00810,5
+811,Volcom Slim Fit Suits & Sport Coats,Suits & Sport Coats,Volcom,Women,107.57,182.54,SKU-00811,8
+812,Carhartt Essential Underwear,Underwear,Carhartt,Men,3.33,9.43,SKU-00812,10
+813,Hanes Regular Fit Pants,Pants,Hanes,Men,14.14,38.52,SKU-00813,6
+814,Allegra K Urban Sweaters,Sweaters,Allegra K,Men,22.71,56.35,SKU-00814,10
+815,Dockers Regular Fit Outerwear & Coats,Outerwear & Coats,Dockers,Men,51.18,94.66,SKU-00815,6
+816,Levi's Sport Shorts,Shorts,Levi's,Women,25.12,73.96,SKU-00816,1
+817,Polo Ralph Lauren Slim Fit Sweaters,Sweaters,Polo Ralph Lauren,Men,46.12,128.2,SKU-00817,5
+818,Volcom Vintage Suits & Sport Coats,Suits & Sport Coats,Volcom,Women,44.88,115.47,SKU-00818,8
+819,Columbia Vintage Sleep & Lounge,Sleep & Lounge,Columbia,Women,26.43,54.13,SKU-00819,7
+820,Nike Urban Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Nike,Men,12.04,26.8,SKU-00820,3
+821,Volcom Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Volcom,Women,41.43,83.15,SKU-00821,3
+822,Lucky Brand Comfort Blazers & Jackets,Blazers & Jackets,Lucky Brand,Women,25.38,70.41,SKU-00822,8
+823,Adidas Urban Accessories,Accessories,Adidas,Women,16.3,32.0,SKU-00823,8
+824,Hanes Original Suits & Sport Coats,Suits & Sport Coats,Hanes,Men,158.16,293.78,SKU-00824,2
+825,Calvin Klein Urban Outerwear & Coats,Outerwear & Coats,Calvin Klein,Men,52.97,96.49,SKU-00825,5
+826,Tommy Hilfiger Premium Suits & Sport Coats,Suits & Sport Coats,Tommy Hilfiger,Men,51.04,107.27,SKU-00826,2
+827,True Religion Premium Blazers & Jackets,Blazers & Jackets,True Religion,Women,82.12,199.92,SKU-00827,3
+828,Hugo Boss Vintage Jeans,Jeans,Hugo Boss,Men,45.17,124.1,SKU-00828,10
+829,Hurley Regular Fit Sleep & Lounge,Sleep & Lounge,Hurley,Women,27.39,79.08,SKU-00829,1
+830,Volcom Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Volcom,Men,34.95,56.62,SKU-00830,6
+831,Calvin Klein Vintage Sweaters,Sweaters,Calvin Klein,Women,13.7,21.52,SKU-00831,5
+832,Dockers Regular Fit Underwear,Underwear,Dockers,Women,10.3,21.05,SKU-00832,4
+833,Tommy Hilfiger Premium Pants,Pants,Tommy Hilfiger,Men,42.9,116.48,SKU-00833,9
+834,Tommy Hilfiger Regular Fit Dresses,Dresses,Tommy Hilfiger,Men,15.44,44.18,SKU-00834,9
+835,Lacoste Modern Sleep & Lounge,Sleep & Lounge,Lacoste,Women,9.26,16.23,SKU-00835,1
+836,Hurley Pro Swim,Swim,Hurley,Women,29.04,56.01,SKU-00836,3
+837,Tommy Hilfiger Essential Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Men,41.65,118.83,SKU-00837,3
+838,Columbia Comfort Underwear,Underwear,Columbia,Men,6.59,15.58,SKU-00838,1
+839,BCBGMAXAZRIA Modern Socks & Hosiery,Socks & Hosiery,BCBGMAXAZRIA,Men,7.67,16.2,SKU-00839,6
+840,BCBGMAXAZRIA Slim Fit Swim,Swim,BCBGMAXAZRIA,Men,11.69,21.81,SKU-00840,4
+841,Adidas Urban Active,Active,Adidas,Women,23.32,38.93,SKU-00841,4
+842,Volcom Vintage Skirts,Skirts,Volcom,Men,31.94,53.11,SKU-00842,8
+843,Allegra K Slim Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Allegra K,Men,17.96,45.1,SKU-00843,10
+844,Carhartt Pro Sleep & Lounge,Sleep & Lounge,Carhartt,Men,14.37,37.08,SKU-00844,7
+845,Allegra K Essential Jeans,Jeans,Allegra K,Men,42.2,86.45,SKU-00845,7
+846,Levi's Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Levi's,Men,23.84,57.43,SKU-00846,5
+847,Volcom Pro Jeans,Jeans,Volcom,Men,53.96,93.57,SKU-00847,5
+848,Columbia Vintage Underwear,Underwear,Columbia,Men,14.44,22.11,SKU-00848,6
+849,BCBGMAXAZRIA Essential Jumpsuits & Rompers,Jumpsuits & Rompers,BCBGMAXAZRIA,Women,35.69,58.88,SKU-00849,3
+850,Hanes Slim Fit Shorts,Shorts,Hanes,Women,24.78,41.1,SKU-00850,6
+851,Hanes Essential Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Men,46.08,137.19,SKU-00851,4
+852,Under Armour Premium Leggings,Leggings,Under Armour,Women,22.84,42.35,SKU-00852,4
+853,Levi's Original Sleep & Lounge,Sleep & Lounge,Levi's,Men,24.56,41.78,SKU-00853,9
+854,Lucky Brand Urban Skirts,Skirts,Lucky Brand,Men,10.57,28.47,SKU-00854,1
+855,Columbia Modern Leggings,Leggings,Columbia,Women,25.77,52.83,SKU-00855,9
+856,BCBGMAXAZRIA Sport Dresses,Dresses,BCBGMAXAZRIA,Women,27.85,50.39,SKU-00856,2
+857,Lacoste Comfort Tops & Tees,Tops & Tees,Lacoste,Women,5.49,10.05,SKU-00857,4
+858,Polo Ralph Lauren Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Polo Ralph Lauren,Men,32.76,55.97,SKU-00858,8
+859,Hanes Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Men,17.53,28.4,SKU-00859,10
+860,BCBGMAXAZRIA Modern Pants,Pants,BCBGMAXAZRIA,Women,13.19,33.24,SKU-00860,9
+861,Hugo Boss Modern Tops & Tees,Tops & Tees,Hugo Boss,Men,16.8,36.29,SKU-00861,8
+862,BCBGMAXAZRIA Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,BCBGMAXAZRIA,Women,12.14,20.91,SKU-00862,4
+863,Adidas Comfort Sweaters,Sweaters,Adidas,Men,54.36,146.16,SKU-00863,4
+864,True Religion Vintage Socks & Hosiery,Socks & Hosiery,True Religion,Men,9.73,14.87,SKU-00864,4
+865,Calvin Klein Essential Dresses,Dresses,Calvin Klein,Women,57.98,124.42,SKU-00865,9
+866,Under Armour Vintage Accessories,Accessories,Under Armour,Women,12.93,21.86,SKU-00866,7
+867,Tommy Hilfiger Urban Socks & Hosiery,Socks & Hosiery,Tommy Hilfiger,Men,6.15,9.48,SKU-00867,1
+868,Adidas Vintage Shorts,Shorts,Adidas,Men,6.75,15.7,SKU-00868,1
+869,Hanes Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Men,34.1,59.1,SKU-00869,2
+870,Calvin Klein Essential Suits & Sport Coats,Suits & Sport Coats,Calvin Klein,Men,76.33,122.34,SKU-00870,6
+871,Calvin Klein Sport Skirts,Skirts,Calvin Klein,Women,22.56,50.04,SKU-00871,10
+872,Tommy Hilfiger Premium Dresses,Dresses,Tommy Hilfiger,Women,21.63,59.82,SKU-00872,5
+873,Diesel Urban Outerwear & Coats,Outerwear & Coats,Diesel,Women,148.25,330.37,SKU-00873,3
+874,Diesel Original Tops & Tees,Tops & Tees,Diesel,Women,8.36,13.54,SKU-00874,5
+875,Hanes Essential Outerwear & Coats,Outerwear & Coats,Hanes,Men,74.2,145.17,SKU-00875,8
+876,Hugo Boss Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Hugo Boss,Men,20.18,43.77,SKU-00876,1
+877,BCBGMAXAZRIA Comfort Swim,Swim,BCBGMAXAZRIA,Women,24.41,46.91,SKU-00877,7
+878,Lucky Brand Urban Blazers & Jackets,Blazers & Jackets,Lucky Brand,Men,92.05,184.68,SKU-00878,10
+879,True Religion Slim Fit Pants,Pants,True Religion,Women,16.54,37.22,SKU-00879,10
+880,Diesel Pro Pants,Pants,Diesel,Men,15.63,45.54,SKU-00880,2
+881,Volcom Premium Dresses,Dresses,Volcom,Women,14.81,40.09,SKU-00881,10
+882,Dockers Sport Accessories,Accessories,Dockers,Men,24.4,44.08,SKU-00882,2
+883,Allegra K Sport Dresses,Dresses,Allegra K,Men,49.14,131.59,SKU-00883,5
+884,Diesel Essential Active,Active,Diesel,Men,38.03,79.55,SKU-00884,4
+885,Lucky Brand Premium Jeans,Jeans,Lucky Brand,Men,52.13,141.98,SKU-00885,7
+886,Diesel Premium Shorts,Shorts,Diesel,Men,8.45,20.5,SKU-00886,8
+887,BCBGMAXAZRIA Sport Dresses,Dresses,BCBGMAXAZRIA,Men,69.18,174.23,SKU-00887,7
+888,Tommy Hilfiger Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Women,43.18,88.22,SKU-00888,8
+889,Polo Ralph Lauren Regular Fit Leggings,Leggings,Polo Ralph Lauren,Men,21.53,55.33,SKU-00889,10
+890,Tommy Hilfiger Modern Underwear,Underwear,Tommy Hilfiger,Women,6.51,15.29,SKU-00890,6
+891,True Religion Modern Pants,Pants,True Religion,Women,39.82,96.68,SKU-00891,6
+892,Diesel Premium Swim,Swim,Diesel,Women,27.1,62.89,SKU-00892,6
+893,BCBGMAXAZRIA Vintage Shorts,Shorts,BCBGMAXAZRIA,Women,14.47,22.92,SKU-00893,3
+894,Tommy Hilfiger Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Men,10.53,23.29,SKU-00894,5
+895,Volcom Comfort Swim,Swim,Volcom,Men,26.14,41.22,SKU-00895,6
+896,Tommy Hilfiger Essential Dresses,Dresses,Tommy Hilfiger,Men,47.47,83.2,SKU-00896,1
+897,Polo Ralph Lauren Original Blazers & Jackets,Blazers & Jackets,Polo Ralph Lauren,Men,28.98,64.14,SKU-00897,4
+898,Hugo Boss Premium Socks & Hosiery,Socks & Hosiery,Hugo Boss,Women,9.18,19.36,SKU-00898,3
+899,Lucky Brand Urban Underwear,Underwear,Lucky Brand,Women,4.07,6.4,SKU-00899,7
+900,Allegra K Original Underwear,Underwear,Allegra K,Women,5.73,9.77,SKU-00900,4
+901,Hugo Boss Sport Pants,Pants,Hugo Boss,Men,24.88,54.68,SKU-00901,2
+902,Hurley Modern Active,Active,Hurley,Women,32.64,96.34,SKU-00902,6
+903,Nike Essential Outerwear & Coats,Outerwear & Coats,Nike,Men,30.61,68.25,SKU-00903,5
+904,Hugo Boss Slim Fit Active,Active,Hugo Boss,Men,33.39,88.78,SKU-00904,7
+905,Under Armour Modern Pants,Pants,Under Armour,Women,26.58,57.53,SKU-00905,8
+906,True Religion Premium Dresses,Dresses,True Religion,Women,21.89,39.13,SKU-00906,10
+907,Lucky Brand Pro Sleep & Lounge,Sleep & Lounge,Lucky Brand,Women,8.69,13.31,SKU-00907,7
+908,Diesel Original Sleep & Lounge,Sleep & Lounge,Diesel,Men,15.9,32.81,SKU-00908,6
+909,Tommy Hilfiger Pro Socks & Hosiery,Socks & Hosiery,Tommy Hilfiger,Men,5.12,14.74,SKU-00909,3
+910,BCBGMAXAZRIA Original Active,Active,BCBGMAXAZRIA,Men,11.35,22.56,SKU-00910,7
+911,Diesel Vintage Active,Active,Diesel,Women,24.82,50.95,SKU-00911,5
+912,Columbia Slim Fit Socks & Hosiery,Socks & Hosiery,Columbia,Women,5.62,14.27,SKU-00912,10
+913,Carhartt Classic Tops & Tees,Tops & Tees,Carhartt,Women,24.6,64.09,SKU-00913,7
+914,Hurley Vintage Suits & Sport Coats,Suits & Sport Coats,Hurley,Men,151.84,366.33,SKU-00914,3
+915,Levi's Premium Socks & Hosiery,Socks & Hosiery,Levi's,Men,1.31,2.63,SKU-00915,10
+916,Levi's Comfort Tops & Tees,Tops & Tees,Levi's,Men,14.01,40.88,SKU-00916,5
+917,Volcom Sport Swim,Swim,Volcom,Men,6.73,13.65,SKU-00917,7
+918,True Religion Premium Leggings,Leggings,True Religion,Women,18.27,35.41,SKU-00918,8
+919,Calvin Klein Modern Sweaters,Sweaters,Calvin Klein,Men,26.9,74.37,SKU-00919,7
+920,Lucky Brand Modern Dresses,Dresses,Lucky Brand,Women,68.73,199.51,SKU-00920,6
+921,Columbia Slim Fit Suits & Sport Coats,Suits & Sport Coats,Columbia,Men,114.87,337.13,SKU-00921,8
+922,Lucky Brand Essential Accessories,Accessories,Lucky Brand,Men,34.3,78.88,SKU-00922,9
+923,Columbia Pro Jeans,Jeans,Columbia,Women,40.03,112.25,SKU-00923,2
+924,Columbia Essential Pants,Pants,Columbia,Men,25.86,45.92,SKU-00924,6
+925,Polo Ralph Lauren Classic Accessories,Accessories,Polo Ralph Lauren,Men,10.73,30.4,SKU-00925,7
+926,Calvin Klein Comfort Jeans,Jeans,Calvin Klein,Men,20.79,54.83,SKU-00926,10
+927,Lacoste Classic Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lacoste,Women,41.37,86.83,SKU-00927,6
+928,Diesel Slim Fit Tops & Tees,Tops & Tees,Diesel,Women,22.54,42.1,SKU-00928,2
+929,Polo Ralph Lauren Premium Suits & Sport Coats,Suits & Sport Coats,Polo Ralph Lauren,Men,86.45,228.18,SKU-00929,8
+930,Dockers Modern Outerwear & Coats,Outerwear & Coats,Dockers,Women,84.3,180.9,SKU-00930,9
+931,Diesel Essential Shorts,Shorts,Diesel,Men,12.9,38.29,SKU-00931,9
+932,Tommy Hilfiger Slim Fit Underwear,Underwear,Tommy Hilfiger,Women,7.92,22.03,SKU-00932,3
+933,Columbia Regular Fit Active,Active,Columbia,Women,39.91,107.18,SKU-00933,2
+934,BCBGMAXAZRIA Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,BCBGMAXAZRIA,Women,15.52,31.05,SKU-00934,1
+935,Carhartt Pro Sweaters,Sweaters,Carhartt,Women,24.57,63.08,SKU-00935,5
+936,Allegra K Original Socks & Hosiery,Socks & Hosiery,Allegra K,Men,7.32,19.28,SKU-00936,2
+937,Lacoste Comfort Suits & Sport Coats,Suits & Sport Coats,Lacoste,Men,84.19,177.99,SKU-00937,8
+938,Lucky Brand Vintage Shorts,Shorts,Lucky Brand,Women,7.95,13.05,SKU-00938,6
+939,Nike Comfort Sleep & Lounge,Sleep & Lounge,Nike,Men,14.99,39.02,SKU-00939,4
+940,Hanes Modern Leggings,Leggings,Hanes,Men,22.23,43.16,SKU-00940,3
+941,Levi's Classic Dresses,Dresses,Levi's,Women,73.96,125.67,SKU-00941,5
+942,Columbia Vintage Socks & Hosiery,Socks & Hosiery,Columbia,Women,9.05,14.15,SKU-00942,2
+943,True Religion Pro Swim,Swim,True Religion,Men,25.1,49.97,SKU-00943,5
+944,Under Armour Urban Sleep & Lounge,Sleep & Lounge,Under Armour,Women,24.66,55.85,SKU-00944,7
+945,Dockers Premium Tops & Tees,Tops & Tees,Dockers,Women,16.0,24.92,SKU-00945,5
+946,Carhartt Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Carhartt,Men,28.74,67.4,SKU-00946,5
+947,True Religion Premium Skirts,Skirts,True Religion,Men,13.46,38.27,SKU-00947,9
+948,Allegra K Classic Underwear,Underwear,Allegra K,Men,5.8,13.9,SKU-00948,4
+949,Hugo Boss Classic Jumpsuits & Rompers,Jumpsuits & Rompers,Hugo Boss,Men,28.08,64.22,SKU-00949,2
+950,Allegra K Premium Blazers & Jackets,Blazers & Jackets,Allegra K,Men,98.79,182.6,SKU-00950,6
+951,Allegra K Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Allegra K,Men,33.56,72.45,SKU-00951,2
+952,True Religion Modern Jeans,Jeans,True Religion,Men,57.35,137.69,SKU-00952,9
+953,Lacoste Original Swim,Swim,Lacoste,Women,14.8,41.41,SKU-00953,2
+954,Volcom Sport Accessories,Accessories,Volcom,Men,4.62,13.04,SKU-00954,8
+955,Volcom Pro Leggings,Leggings,Volcom,Men,29.48,64.2,SKU-00955,5
+956,Polo Ralph Lauren Premium Underwear,Underwear,Polo Ralph Lauren,Men,6.29,11.17,SKU-00956,5
+957,Polo Ralph Lauren Original Jumpsuits & Rompers,Jumpsuits & Rompers,Polo Ralph Lauren,Women,31.41,80.44,SKU-00957,9
+958,Lucky Brand Modern Accessories,Accessories,Lucky Brand,Women,4.7,13.75,SKU-00958,9
+959,Levi's Classic Outerwear & Coats,Outerwear & Coats,Levi's,Women,131.85,387.22,SKU-00959,2
+960,Dockers Comfort Skirts,Skirts,Dockers,Men,8.02,24.01,SKU-00960,9
+961,True Religion Pro Socks & Hosiery,Socks & Hosiery,True Religion,Men,9.17,17.22,SKU-00961,4
+962,Volcom Regular Fit Active,Active,Volcom,Women,12.45,34.3,SKU-00962,4
+963,Allegra K Pro Shorts,Shorts,Allegra K,Women,10.4,16.41,SKU-00963,9
+964,Diesel Pro Outerwear & Coats,Outerwear & Coats,Diesel,Men,127.35,193.9,SKU-00964,2
+965,BCBGMAXAZRIA Modern Pants,Pants,BCBGMAXAZRIA,Women,25.45,63.9,SKU-00965,5
+966,True Religion Regular Fit Pants,Pants,True Religion,Men,20.24,34.0,SKU-00966,2
+967,Polo Ralph Lauren Original Underwear,Underwear,Polo Ralph Lauren,Women,9.75,20.3,SKU-00967,6
+968,BCBGMAXAZRIA Comfort Suits & Sport Coats,Suits & Sport Coats,BCBGMAXAZRIA,Men,74.74,113.51,SKU-00968,7
+969,Lucky Brand Vintage Sweaters,Sweaters,Lucky Brand,Women,24.33,39.66,SKU-00969,6
+970,BCBGMAXAZRIA Sport Jumpsuits & Rompers,Jumpsuits & Rompers,BCBGMAXAZRIA,Women,11.82,21.43,SKU-00970,10
+971,Nike Essential Outerwear & Coats,Outerwear & Coats,Nike,Men,90.12,210.13,SKU-00971,8
+972,Under Armour Original Suits & Sport Coats,Suits & Sport Coats,Under Armour,Men,53.74,107.37,SKU-00972,1
+973,Hanes Pro Accessories,Accessories,Hanes,Men,33.81,79.31,SKU-00973,3
+974,Lucky Brand Comfort Socks & Hosiery,Socks & Hosiery,Lucky Brand,Men,7.81,19.32,SKU-00974,5
+975,Levi's Slim Fit Leggings,Leggings,Levi's,Women,12.85,19.34,SKU-00975,5
+976,Tommy Hilfiger Regular Fit Outerwear & Coats,Outerwear & Coats,Tommy Hilfiger,Men,89.39,247.75,SKU-00976,2
+977,Polo Ralph Lauren Original Active,Active,Polo Ralph Lauren,Men,28.52,45.25,SKU-00977,6
+978,Under Armour Pro Blazers & Jackets,Blazers & Jackets,Under Armour,Men,71.98,202.23,SKU-00978,6
+979,Polo Ralph Lauren Premium Suits & Sport Coats,Suits & Sport Coats,Polo Ralph Lauren,Men,102.38,303.46,SKU-00979,5
+980,Diesel Sport Sweaters,Sweaters,Diesel,Women,42.63,121.72,SKU-00980,9
+981,Hanes Premium Skirts,Skirts,Hanes,Men,13.42,31.04,SKU-00981,4
+982,Hurley Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Hurley,Women,28.84,76.56,SKU-00982,8
+983,Adidas Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Men,13.76,24.2,SKU-00983,7
+984,Calvin Klein Regular Fit Jeans,Jeans,Calvin Klein,Men,57.17,166.12,SKU-00984,10
+985,Lucky Brand Vintage Leggings,Leggings,Lucky Brand,Men,15.63,23.99,SKU-00985,7
+986,Hurley Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hurley,Men,33.93,78.96,SKU-00986,5
+987,True Religion Comfort Sleep & Lounge,Sleep & Lounge,True Religion,Men,17.76,38.93,SKU-00987,1
+988,Levi's Pro Socks & Hosiery,Socks & Hosiery,Levi's,Men,1.44,3.88,SKU-00988,7
+989,Lacoste Urban Sweaters,Sweaters,Lacoste,Women,13.14,34.39,SKU-00989,6
+990,Carhartt Vintage Swim,Swim,Carhartt,Women,14.99,29.91,SKU-00990,9
+991,Polo Ralph Lauren Modern Shorts,Shorts,Polo Ralph Lauren,Women,22.2,38.75,SKU-00991,6
+992,Volcom Premium Shorts,Shorts,Volcom,Men,21.39,57.57,SKU-00992,7
+993,Lacoste Regular Fit Sweaters,Sweaters,Lacoste,Women,19.4,57.54,SKU-00993,10
+994,Nike Modern Suits & Sport Coats,Suits & Sport Coats,Nike,Women,114.09,187.88,SKU-00994,10
+995,Under Armour Regular Fit Sweaters,Sweaters,Under Armour,Men,28.35,73.69,SKU-00995,3
+996,Calvin Klein Original Swim,Swim,Calvin Klein,Men,25.33,57.59,SKU-00996,3
+997,Volcom Slim Fit Underwear,Underwear,Volcom,Women,6.35,12.5,SKU-00997,8
+998,BCBGMAXAZRIA Classic Jumpsuits & Rompers,Jumpsuits & Rompers,BCBGMAXAZRIA,Men,45.85,69.77,SKU-00998,2
+999,Under Armour Urban Suits & Sport Coats,Suits & Sport Coats,Under Armour,Men,111.37,288.01,SKU-00999,9
+1000,Adidas Modern Pants,Pants,Adidas,Women,27.06,45.95,SKU-01000,2
+1001,Diesel Classic Suits & Sport Coats,Suits & Sport Coats,Diesel,Women,150.16,416.88,SKU-01001,4
+1002,Nike Original Skirts,Skirts,Nike,Women,32.98,62.56,SKU-01002,9
+1003,Under Armour Essential Blazers & Jackets,Blazers & Jackets,Under Armour,Men,52.75,125.99,SKU-01003,2
+1004,Hugo Boss Original Blazers & Jackets,Blazers & Jackets,Hugo Boss,Men,25.15,48.45,SKU-01004,1
+1005,Allegra K Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Allegra K,Men,11.57,29.54,SKU-01005,8
+1006,Tommy Hilfiger Regular Fit Pants,Pants,Tommy Hilfiger,Women,23.07,38.66,SKU-01006,9
+1007,BCBGMAXAZRIA Essential Shorts,Shorts,BCBGMAXAZRIA,Men,23.58,47.5,SKU-01007,8
+1008,Tommy Hilfiger Essential Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Tommy Hilfiger,Women,35.45,80.24,SKU-01008,5
+1009,Hanes Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Women,20.08,47.75,SKU-01009,8
+1010,Volcom Vintage Accessories,Accessories,Volcom,Women,2.17,5.14,SKU-01010,7
+1011,Volcom Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Volcom,Women,35.71,57.82,SKU-01011,4
+1012,Polo Ralph Lauren Slim Fit Jeans,Jeans,Polo Ralph Lauren,Men,39.09,60.62,SKU-01012,8
+1013,Tommy Hilfiger Vintage Active,Active,Tommy Hilfiger,Men,36.13,67.05,SKU-01013,2
+1014,Allegra K Vintage Sweaters,Sweaters,Allegra K,Women,44.31,68.97,SKU-01014,5
+1015,Under Armour Slim Fit Pants,Pants,Under Armour,Women,19.88,36.4,SKU-01015,9
+1016,Volcom Comfort Jeans,Jeans,Volcom,Women,47.18,74.96,SKU-01016,2
+1017,True Religion Vintage Blazers & Jackets,Blazers & Jackets,True Religion,Women,56.86,130.27,SKU-01017,5
+1018,Hurley Sport Dresses,Dresses,Hurley,Women,47.36,78.47,SKU-01018,7
+1019,Diesel Sport Active,Active,Diesel,Men,19.92,42.29,SKU-01019,6
+1020,Hurley Comfort Skirts,Skirts,Hurley,Women,33.3,88.39,SKU-01020,10
+1021,Carhartt Premium Leggings,Leggings,Carhartt,Men,10.71,28.47,SKU-01021,7
+1022,Hugo Boss Urban Dresses,Dresses,Hugo Boss,Men,23.3,54.6,SKU-01022,1
+1023,Under Armour Pro Jumpsuits & Rompers,Jumpsuits & Rompers,Under Armour,Women,19.5,30.15,SKU-01023,10
+1024,Lucky Brand Pro Blazers & Jackets,Blazers & Jackets,Lucky Brand,Women,82.32,189.75,SKU-01024,3
+1025,BCBGMAXAZRIA Comfort Underwear,Underwear,BCBGMAXAZRIA,Women,11.47,21.55,SKU-01025,6
+1026,Columbia Modern Leggings,Leggings,Columbia,Women,12.47,29.34,SKU-01026,9
+1027,Allegra K Modern Dresses,Dresses,Allegra K,Men,19.35,55.39,SKU-01027,7
+1028,Dockers Premium Sweaters,Sweaters,Dockers,Women,11.41,27.36,SKU-01028,1
+1029,Lucky Brand Original Jumpsuits & Rompers,Jumpsuits & Rompers,Lucky Brand,Men,37.35,108.72,SKU-01029,4
+1030,Diesel Sport Sleep & Lounge,Sleep & Lounge,Diesel,Men,18.93,34.32,SKU-01030,1
+1031,Lacoste Urban Jeans,Jeans,Lacoste,Men,45.71,86.96,SKU-01031,5
+1032,Polo Ralph Lauren Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Polo Ralph Lauren,Women,37.75,65.05,SKU-01032,9
+1033,Hanes Slim Fit Pants,Pants,Hanes,Men,43.79,70.83,SKU-01033,3
+1034,Tommy Hilfiger Regular Fit Skirts,Skirts,Tommy Hilfiger,Men,21.31,32.3,SKU-01034,8
+1035,Nike Urban Outerwear & Coats,Outerwear & Coats,Nike,Women,127.55,368.86,SKU-01035,1
+1036,Carhartt Essential Blazers & Jackets,Blazers & Jackets,Carhartt,Women,52.6,114.54,SKU-01036,3
+1037,True Religion Comfort Sweaters,Sweaters,True Religion,Men,45.39,132.01,SKU-01037,6
+1038,Columbia Comfort Shorts,Shorts,Columbia,Women,19.23,53.77,SKU-01038,10
+1039,Hugo Boss Essential Outerwear & Coats,Outerwear & Coats,Hugo Boss,Women,139.79,365.67,SKU-01039,7
+1040,Carhartt Premium Sleep & Lounge,Sleep & Lounge,Carhartt,Women,14.88,42.81,SKU-01040,8
+1041,Tommy Hilfiger Classic Outerwear & Coats,Outerwear & Coats,Tommy Hilfiger,Men,109.68,207.95,SKU-01041,8
+1042,Volcom Sport Suits & Sport Coats,Suits & Sport Coats,Volcom,Women,132.48,368.9,SKU-01042,2
+1043,Hurley Slim Fit Accessories,Accessories,Hurley,Men,39.95,100.67,SKU-01043,10
+1044,Lucky Brand Essential Sweaters,Sweaters,Lucky Brand,Women,13.86,33.25,SKU-01044,5
+1045,Lucky Brand Urban Leggings,Leggings,Lucky Brand,Women,20.35,49.41,SKU-01045,4
+1046,Under Armour Comfort Outerwear & Coats,Outerwear & Coats,Under Armour,Men,50.22,143.59,SKU-01046,9
+1047,BCBGMAXAZRIA Classic Active,Active,BCBGMAXAZRIA,Men,40.48,117.12,SKU-01047,5
+1048,True Religion Slim Fit Underwear,Underwear,True Religion,Men,12.33,21.77,SKU-01048,7
+1049,BCBGMAXAZRIA Vintage Pants,Pants,BCBGMAXAZRIA,Women,36.47,59.12,SKU-01049,4
+1050,Columbia Vintage Active,Active,Columbia,Women,24.73,47.21,SKU-01050,6
+1051,Under Armour Sport Active,Active,Under Armour,Men,32.57,88.44,SKU-01051,2
+1052,Levi's Sport Skirts,Skirts,Levi's,Men,25.74,42.36,SKU-01052,5
+1053,Levi's Classic Shorts,Shorts,Levi's,Men,12.9,32.16,SKU-01053,5
+1054,Nike Slim Fit Sweaters,Sweaters,Nike,Women,50.97,106.98,SKU-01054,3
+1055,True Religion Comfort Dresses,Dresses,True Religion,Men,43.32,124.26,SKU-01055,10
+1056,Under Armour Classic Sweaters,Sweaters,Under Armour,Women,22.86,62.41,SKU-01056,7
+1057,Polo Ralph Lauren Modern Pants,Pants,Polo Ralph Lauren,Men,36.57,82.71,SKU-01057,9
+1058,True Religion Classic Pants,Pants,True Religion,Women,10.75,22.26,SKU-01058,2
+1059,Allegra K Modern Jeans,Jeans,Allegra K,Women,46.56,128.13,SKU-01059,5
+1060,Hugo Boss Classic Sweaters,Sweaters,Hugo Boss,Women,33.52,62.57,SKU-01060,9
+1061,Diesel Pro Accessories,Accessories,Diesel,Men,26.1,60.42,SKU-01061,2
+1062,Carhartt Vintage Blazers & Jackets,Blazers & Jackets,Carhartt,Men,29.21,84.64,SKU-01062,3
+1063,Polo Ralph Lauren Original Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Polo Ralph Lauren,Women,38.17,91.82,SKU-01063,10
+1064,Hugo Boss Classic Tops & Tees,Tops & Tees,Hugo Boss,Women,19.19,55.56,SKU-01064,2
+1065,Levi's Urban Jeans,Jeans,Levi's,Men,47.6,102.96,SKU-01065,5
+1066,Hurley Regular Fit Sweaters,Sweaters,Hurley,Women,33.36,81.53,SKU-01066,1
+1067,Allegra K Vintage Dresses,Dresses,Allegra K,Women,51.63,150.27,SKU-01067,4
+1068,Nike Pro Shorts,Shorts,Nike,Women,19.18,49.98,SKU-01068,9
+1069,Dockers Comfort Skirts,Skirts,Dockers,Women,15.46,44.19,SKU-01069,4
+1070,Calvin Klein Urban Pants,Pants,Calvin Klein,Men,10.92,30.01,SKU-01070,5
+1071,Dockers Sport Accessories,Accessories,Dockers,Men,17.72,28.65,SKU-01071,10
+1072,Levi's Essential Swim,Swim,Levi's,Men,33.71,63.63,SKU-01072,4
+1073,Dockers Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Dockers,Men,21.53,56.24,SKU-01073,7
+1074,Dockers Urban Sweaters,Sweaters,Dockers,Women,47.45,134.52,SKU-01074,6
+1075,Hugo Boss Sport Underwear,Underwear,Hugo Boss,Women,10.32,27.9,SKU-01075,8
+1076,Hurley Original Blazers & Jackets,Blazers & Jackets,Hurley,Men,45.67,89.96,SKU-01076,6
+1077,Polo Ralph Lauren Urban Active,Active,Polo Ralph Lauren,Women,6.02,14.64,SKU-01077,9
+1078,True Religion Comfort Shorts,Shorts,True Religion,Women,16.34,40.72,SKU-01078,9
+1079,BCBGMAXAZRIA Original Sweaters,Sweaters,BCBGMAXAZRIA,Men,29.64,63.9,SKU-01079,10
+1080,Adidas Pro Blazers & Jackets,Blazers & Jackets,Adidas,Men,27.65,65.85,SKU-01080,4
+1081,Calvin Klein Urban Sweaters,Sweaters,Calvin Klein,Men,50.94,151.75,SKU-01081,2
+1082,Under Armour Vintage Shorts,Shorts,Under Armour,Women,28.93,67.03,SKU-01082,2
+1083,BCBGMAXAZRIA Original Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,BCBGMAXAZRIA,Men,13.09,23.45,SKU-01083,8
+1084,Polo Ralph Lauren Classic Tops & Tees,Tops & Tees,Polo Ralph Lauren,Women,8.85,19.97,SKU-01084,9
+1085,Lacoste Urban Active,Active,Lacoste,Women,30.67,54.09,SKU-01085,3
+1086,Under Armour Original Shorts,Shorts,Under Armour,Women,28.82,72.98,SKU-01086,5
+1087,Carhartt Sport Active,Active,Carhartt,Women,42.43,121.05,SKU-01087,1
+1088,Lacoste Original Pants,Pants,Lacoste,Women,47.25,118.78,SKU-01088,6
+1089,Adidas Vintage Sleep & Lounge,Sleep & Lounge,Adidas,Men,16.56,46.64,SKU-01089,8
+1090,Calvin Klein Slim Fit Outerwear & Coats,Outerwear & Coats,Calvin Klein,Women,148.17,383.99,SKU-01090,2
+1091,Dockers Premium Sleep & Lounge,Sleep & Lounge,Dockers,Men,14.75,31.8,SKU-01091,10
+1092,Lacoste Essential Shorts,Shorts,Lacoste,Women,8.08,18.64,SKU-01092,9
+1093,Polo Ralph Lauren Urban Tops & Tees,Tops & Tees,Polo Ralph Lauren,Men,18.79,43.2,SKU-01093,10
+1094,BCBGMAXAZRIA Classic Blazers & Jackets,Blazers & Jackets,BCBGMAXAZRIA,Women,62.72,131.01,SKU-01094,10
+1095,Lacoste Essential Blazers & Jackets,Blazers & Jackets,Lacoste,Women,83.15,136.31,SKU-01095,1
+1096,Diesel Vintage Leggings,Leggings,Diesel,Men,20.91,53.38,SKU-01096,5
+1097,Tommy Hilfiger Regular Fit Accessories,Accessories,Tommy Hilfiger,Men,33.18,52.12,SKU-01097,5
+1098,True Religion Original Tops & Tees,Tops & Tees,True Religion,Women,11.22,20.26,SKU-01098,1
+1099,Volcom Classic Skirts,Skirts,Volcom,Men,17.21,37.53,SKU-01099,10
+1100,Calvin Klein Classic Active,Active,Calvin Klein,Women,35.53,105.9,SKU-01100,1
+1101,Lacoste Slim Fit Accessories,Accessories,Lacoste,Men,20.91,40.99,SKU-01101,7
+1102,Dockers Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Dockers,Men,15.53,41.81,SKU-01102,4
+1103,Hurley Regular Fit Pants,Pants,Hurley,Men,25.0,53.23,SKU-01103,6
+1104,BCBGMAXAZRIA Urban Jumpsuits & Rompers,Jumpsuits & Rompers,BCBGMAXAZRIA,Women,42.03,77.01,SKU-01104,5
+1105,Adidas Premium Pants,Pants,Adidas,Men,46.96,72.31,SKU-01105,3
+1106,Adidas Regular Fit Tops & Tees,Tops & Tees,Adidas,Men,19.97,32.6,SKU-01106,5
+1107,Hanes Comfort Tops & Tees,Tops & Tees,Hanes,Men,19.08,40.55,SKU-01107,8
+1108,Tommy Hilfiger Comfort Shorts,Shorts,Tommy Hilfiger,Women,25.48,53.52,SKU-01108,6
+1109,Volcom Modern Sleep & Lounge,Sleep & Lounge,Volcom,Women,10.81,26.37,SKU-01109,3
+1110,Carhartt Vintage Underwear,Underwear,Carhartt,Women,9.53,15.18,SKU-01110,3
+1111,Adidas Premium Skirts,Skirts,Adidas,Men,27.01,52.02,SKU-01111,7
+1112,Levi's Classic Outerwear & Coats,Outerwear & Coats,Levi's,Men,142.97,219.48,SKU-01112,3
+1113,Lucky Brand Classic Outerwear & Coats,Outerwear & Coats,Lucky Brand,Men,21.99,61.75,SKU-01113,6
+1114,Hanes Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Hanes,Men,48.82,102.34,SKU-01114,10
+1115,Allegra K Urban Dresses,Dresses,Allegra K,Women,57.19,135.91,SKU-01115,6
+1116,Allegra K Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Allegra K,Women,8.94,22.94,SKU-01116,3
+1117,Levi's Classic Jeans,Jeans,Levi's,Men,36.9,70.18,SKU-01117,7
+1118,Levi's Pro Sleep & Lounge,Sleep & Lounge,Levi's,Men,7.67,13.06,SKU-01118,10
+1119,Lacoste Modern Underwear,Underwear,Lacoste,Women,9.84,23.32,SKU-01119,7
+1120,Allegra K Slim Fit Leggings,Leggings,Allegra K,Women,16.84,48.08,SKU-01120,6
+1121,Diesel Classic Underwear,Underwear,Diesel,Women,12.04,34.18,SKU-01121,7
+1122,Under Armour Sport Sweaters,Sweaters,Under Armour,Men,38.97,76.47,SKU-01122,1
+1123,Hurley Comfort Accessories,Accessories,Hurley,Men,31.88,60.55,SKU-01123,1
+1124,Dockers Comfort Suits & Sport Coats,Suits & Sport Coats,Dockers,Women,93.96,190.77,SKU-01124,6
+1125,Hurley Essential Active,Active,Hurley,Men,39.42,73.63,SKU-01125,5
+1126,Columbia Original Blazers & Jackets,Blazers & Jackets,Columbia,Men,88.77,261.58,SKU-01126,10
+1127,Diesel Classic Leggings,Leggings,Diesel,Women,21.73,33.72,SKU-01127,5
+1128,Calvin Klein Pro Swim,Swim,Calvin Klein,Men,14.97,26.75,SKU-01128,9
+1129,Allegra K Pro Swim,Swim,Allegra K,Women,39.71,61.25,SKU-01129,7
+1130,Lucky Brand Pro Pants,Pants,Lucky Brand,Women,42.71,118.78,SKU-01130,4
+1131,Levi's Comfort Pants,Pants,Levi's,Men,44.07,97.27,SKU-01131,9
+1132,Levi's Slim Fit Pants,Pants,Levi's,Men,10.46,19.27,SKU-01132,1
+1133,Hanes Vintage Accessories,Accessories,Hanes,Women,33.39,69.89,SKU-01133,7
+1134,True Religion Vintage Skirts,Skirts,True Religion,Women,14.97,24.84,SKU-01134,5
+1135,Adidas Urban Blazers & Jackets,Blazers & Jackets,Adidas,Men,58.69,97.51,SKU-01135,8
+1136,Tommy Hilfiger Pro Swim,Swim,Tommy Hilfiger,Women,29.95,87.46,SKU-01136,1
+1137,Hurley Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hurley,Men,25.23,64.19,SKU-01137,3
+1138,Levi's Pro Swim,Swim,Levi's,Women,14.28,35.1,SKU-01138,3
+1139,Lucky Brand Original Shorts,Shorts,Lucky Brand,Men,18.0,39.76,SKU-01139,6
+1140,Dockers Pro Outerwear & Coats,Outerwear & Coats,Dockers,Men,58.97,131.78,SKU-01140,10
+1141,Under Armour Regular Fit Dresses,Dresses,Under Armour,Women,50.0,132.9,SKU-01141,10
+1142,Calvin Klein Classic Shorts,Shorts,Calvin Klein,Men,8.63,13.62,SKU-01142,7
+1143,Allegra K Urban Blazers & Jackets,Blazers & Jackets,Allegra K,Men,50.3,125.81,SKU-01143,2
+1144,Lacoste Classic Jeans,Jeans,Lacoste,Men,40.4,93.96,SKU-01144,8
+1145,Under Armour Modern Skirts,Skirts,Under Armour,Women,39.7,77.81,SKU-01145,9
+1146,Lucky Brand Classic Active,Active,Lucky Brand,Women,25.32,46.17,SKU-01146,6
+1147,Calvin Klein Urban Skirts,Skirts,Calvin Klein,Men,21.63,60.4,SKU-01147,1
+1148,Polo Ralph Lauren Classic Blazers & Jackets,Blazers & Jackets,Polo Ralph Lauren,Men,99.09,287.1,SKU-01148,2
+1149,BCBGMAXAZRIA Pro Underwear,Underwear,BCBGMAXAZRIA,Men,14.03,23.06,SKU-01149,9
+1150,Tommy Hilfiger Sport Skirts,Skirts,Tommy Hilfiger,Women,29.53,51.82,SKU-01150,2
+1151,Adidas Pro Swim,Swim,Adidas,Men,24.52,61.32,SKU-01151,4
+1152,Lacoste Modern Leggings,Leggings,Lacoste,Women,12.5,33.26,SKU-01152,8
+1153,Carhartt Comfort Accessories,Accessories,Carhartt,Men,25.71,57.51,SKU-01153,2
+1154,Tommy Hilfiger Modern Leggings,Leggings,Tommy Hilfiger,Men,26.02,75.21,SKU-01154,5
+1155,Under Armour Sport Leggings,Leggings,Under Armour,Men,29.56,83.05,SKU-01155,7
+1156,Levi's Premium Sweaters,Sweaters,Levi's,Men,18.55,31.34,SKU-01156,5
+1157,Polo Ralph Lauren Urban Accessories,Accessories,Polo Ralph Lauren,Men,12.41,21.27,SKU-01157,9
+1158,True Religion Sport Jeans,Jeans,True Religion,Women,54.45,88.69,SKU-01158,2
+1159,Volcom Original Jeans,Jeans,Volcom,Men,53.33,150.02,SKU-01159,6
+1160,Lacoste Premium Swim,Swim,Lacoste,Women,30.37,70.96,SKU-01160,4
+1161,True Religion Essential Underwear,Underwear,True Religion,Men,3.35,9.76,SKU-01161,6
+1162,Hanes Essential Sweaters,Sweaters,Hanes,Men,45.31,117.53,SKU-01162,2
+1163,Tommy Hilfiger Regular Fit Pants,Pants,Tommy Hilfiger,Men,28.76,74.72,SKU-01163,7
+1164,Adidas Sport Accessories,Accessories,Adidas,Women,16.11,27.19,SKU-01164,3
+1165,Hanes Sport Jumpsuits & Rompers,Jumpsuits & Rompers,Hanes,Men,20.03,33.34,SKU-01165,9
+1166,Hugo Boss Pro Leggings,Leggings,Hugo Boss,Men,13.63,39.48,SKU-01166,9
+1167,Hugo Boss Regular Fit Accessories,Accessories,Hugo Boss,Men,22.36,49.73,SKU-01167,4
+1168,Hanes Premium Pants,Pants,Hanes,Women,16.48,49.29,SKU-01168,8
+1169,Columbia Pro Leggings,Leggings,Columbia,Women,18.22,36.16,SKU-01169,6
+1170,Volcom Classic Shorts,Shorts,Volcom,Women,7.16,17.41,SKU-01170,9
+1171,Nike Essential Swim,Swim,Nike,Women,19.96,47.09,SKU-01171,10
+1172,True Religion Regular Fit Sweaters,Sweaters,True Religion,Women,58.0,92.92,SKU-01172,9
+1173,Allegra K Sport Active,Active,Allegra K,Women,34.82,79.33,SKU-01173,3
+1174,Nike Comfort Suits & Sport Coats,Suits & Sport Coats,Nike,Men,43.53,125.65,SKU-01174,6
+1175,Lacoste Premium Shorts,Shorts,Lacoste,Men,22.51,49.09,SKU-01175,1
+1176,Hurley Essential Sleep & Lounge,Sleep & Lounge,Hurley,Women,10.71,23.66,SKU-01176,4
+1177,Dockers Urban Skirts,Skirts,Dockers,Women,23.17,59.11,SKU-01177,4
+1178,Hanes Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Women,20.36,54.38,SKU-01178,5
+1179,Hanes Comfort Blazers & Jackets,Blazers & Jackets,Hanes,Men,94.47,259.03,SKU-01179,9
+1180,Lacoste Regular Fit Underwear,Underwear,Lacoste,Men,2.71,5.9,SKU-01180,1
+1181,Columbia Sport Swim,Swim,Columbia,Men,35.95,77.87,SKU-01181,5
+1182,Hugo Boss Comfort Suits & Sport Coats,Suits & Sport Coats,Hugo Boss,Women,149.83,331.13,SKU-01182,9
+1183,Polo Ralph Lauren Classic Jeans,Jeans,Polo Ralph Lauren,Women,29.41,86.86,SKU-01183,3
+1184,Hurley Pro Underwear,Underwear,Hurley,Men,13.44,38.89,SKU-01184,9
+1185,Polo Ralph Lauren Slim Fit Accessories,Accessories,Polo Ralph Lauren,Women,17.44,42.45,SKU-01185,1
+1186,Polo Ralph Lauren Urban Dresses,Dresses,Polo Ralph Lauren,Women,55.39,106.71,SKU-01186,6
+1187,Carhartt Comfort Swim,Swim,Carhartt,Men,32.79,93.47,SKU-01187,10
+1188,Calvin Klein Essential Tops & Tees,Tops & Tees,Calvin Klein,Women,10.01,17.58,SKU-01188,4
+1189,Volcom Classic Swim,Swim,Volcom,Men,8.46,14.04,SKU-01189,7
+1190,True Religion Premium Sleep & Lounge,Sleep & Lounge,True Religion,Men,26.84,56.95,SKU-01190,2
+1191,Tommy Hilfiger Essential Sleep & Lounge,Sleep & Lounge,Tommy Hilfiger,Women,11.55,29.2,SKU-01191,5
+1192,Hugo Boss Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hugo Boss,Men,47.14,74.43,SKU-01192,1
+1193,Carhartt Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Carhartt,Women,21.23,41.81,SKU-01193,2
+1194,Lacoste Premium Tops & Tees,Tops & Tees,Lacoste,Women,12.71,34.01,SKU-01194,4
+1195,Tommy Hilfiger Vintage Leggings,Leggings,Tommy Hilfiger,Men,16.33,40.64,SKU-01195,10
+1196,Hanes Slim Fit Active,Active,Hanes,Women,24.25,39.45,SKU-01196,10
+1197,Allegra K Comfort Dresses,Dresses,Allegra K,Women,72.58,130.84,SKU-01197,1
+1198,Hanes Classic Active,Active,Hanes,Women,15.56,40.27,SKU-01198,1
+1199,True Religion Regular Fit Pants,Pants,True Religion,Men,34.33,57.5,SKU-01199,7
+1200,Allegra K Sport Dresses,Dresses,Allegra K,Women,29.12,44.1,SKU-01200,10
+1201,Columbia Essential Underwear,Underwear,Columbia,Men,3.7,11.06,SKU-01201,6
+1202,Under Armour Urban Outerwear & Coats,Outerwear & Coats,Under Armour,Men,57.54,139.3,SKU-01202,6
+1203,Nike Essential Socks & Hosiery,Socks & Hosiery,Nike,Women,6.06,12.99,SKU-01203,7
+1204,Hurley Pro Tops & Tees,Tops & Tees,Hurley,Men,16.75,40.13,SKU-01204,5
+1205,Allegra K Slim Fit Skirts,Skirts,Allegra K,Men,16.44,41.19,SKU-01205,8
+1206,Calvin Klein Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Calvin Klein,Women,49.47,110.97,SKU-01206,2
+1207,Allegra K Modern Outerwear & Coats,Outerwear & Coats,Allegra K,Men,67.16,167.03,SKU-01207,1
+1208,Polo Ralph Lauren Pro Pants,Pants,Polo Ralph Lauren,Women,43.28,110.92,SKU-01208,1
+1209,Under Armour Modern Underwear,Underwear,Under Armour,Women,2.46,4.35,SKU-01209,3
+1210,Columbia Modern Shorts,Shorts,Columbia,Men,22.69,48.46,SKU-01210,6
+1211,Nike Slim Fit Accessories,Accessories,Nike,Women,13.53,26.48,SKU-01211,3
+1212,Volcom Comfort Accessories,Accessories,Volcom,Men,22.4,60.39,SKU-01212,6
+1213,Hugo Boss Classic Outerwear & Coats,Outerwear & Coats,Hugo Boss,Women,128.76,341.84,SKU-01213,1
+1214,BCBGMAXAZRIA Premium Sweaters,Sweaters,BCBGMAXAZRIA,Men,46.24,125.58,SKU-01214,5
+1215,Lacoste Premium Pants,Pants,Lacoste,Men,24.39,52.59,SKU-01215,2
+1216,Calvin Klein Urban Leggings,Leggings,Calvin Klein,Men,23.58,55.72,SKU-01216,3
+1217,Hugo Boss Comfort Jeans,Jeans,Hugo Boss,Women,31.87,81.54,SKU-01217,7
+1218,Dockers Regular Fit Shorts,Shorts,Dockers,Women,7.52,14.91,SKU-01218,1
+1219,Under Armour Comfort Shorts,Shorts,Under Armour,Men,21.97,65.17,SKU-01219,8
+1220,Carhartt Slim Fit Outerwear & Coats,Outerwear & Coats,Carhartt,Men,141.79,293.21,SKU-01220,3
+1221,Lacoste Pro Suits & Sport Coats,Suits & Sport Coats,Lacoste,Women,46.05,106.17,SKU-01221,9
+1222,Hurley Regular Fit Jeans,Jeans,Hurley,Men,45.01,123.34,SKU-01222,8
+1223,Allegra K Comfort Accessories,Accessories,Allegra K,Men,33.91,88.87,SKU-01223,10
+1224,Hanes Essential Sweaters,Sweaters,Hanes,Women,39.83,89.71,SKU-01224,7
+1225,Columbia Classic Active,Active,Columbia,Men,24.93,52.66,SKU-01225,5
+1226,True Religion Original Skirts,Skirts,True Religion,Men,15.59,38.28,SKU-01226,2
+1227,Levi's Comfort Skirts,Skirts,Levi's,Men,14.2,30.58,SKU-01227,1
+1228,BCBGMAXAZRIA Comfort Suits & Sport Coats,Suits & Sport Coats,BCBGMAXAZRIA,Men,98.58,235.41,SKU-01228,8
+1229,Nike Comfort Shorts,Shorts,Nike,Women,21.39,57.75,SKU-01229,7
+1230,Polo Ralph Lauren Urban Active,Active,Polo Ralph Lauren,Women,18.27,30.74,SKU-01230,2
+1231,Diesel Classic Sleep & Lounge,Sleep & Lounge,Diesel,Women,17.72,45.12,SKU-01231,1
+1232,Adidas Original Shorts,Shorts,Adidas,Men,20.4,32.25,SKU-01232,8
+1233,Calvin Klein Vintage Tops & Tees,Tops & Tees,Calvin Klein,Men,8.41,21.87,SKU-01233,1
+1234,Volcom Modern Shorts,Shorts,Volcom,Men,23.79,43.15,SKU-01234,6
+1235,Allegra K Original Swim,Swim,Allegra K,Men,27.37,61.31,SKU-01235,4
+1236,True Religion Sport Tops & Tees,Tops & Tees,True Religion,Women,16.43,31.23,SKU-01236,8
+1237,Polo Ralph Lauren Regular Fit Suits & Sport Coats,Suits & Sport Coats,Polo Ralph Lauren,Men,112.32,222.72,SKU-01237,1
+1238,Volcom Urban Jeans,Jeans,Volcom,Women,29.51,72.1,SKU-01238,1
+1239,Allegra K Classic Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Allegra K,Women,31.05,66.66,SKU-01239,2
+1240,Hurley Premium Skirts,Skirts,Hurley,Women,32.5,72.52,SKU-01240,8
+1241,Tommy Hilfiger Essential Swim,Swim,Tommy Hilfiger,Men,30.0,89.95,SKU-01241,8
+1242,Levi's Slim Fit Outerwear & Coats,Outerwear & Coats,Levi's,Men,115.9,194.99,SKU-01242,8
+1243,Calvin Klein Pro Leggings,Leggings,Calvin Klein,Men,11.03,22.9,SKU-01243,6
+1244,Levi's Regular Fit Sweaters,Sweaters,Levi's,Women,48.98,112.42,SKU-01244,2
+1245,Calvin Klein Urban Sleep & Lounge,Sleep & Lounge,Calvin Klein,Women,14.05,38.22,SKU-01245,3
+1246,Under Armour Comfort Tops & Tees,Tops & Tees,Under Armour,Women,8.89,17.1,SKU-01246,2
+1247,Tommy Hilfiger Comfort Shorts,Shorts,Tommy Hilfiger,Women,8.92,18.65,SKU-01247,2
+1248,BCBGMAXAZRIA Sport Suits & Sport Coats,Suits & Sport Coats,BCBGMAXAZRIA,Men,171.5,468.52,SKU-01248,8
+1249,Hanes Regular Fit Dresses,Dresses,Hanes,Men,50.51,115.95,SKU-01249,5
+1250,Lacoste Regular Fit Jeans,Jeans,Lacoste,Men,52.38,145.83,SKU-01250,5
+1251,Hugo Boss Premium Socks & Hosiery,Socks & Hosiery,Hugo Boss,Men,6.14,9.8,SKU-01251,2
+1252,Calvin Klein Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Calvin Klein,Women,44.41,85.74,SKU-01252,7
+1253,Columbia Essential Outerwear & Coats,Outerwear & Coats,Columbia,Women,92.35,215.79,SKU-01253,9
+1254,Allegra K Comfort Tops & Tees,Tops & Tees,Allegra K,Men,17.56,29.55,SKU-01254,1
+1255,Levi's Sport Sweaters,Sweaters,Levi's,Men,12.82,28.49,SKU-01255,10
+1256,Dockers Regular Fit Underwear,Underwear,Dockers,Women,10.71,16.35,SKU-01256,2
+1257,Dockers Premium Sweaters,Sweaters,Dockers,Men,39.89,90.03,SKU-01257,10
+1258,Polo Ralph Lauren Pro Swim,Swim,Polo Ralph Lauren,Men,14.23,40.99,SKU-01258,8
+1259,Dockers Slim Fit Active,Active,Dockers,Men,10.4,30.39,SKU-01259,9
+1260,Diesel Urban Sleep & Lounge,Sleep & Lounge,Diesel,Men,14.33,28.35,SKU-01260,2
+1261,Calvin Klein Vintage Dresses,Dresses,Calvin Klein,Men,13.91,20.94,SKU-01261,6
+1262,Hanes Regular Fit Active,Active,Hanes,Women,29.43,84.41,SKU-01262,1
+1263,Under Armour Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Under Armour,Women,30.93,72.71,SKU-01263,5
+1264,True Religion Regular Fit Accessories,Accessories,True Religion,Women,36.88,87.44,SKU-01264,2
+1265,Levi's Sport Underwear,Underwear,Levi's,Men,8.73,23.77,SKU-01265,1
+1266,Columbia Pro Shorts,Shorts,Columbia,Men,23.51,49.14,SKU-01266,9
+1267,BCBGMAXAZRIA Urban Underwear,Underwear,BCBGMAXAZRIA,Women,10.63,22.64,SKU-01267,8
+1268,Adidas Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Women,37.99,105.51,SKU-01268,4
+1269,Carhartt Premium Dresses,Dresses,Carhartt,Men,30.39,67.99,SKU-01269,5
+1270,Polo Ralph Lauren Essential Skirts,Skirts,Polo Ralph Lauren,Women,21.29,55.43,SKU-01270,6
+1271,Hugo Boss Classic Blazers & Jackets,Blazers & Jackets,Hugo Boss,Men,26.06,74.47,SKU-01271,7
+1272,Hanes Urban Sleep & Lounge,Sleep & Lounge,Hanes,Men,21.61,45.17,SKU-01272,6
+1273,Polo Ralph Lauren Essential Leggings,Leggings,Polo Ralph Lauren,Women,13.26,37.57,SKU-01273,4
+1274,Levi's Essential Suits & Sport Coats,Suits & Sport Coats,Levi's,Women,124.2,247.29,SKU-01274,4
+1275,Hanes Comfort Leggings,Leggings,Hanes,Women,28.12,81.39,SKU-01275,10
+1276,Under Armour Essential Pants,Pants,Under Armour,Women,37.32,73.07,SKU-01276,1
+1277,Under Armour Original Outerwear & Coats,Outerwear & Coats,Under Armour,Men,54.8,101.45,SKU-01277,5
+1278,Under Armour Urban Suits & Sport Coats,Suits & Sport Coats,Under Armour,Men,118.46,305.77,SKU-01278,3
+1279,Dockers Vintage Active,Active,Dockers,Women,29.48,84.99,SKU-01279,3
+1280,Hugo Boss Comfort Shorts,Shorts,Hugo Boss,Women,26.4,70.02,SKU-01280,2
+1281,Volcom Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Volcom,Women,41.34,107.9,SKU-01281,1
+1282,Carhartt Vintage Accessories,Accessories,Carhartt,Women,13.98,41.37,SKU-01282,10
+1283,Hanes Vintage Accessories,Accessories,Hanes,Women,36.95,86.32,SKU-01283,9
+1284,Hugo Boss Regular Fit Underwear,Underwear,Hugo Boss,Men,3.92,11.1,SKU-01284,8
+1285,Calvin Klein Vintage Outerwear & Coats,Outerwear & Coats,Calvin Klein,Women,55.89,86.94,SKU-01285,10
+1286,Tommy Hilfiger Essential Sleep & Lounge,Sleep & Lounge,Tommy Hilfiger,Men,6.81,11.56,SKU-01286,9
+1287,Nike Comfort Suits & Sport Coats,Suits & Sport Coats,Nike,Women,84.29,160.76,SKU-01287,2
+1288,Levi's Classic Skirts,Skirts,Levi's,Women,21.25,62.03,SKU-01288,9
+1289,Diesel Urban Outerwear & Coats,Outerwear & Coats,Diesel,Women,51.37,92.23,SKU-01289,9
+1290,Under Armour Urban Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Under Armour,Women,8.53,17.7,SKU-01290,1
+1291,Carhartt Essential Jeans,Jeans,Carhartt,Women,12.5,19.42,SKU-01291,9
+1292,Levi's Classic Swim,Swim,Levi's,Men,37.41,60.5,SKU-01292,8
+1293,Polo Ralph Lauren Vintage Socks & Hosiery,Socks & Hosiery,Polo Ralph Lauren,Men,7.67,18.21,SKU-01293,10
+1294,Hurley Classic Socks & Hosiery,Socks & Hosiery,Hurley,Women,7.35,12.1,SKU-01294,5
+1295,Nike Regular Fit Leggings,Leggings,Nike,Men,24.86,70.82,SKU-01295,8
+1296,Hanes Sport Active,Active,Hanes,Women,33.07,93.55,SKU-01296,8
+1297,Levi's Slim Fit Sweaters,Sweaters,Levi's,Men,13.07,31.8,SKU-01297,7
+1298,Columbia Urban Pants,Pants,Columbia,Men,47.03,98.5,SKU-01298,10
+1299,Lucky Brand Classic Pants,Pants,Lucky Brand,Women,27.15,76.88,SKU-01299,2
+1300,Columbia Pro Pants,Pants,Columbia,Men,28.14,62.8,SKU-01300,4
+1301,Allegra K Modern Suits & Sport Coats,Suits & Sport Coats,Allegra K,Men,180.94,323.14,SKU-01301,1
+1302,Volcom Essential Tops & Tees,Tops & Tees,Volcom,Women,8.29,16.73,SKU-01302,7
+1303,Under Armour Vintage Jeans,Jeans,Under Armour,Women,27.02,55.25,SKU-01303,1
+1304,Lacoste Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lacoste,Women,43.91,104.05,SKU-01304,4
+1305,Tommy Hilfiger Comfort Accessories,Accessories,Tommy Hilfiger,Men,21.75,45.71,SKU-01305,8
+1306,Calvin Klein Original Suits & Sport Coats,Suits & Sport Coats,Calvin Klein,Men,102.59,279.81,SKU-01306,9
+1307,Diesel Modern Jeans,Jeans,Diesel,Women,57.82,141.07,SKU-01307,3
+1308,Calvin Klein Pro Blazers & Jackets,Blazers & Jackets,Calvin Klein,Men,90.65,170.26,SKU-01308,3
+1309,Polo Ralph Lauren Comfort Outerwear & Coats,Outerwear & Coats,Polo Ralph Lauren,Women,135.36,284.68,SKU-01309,1
+1310,Columbia Sport Sweaters,Sweaters,Columbia,Men,20.61,53.27,SKU-01310,4
+1311,Adidas Modern Leggings,Leggings,Adidas,Men,26.25,48.91,SKU-01311,8
+1312,Calvin Klein Vintage Suits & Sport Coats,Suits & Sport Coats,Calvin Klein,Women,142.32,233.04,SKU-01312,9
+1313,Carhartt Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Carhartt,Men,37.04,95.07,SKU-01313,5
+1314,Hugo Boss Sport Tops & Tees,Tops & Tees,Hugo Boss,Men,5.0,10.55,SKU-01314,2
+1315,Dockers Urban Sleep & Lounge,Sleep & Lounge,Dockers,Men,19.34,32.62,SKU-01315,4
+1316,Diesel Original Socks & Hosiery,Socks & Hosiery,Diesel,Women,3.12,6.92,SKU-01316,5
+1317,Lucky Brand Pro Skirts,Skirts,Lucky Brand,Women,37.67,88.17,SKU-01317,7
+1318,Volcom Regular Fit Jeans,Jeans,Volcom,Men,38.96,59.95,SKU-01318,6
+1319,Hugo Boss Pro Socks & Hosiery,Socks & Hosiery,Hugo Boss,Men,6.63,17.81,SKU-01319,9
+1320,BCBGMAXAZRIA Slim Fit Skirts,Skirts,BCBGMAXAZRIA,Women,15.79,35.33,SKU-01320,6
+1321,Hanes Urban Jeans,Jeans,Hanes,Men,32.23,49.58,SKU-01321,5
+1322,Lacoste Classic Underwear,Underwear,Lacoste,Women,8.88,24.8,SKU-01322,2
+1323,Carhartt Urban Suits & Sport Coats,Suits & Sport Coats,Carhartt,Women,168.42,400.48,SKU-01323,10
+1324,Diesel Pro Suits & Sport Coats,Suits & Sport Coats,Diesel,Women,134.75,396.82,SKU-01324,1
+1325,Nike Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Nike,Men,14.52,27.9,SKU-01325,4
+1326,Hugo Boss Essential Active,Active,Hugo Boss,Men,23.58,49.96,SKU-01326,5
+1327,Hanes Modern Socks & Hosiery,Socks & Hosiery,Hanes,Women,3.8,9.48,SKU-01327,9
+1328,Hanes Slim Fit Jeans,Jeans,Hanes,Women,37.87,108.72,SKU-01328,5
+1329,Dockers Pro Pants,Pants,Dockers,Women,28.79,77.35,SKU-01329,5
+1330,Hugo Boss Comfort Dresses,Dresses,Hugo Boss,Men,11.45,28.22,SKU-01330,10
+1331,Columbia Pro Blazers & Jackets,Blazers & Jackets,Columbia,Women,33.43,90.04,SKU-01331,4
+1332,Diesel Pro Sleep & Lounge,Sleep & Lounge,Diesel,Men,21.84,35.87,SKU-01332,8
+1333,Volcom Classic Skirts,Skirts,Volcom,Women,25.42,65.74,SKU-01333,1
+1334,Tommy Hilfiger Regular Fit Tops & Tees,Tops & Tees,Tommy Hilfiger,Women,5.12,12.12,SKU-01334,6
+1335,Levi's Slim Fit Blazers & Jackets,Blazers & Jackets,Levi's,Men,66.2,126.53,SKU-01335,8
+1336,Nike Original Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Nike,Women,29.14,54.14,SKU-01336,3
+1337,Calvin Klein Modern Blazers & Jackets,Blazers & Jackets,Calvin Klein,Men,28.62,55.31,SKU-01337,8
+1338,Volcom Premium Sweaters,Sweaters,Volcom,Women,10.1,17.01,SKU-01338,10
+1339,Dockers Regular Fit Swim,Swim,Dockers,Men,17.4,33.23,SKU-01339,1
+1340,Hanes Modern Dresses,Dresses,Hanes,Men,60.68,97.51,SKU-01340,2
+1341,Columbia Slim Fit Underwear,Underwear,Columbia,Women,3.73,9.36,SKU-01341,2
+1342,Diesel Comfort Blazers & Jackets,Blazers & Jackets,Diesel,Women,95.33,216.25,SKU-01342,10
+1343,Diesel Sport Sleep & Lounge,Sleep & Lounge,Diesel,Men,19.02,32.17,SKU-01343,3
+1344,Lucky Brand Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Lucky Brand,Men,40.34,102.7,SKU-01344,10
+1345,Nike Modern Active,Active,Nike,Men,44.1,77.93,SKU-01345,4
+1346,Dockers Comfort Tops & Tees,Tops & Tees,Dockers,Women,9.52,21.35,SKU-01346,10
+1347,Adidas Slim Fit Underwear,Underwear,Adidas,Women,9.58,27.59,SKU-01347,6
+1348,Hugo Boss Comfort Jeans,Jeans,Hugo Boss,Men,28.35,74.88,SKU-01348,3
+1349,Levi's Classic Jumpsuits & Rompers,Jumpsuits & Rompers,Levi's,Women,13.38,31.79,SKU-01349,6
+1350,Diesel Sport Suits & Sport Coats,Suits & Sport Coats,Diesel,Women,165.31,393.0,SKU-01350,2
+1351,Carhartt Regular Fit Underwear,Underwear,Carhartt,Men,2.16,3.45,SKU-01351,2
+1352,Dockers Sport Leggings,Leggings,Dockers,Women,26.85,57.47,SKU-01352,7
+1353,Allegra K Slim Fit Outerwear & Coats,Outerwear & Coats,Allegra K,Women,123.29,241.73,SKU-01353,8
+1354,Under Armour Original Suits & Sport Coats,Suits & Sport Coats,Under Armour,Men,139.25,308.01,SKU-01354,5
+1355,Volcom Modern Accessories,Accessories,Volcom,Women,24.46,71.6,SKU-01355,9
+1356,Under Armour Original Socks & Hosiery,Socks & Hosiery,Under Armour,Women,8.64,23.15,SKU-01356,4
+1357,Columbia Slim Fit Outerwear & Coats,Outerwear & Coats,Columbia,Women,27.24,65.78,SKU-01357,4
+1358,Calvin Klein Modern Leggings,Leggings,Calvin Klein,Women,23.67,60.53,SKU-01358,6
+1359,Levi's Pro Tops & Tees,Tops & Tees,Levi's,Women,7.79,20.22,SKU-01359,4
+1360,Nike Pro Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Nike,Women,8.85,19.33,SKU-01360,7
+1361,Lucky Brand Slim Fit Outerwear & Coats,Outerwear & Coats,Lucky Brand,Men,60.6,169.65,SKU-01361,10
+1362,True Religion Regular Fit Suits & Sport Coats,Suits & Sport Coats,True Religion,Women,86.96,210.96,SKU-01362,4
+1363,Dockers Essential Sleep & Lounge,Sleep & Lounge,Dockers,Women,10.62,27.69,SKU-01363,5
+1364,Polo Ralph Lauren Comfort Pants,Pants,Polo Ralph Lauren,Men,38.43,58.28,SKU-01364,4
+1365,Under Armour Regular Fit Jeans,Jeans,Under Armour,Women,38.83,89.58,SKU-01365,6
+1366,Nike Classic Accessories,Accessories,Nike,Men,36.96,75.63,SKU-01366,7
+1367,Hanes Slim Fit Dresses,Dresses,Hanes,Men,59.51,94.21,SKU-01367,5
+1368,Levi's Regular Fit Accessories,Accessories,Levi's,Men,33.39,82.45,SKU-01368,1
+1369,Columbia Modern Pants,Pants,Columbia,Women,46.1,133.37,SKU-01369,10
+1370,Under Armour Urban Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Under Armour,Women,41.87,108.83,SKU-01370,7
+1371,Columbia Original Accessories,Accessories,Columbia,Men,6.49,10.51,SKU-01371,8
+1372,Hurley Pro Socks & Hosiery,Socks & Hosiery,Hurley,Men,2.83,4.49,SKU-01372,8
+1373,Nike Urban Suits & Sport Coats,Suits & Sport Coats,Nike,Women,99.5,200.75,SKU-01373,1
+1374,Tommy Hilfiger Classic Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Men,23.28,43.25,SKU-01374,9
+1375,True Religion Urban Sleep & Lounge,Sleep & Lounge,True Religion,Men,27.25,42.0,SKU-01375,1
+1376,Adidas Modern Dresses,Dresses,Adidas,Women,44.07,68.75,SKU-01376,8
+1377,Hugo Boss Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hugo Boss,Men,44.79,90.37,SKU-01377,10
+1378,Tommy Hilfiger Regular Fit Suits & Sport Coats,Suits & Sport Coats,Tommy Hilfiger,Women,97.04,165.0,SKU-01378,6
+1379,Hanes Regular Fit Accessories,Accessories,Hanes,Women,36.45,65.32,SKU-01379,8
+1380,Allegra K Sport Socks & Hosiery,Socks & Hosiery,Allegra K,Men,1.83,5.13,SKU-01380,9
+1381,BCBGMAXAZRIA Vintage Dresses,Dresses,BCBGMAXAZRIA,Men,38.96,116.51,SKU-01381,6
+1382,Dockers Premium Accessories,Accessories,Dockers,Women,36.24,98.1,SKU-01382,5
+1383,True Religion Urban Socks & Hosiery,Socks & Hosiery,True Religion,Women,5.16,9.54,SKU-01383,9
+1384,True Religion Comfort Underwear,Underwear,True Religion,Men,11.52,20.32,SKU-01384,8
+1385,Lacoste Regular Fit Blazers & Jackets,Blazers & Jackets,Lacoste,Men,46.31,109.65,SKU-01385,1
+1386,Dockers Pro Accessories,Accessories,Dockers,Women,33.51,89.67,SKU-01386,1
+1387,Adidas Regular Fit Suits & Sport Coats,Suits & Sport Coats,Adidas,Men,138.08,343.29,SKU-01387,8
+1388,Levi's Comfort Jeans,Jeans,Levi's,Men,50.97,137.91,SKU-01388,8
+1389,Columbia Classic Leggings,Leggings,Columbia,Men,18.88,42.11,SKU-01389,9
+1390,BCBGMAXAZRIA Slim Fit Tops & Tees,Tops & Tees,BCBGMAXAZRIA,Men,17.39,51.85,SKU-01390,1
+1391,Lacoste Regular Fit Leggings,Leggings,Lacoste,Women,18.69,50.09,SKU-01391,2
+1392,Diesel Sport Jumpsuits & Rompers,Jumpsuits & Rompers,Diesel,Women,32.69,51.53,SKU-01392,1
+1393,Dockers Sport Swim,Swim,Dockers,Men,29.43,60.22,SKU-01393,3
+1394,Nike Sport Dresses,Dresses,Nike,Men,17.86,41.78,SKU-01394,6
+1395,Volcom Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Volcom,Women,40.74,74.81,SKU-01395,4
+1396,Levi's Regular Fit Pants,Pants,Levi's,Men,24.21,50.96,SKU-01396,2
+1397,Hurley Modern Jeans,Jeans,Hurley,Women,12.6,30.8,SKU-01397,6
+1398,Hurley Slim Fit Tops & Tees,Tops & Tees,Hurley,Men,17.52,40.79,SKU-01398,4
+1399,Columbia Modern Pants,Pants,Columbia,Women,34.55,96.47,SKU-01399,3
+1400,Volcom Comfort Socks & Hosiery,Socks & Hosiery,Volcom,Men,7.59,14.37,SKU-01400,8
+1401,Nike Original Outerwear & Coats,Outerwear & Coats,Nike,Women,149.78,431.62,SKU-01401,4
+1402,Nike Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Nike,Women,28.46,56.44,SKU-01402,6
+1403,Nike Premium Blazers & Jackets,Blazers & Jackets,Nike,Women,97.76,281.61,SKU-01403,1
+1404,Volcom Regular Fit Skirts,Skirts,Volcom,Men,26.49,49.6,SKU-01404,8
+1405,Tommy Hilfiger Sport Leggings,Leggings,Tommy Hilfiger,Women,14.59,32.99,SKU-01405,6
+1406,Under Armour Vintage Sleep & Lounge,Sleep & Lounge,Under Armour,Men,22.27,64.55,SKU-01406,8
+1407,True Religion Regular Fit Sleep & Lounge,Sleep & Lounge,True Religion,Men,10.71,20.52,SKU-01407,4
+1408,Under Armour Vintage Swim,Swim,Under Armour,Women,38.85,107.74,SKU-01408,5
+1409,Hurley Slim Fit Tops & Tees,Tops & Tees,Hurley,Women,13.26,29.86,SKU-01409,5
+1410,Hugo Boss Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hugo Boss,Men,8.45,18.0,SKU-01410,10
+1411,Hanes Pro Outerwear & Coats,Outerwear & Coats,Hanes,Women,105.19,262.51,SKU-01411,2
+1412,Lacoste Original Swim,Swim,Lacoste,Men,10.09,18.14,SKU-01412,3
+1413,Levi's Premium Outerwear & Coats,Outerwear & Coats,Levi's,Men,31.56,78.53,SKU-01413,10
+1414,Carhartt Pro Outerwear & Coats,Outerwear & Coats,Carhartt,Men,23.06,40.7,SKU-01414,1
+1415,Under Armour Classic Active,Active,Under Armour,Women,40.44,103.78,SKU-01415,3
+1416,Nike Premium Underwear,Underwear,Nike,Women,2.44,5.89,SKU-01416,4
+1417,Hurley Urban Sweaters,Sweaters,Hurley,Women,36.86,63.02,SKU-01417,8
+1418,Adidas Regular Fit Outerwear & Coats,Outerwear & Coats,Adidas,Women,83.63,138.08,SKU-01418,8
+1419,Lucky Brand Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lucky Brand,Men,46.26,111.53,SKU-01419,9
+1420,Adidas Essential Jeans,Jeans,Adidas,Women,55.73,93.75,SKU-01420,1
+1421,Hurley Premium Pants,Pants,Hurley,Men,46.84,114.18,SKU-01421,3
+1422,Columbia Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Columbia,Women,26.0,77.96,SKU-01422,5
+1423,BCBGMAXAZRIA Modern Pants,Pants,BCBGMAXAZRIA,Men,28.94,48.75,SKU-01423,8
+1424,Lacoste Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Lacoste,Women,43.03,95.13,SKU-01424,6
+1425,True Religion Premium Tops & Tees,Tops & Tees,True Religion,Men,6.52,18.82,SKU-01425,6
+1426,Tommy Hilfiger Original Skirts,Skirts,Tommy Hilfiger,Women,11.66,33.88,SKU-01426,9
+1427,Polo Ralph Lauren Classic Outerwear & Coats,Outerwear & Coats,Polo Ralph Lauren,Women,139.82,216.0,SKU-01427,2
+1428,Tommy Hilfiger Vintage Socks & Hosiery,Socks & Hosiery,Tommy Hilfiger,Women,1.46,3.96,SKU-01428,9
+1429,Diesel Modern Suits & Sport Coats,Suits & Sport Coats,Diesel,Men,96.32,178.95,SKU-01429,7
+1430,Hurley Premium Leggings,Leggings,Hurley,Women,10.68,27.98,SKU-01430,3
+1431,Tommy Hilfiger Modern Sleep & Lounge,Sleep & Lounge,Tommy Hilfiger,Women,8.02,16.3,SKU-01431,5
+1432,Lucky Brand Comfort Blazers & Jackets,Blazers & Jackets,Lucky Brand,Women,97.8,179.69,SKU-01432,3
+1433,Nike Modern Suits & Sport Coats,Suits & Sport Coats,Nike,Women,59.88,132.1,SKU-01433,4
+1434,BCBGMAXAZRIA Regular Fit Swim,Swim,BCBGMAXAZRIA,Men,20.69,36.49,SKU-01434,7
+1435,Adidas Original Sweaters,Sweaters,Adidas,Women,22.81,48.73,SKU-01435,4
+1436,Allegra K Essential Jeans,Jeans,Allegra K,Men,35.58,74.44,SKU-01436,9
+1437,Polo Ralph Lauren Pro Sweaters,Sweaters,Polo Ralph Lauren,Women,48.34,142.33,SKU-01437,1
+1438,Hurley Regular Fit Sleep & Lounge,Sleep & Lounge,Hurley,Women,21.83,50.5,SKU-01438,2
+1439,Nike Regular Fit Swim,Swim,Nike,Men,25.44,64.76,SKU-01439,10
+1440,Carhartt Essential Blazers & Jackets,Blazers & Jackets,Carhartt,Men,58.9,103.81,SKU-01440,8
+1441,Tommy Hilfiger Pro Socks & Hosiery,Socks & Hosiery,Tommy Hilfiger,Women,2.36,7.07,SKU-01441,5
+1442,Tommy Hilfiger Essential Socks & Hosiery,Socks & Hosiery,Tommy Hilfiger,Men,4.74,10.65,SKU-01442,3
+1443,Hurley Regular Fit Active,Active,Hurley,Men,41.31,66.63,SKU-01443,3
+1444,Lucky Brand Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lucky Brand,Men,42.46,102.5,SKU-01444,2
+1445,Adidas Classic Outerwear & Coats,Outerwear & Coats,Adidas,Women,28.42,56.19,SKU-01445,9
+1446,Hanes Sport Skirts,Skirts,Hanes,Men,34.89,67.72,SKU-01446,4
+1447,Hanes Slim Fit Suits & Sport Coats,Suits & Sport Coats,Hanes,Women,171.11,338.03,SKU-01447,10
+1448,Levi's Urban Sleep & Lounge,Sleep & Lounge,Levi's,Women,25.25,54.93,SKU-01448,8
+1449,Calvin Klein Comfort Blazers & Jackets,Blazers & Jackets,Calvin Klein,Men,84.44,163.03,SKU-01449,4
+1450,Hugo Boss Slim Fit Blazers & Jackets,Blazers & Jackets,Hugo Boss,Men,98.57,262.99,SKU-01450,8
+1451,Hugo Boss Comfort Accessories,Accessories,Hugo Boss,Men,4.1,7.25,SKU-01451,5
+1452,Hugo Boss Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Hugo Boss,Women,25.35,43.42,SKU-01452,5
+1453,Calvin Klein Vintage Suits & Sport Coats,Suits & Sport Coats,Calvin Klein,Women,194.7,322.56,SKU-01453,8
+1454,Volcom Urban Jeans,Jeans,Volcom,Men,38.53,81.51,SKU-01454,8
+1455,Levi's Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Levi's,Women,37.29,62.25,SKU-01455,3
+1456,Nike Original Sweaters,Sweaters,Nike,Women,28.09,43.19,SKU-01456,5
+1457,BCBGMAXAZRIA Original Outerwear & Coats,Outerwear & Coats,BCBGMAXAZRIA,Men,47.55,92.32,SKU-01457,10
+1458,Hurley Urban Underwear,Underwear,Hurley,Men,14.72,43.72,SKU-01458,3
+1459,True Religion Vintage Blazers & Jackets,Blazers & Jackets,True Religion,Women,46.38,70.33,SKU-01459,8
+1460,True Religion Vintage Dresses,Dresses,True Religion,Men,46.46,74.14,SKU-01460,9
+1461,Hugo Boss Urban Jeans,Jeans,Hugo Boss,Men,23.7,56.28,SKU-01461,7
+1462,Polo Ralph Lauren Urban Swim,Swim,Polo Ralph Lauren,Men,38.88,87.36,SKU-01462,1
+1463,Under Armour Regular Fit Sleep & Lounge,Sleep & Lounge,Under Armour,Women,12.2,20.21,SKU-01463,9
+1464,Lacoste Pro Sweaters,Sweaters,Lacoste,Men,55.7,158.3,SKU-01464,10
+1465,BCBGMAXAZRIA Comfort Skirts,Skirts,BCBGMAXAZRIA,Women,17.34,43.55,SKU-01465,7
+1466,Columbia Premium Swim,Swim,Columbia,Men,38.2,85.65,SKU-01466,8
+1467,Tommy Hilfiger Premium Accessories,Accessories,Tommy Hilfiger,Women,15.96,36.96,SKU-01467,1
+1468,Nike Premium Active,Active,Nike,Women,40.01,107.8,SKU-01468,8
+1469,BCBGMAXAZRIA Slim Fit Sleep & Lounge,Sleep & Lounge,BCBGMAXAZRIA,Men,20.4,33.6,SKU-01469,9
+1470,Allegra K Original Shorts,Shorts,Allegra K,Women,8.73,25.31,SKU-01470,6
+1471,Hugo Boss Slim Fit Active,Active,Hugo Boss,Men,17.53,29.26,SKU-01471,6
+1472,Allegra K Original Outerwear & Coats,Outerwear & Coats,Allegra K,Women,118.92,260.18,SKU-01472,9
+1473,Volcom Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Volcom,Women,36.7,68.68,SKU-01473,7
+1474,Volcom Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Volcom,Women,22.96,57.35,SKU-01474,1
+1475,True Religion Slim Fit Dresses,Dresses,True Religion,Women,22.7,62.65,SKU-01475,2
+1476,Lucky Brand Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Lucky Brand,Women,43.15,104.64,SKU-01476,6
+1477,Columbia Comfort Sweaters,Sweaters,Columbia,Women,41.12,75.49,SKU-01477,7
+1478,Tommy Hilfiger Slim Fit Shorts,Shorts,Tommy Hilfiger,Men,22.37,59.71,SKU-01478,3
+1479,Nike Sport Sleep & Lounge,Sleep & Lounge,Nike,Women,17.5,50.99,SKU-01479,2
+1480,Hurley Pro Outerwear & Coats,Outerwear & Coats,Hurley,Women,65.54,114.14,SKU-01480,7
+1481,Hurley Pro Outerwear & Coats,Outerwear & Coats,Hurley,Women,69.69,131.04,SKU-01481,4
+1482,Allegra K Vintage Accessories,Accessories,Allegra K,Women,3.18,7.3,SKU-01482,7
+1483,Hanes Comfort Sweaters,Sweaters,Hanes,Women,57.19,149.25,SKU-01483,7
+1484,Lucky Brand Regular Fit Socks & Hosiery,Socks & Hosiery,Lucky Brand,Men,4.43,7.49,SKU-01484,3
+1485,Polo Ralph Lauren Original Leggings,Leggings,Polo Ralph Lauren,Men,17.59,27.72,SKU-01485,8
+1486,Polo Ralph Lauren Vintage Tops & Tees,Tops & Tees,Polo Ralph Lauren,Women,11.5,27.03,SKU-01486,2
+1487,Nike Slim Fit Blazers & Jackets,Blazers & Jackets,Nike,Women,45.84,123.58,SKU-01487,4
+1488,Polo Ralph Lauren Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Polo Ralph Lauren,Men,36.8,71.63,SKU-01488,6
+1489,Volcom Original Outerwear & Coats,Outerwear & Coats,Volcom,Women,107.15,254.43,SKU-01489,9
+1490,Tommy Hilfiger Original Suits & Sport Coats,Suits & Sport Coats,Tommy Hilfiger,Men,168.12,454.79,SKU-01490,10
+1491,Calvin Klein Regular Fit Swim,Swim,Calvin Klein,Men,8.44,13.02,SKU-01491,7
+1492,Lucky Brand Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Lucky Brand,Women,44.96,90.11,SKU-01492,7
+1493,Hanes Slim Fit Suits & Sport Coats,Suits & Sport Coats,Hanes,Men,192.72,376.73,SKU-01493,6
+1494,Hurley Essential Suits & Sport Coats,Suits & Sport Coats,Hurley,Women,198.17,512.19,SKU-01494,5
+1495,Volcom Essential Outerwear & Coats,Outerwear & Coats,Volcom,Women,36.74,91.83,SKU-01495,6
+1496,Under Armour Slim Fit Tops & Tees,Tops & Tees,Under Armour,Women,14.22,38.97,SKU-01496,10
+1497,Carhartt Slim Fit Blazers & Jackets,Blazers & Jackets,Carhartt,Men,94.88,220.4,SKU-01497,7
+1498,Lacoste Slim Fit Shorts,Shorts,Lacoste,Men,24.21,44.59,SKU-01498,9
+1499,Hugo Boss Regular Fit Outerwear & Coats,Outerwear & Coats,Hugo Boss,Men,27.83,59.82,SKU-01499,6
+1500,Levi's Classic Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Levi's,Women,44.55,93.29,SKU-01500,8
+1501,Dockers Regular Fit Blazers & Jackets,Blazers & Jackets,Dockers,Women,86.44,216.24,SKU-01501,9
+1502,Dockers Modern Shorts,Shorts,Dockers,Women,24.72,72.45,SKU-01502,5
+1503,Calvin Klein Regular Fit Blazers & Jackets,Blazers & Jackets,Calvin Klein,Men,50.59,110.62,SKU-01503,7
+1504,Calvin Klein Vintage Swim,Swim,Calvin Klein,Men,27.5,67.6,SKU-01504,5
+1505,Nike Essential Outerwear & Coats,Outerwear & Coats,Nike,Women,113.07,199.74,SKU-01505,6
+1506,Volcom Premium Jeans,Jeans,Volcom,Women,31.04,73.3,SKU-01506,3
+1507,Volcom Urban Dresses,Dresses,Volcom,Men,60.96,158.05,SKU-01507,9
+1508,Lucky Brand Original Skirts,Skirts,Lucky Brand,Men,16.75,44.31,SKU-01508,9
+1509,Volcom Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Volcom,Women,15.71,46.51,SKU-01509,10
+1510,Carhartt Sport Tops & Tees,Tops & Tees,Carhartt,Women,22.04,65.71,SKU-01510,3
+1511,Lacoste Premium Leggings,Leggings,Lacoste,Men,14.14,32.14,SKU-01511,10
+1512,Dockers Essential Underwear,Underwear,Dockers,Men,2.74,7.65,SKU-01512,8
+1513,Allegra K Modern Dresses,Dresses,Allegra K,Women,64.13,167.1,SKU-01513,4
+1514,Volcom Pro Blazers & Jackets,Blazers & Jackets,Volcom,Women,83.12,190.09,SKU-01514,9
+1515,Carhartt Pro Suits & Sport Coats,Suits & Sport Coats,Carhartt,Women,166.8,257.72,SKU-01515,6
+1516,BCBGMAXAZRIA Regular Fit Suits & Sport Coats,Suits & Sport Coats,BCBGMAXAZRIA,Men,89.27,264.73,SKU-01516,6
+1517,Hugo Boss Urban Pants,Pants,Hugo Boss,Women,34.13,100.61,SKU-01517,8
+1518,Hurley Comfort Skirts,Skirts,Hurley,Men,8.45,19.24,SKU-01518,2
+1519,Hanes Slim Fit Shorts,Shorts,Hanes,Men,6.05,12.2,SKU-01519,5
+1520,Hanes Vintage Swim,Swim,Hanes,Men,14.82,24.71,SKU-01520,1
+1521,Columbia Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Columbia,Men,30.06,47.58,SKU-01521,5
+1522,Columbia Premium Jumpsuits & Rompers,Jumpsuits & Rompers,Columbia,Men,34.01,92.0,SKU-01522,7
+1523,Carhartt Classic Shorts,Shorts,Carhartt,Men,9.2,19.45,SKU-01523,10
+1524,Calvin Klein Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Calvin Klein,Women,44.44,104.18,SKU-01524,3
+1525,Lucky Brand Classic Outerwear & Coats,Outerwear & Coats,Lucky Brand,Men,144.74,282.56,SKU-01525,9
+1526,Levi's Original Suits & Sport Coats,Suits & Sport Coats,Levi's,Men,52.03,125.96,SKU-01526,1
+1527,True Religion Urban Outerwear & Coats,Outerwear & Coats,True Religion,Women,127.1,335.31,SKU-01527,1
+1528,Levi's Pro Sleep & Lounge,Sleep & Lounge,Levi's,Men,20.74,58.89,SKU-01528,4
+1529,Allegra K Sport Socks & Hosiery,Socks & Hosiery,Allegra K,Men,5.62,12.61,SKU-01529,3
+1530,Carhartt Comfort Leggings,Leggings,Carhartt,Women,17.74,34.6,SKU-01530,6
+1531,Adidas Pro Dresses,Dresses,Adidas,Men,58.74,94.88,SKU-01531,2
+1532,Carhartt Urban Shorts,Shorts,Carhartt,Men,11.01,30.62,SKU-01532,6
+1533,Hugo Boss Modern Sleep & Lounge,Sleep & Lounge,Hugo Boss,Men,20.62,57.33,SKU-01533,10
+1534,Dockers Sport Dresses,Dresses,Dockers,Women,26.99,54.79,SKU-01534,2
+1535,Lacoste Essential Accessories,Accessories,Lacoste,Men,5.24,9.49,SKU-01535,5
+1536,Under Armour Urban Accessories,Accessories,Under Armour,Men,23.01,57.76,SKU-01536,7
+1537,Polo Ralph Lauren Pro Blazers & Jackets,Blazers & Jackets,Polo Ralph Lauren,Women,38.56,101.61,SKU-01537,5
+1538,Polo Ralph Lauren Premium Sleep & Lounge,Sleep & Lounge,Polo Ralph Lauren,Women,23.82,61.52,SKU-01538,5
+1539,BCBGMAXAZRIA Essential Pants,Pants,BCBGMAXAZRIA,Men,36.02,57.88,SKU-01539,1
+1540,Dockers Premium Dresses,Dresses,Dockers,Women,24.58,73.16,SKU-01540,5
+1541,Volcom Essential Underwear,Underwear,Volcom,Men,13.2,30.58,SKU-01541,10
+1542,Volcom Sport Outerwear & Coats,Outerwear & Coats,Volcom,Men,65.11,157.08,SKU-01542,9
+1543,Polo Ralph Lauren Sport Dresses,Dresses,Polo Ralph Lauren,Men,56.09,87.95,SKU-01543,8
+1544,Hurley Original Leggings,Leggings,Hurley,Women,12.42,18.85,SKU-01544,1
+1545,Polo Ralph Lauren Premium Swim,Swim,Polo Ralph Lauren,Men,12.68,21.42,SKU-01545,2
+1546,Tommy Hilfiger Modern Skirts,Skirts,Tommy Hilfiger,Men,35.53,74.13,SKU-01546,6
+1547,Under Armour Sport Jumpsuits & Rompers,Jumpsuits & Rompers,Under Armour,Men,46.75,136.38,SKU-01547,3
+1548,Levi's Original Jeans,Jeans,Levi's,Men,28.9,74.91,SKU-01548,2
+1549,Hurley Premium Swim,Swim,Hurley,Women,16.71,50.11,SKU-01549,2
+1550,Carhartt Comfort Socks & Hosiery,Socks & Hosiery,Carhartt,Men,7.38,18.6,SKU-01550,2
+1551,Polo Ralph Lauren Classic Accessories,Accessories,Polo Ralph Lauren,Women,10.64,17.55,SKU-01551,1
+1552,BCBGMAXAZRIA Premium Outerwear & Coats,Outerwear & Coats,BCBGMAXAZRIA,Women,132.35,336.4,SKU-01552,7
+1553,Nike Urban Blazers & Jackets,Blazers & Jackets,Nike,Women,16.72,41.16,SKU-01553,5
+1554,Dockers Original Tops & Tees,Tops & Tees,Dockers,Women,6.98,19.75,SKU-01554,7
+1555,Diesel Essential Active,Active,Diesel,Women,10.71,24.81,SKU-01555,3
+1556,Dockers Urban Dresses,Dresses,Dockers,Men,30.66,57.28,SKU-01556,7
+1557,Polo Ralph Lauren Urban Dresses,Dresses,Polo Ralph Lauren,Women,66.3,172.32,SKU-01557,2
+1558,Nike Modern Skirts,Skirts,Nike,Women,28.48,74.91,SKU-01558,10
+1559,BCBGMAXAZRIA Essential Shorts,Shorts,BCBGMAXAZRIA,Men,8.58,19.49,SKU-01559,2
+1560,Volcom Pro Dresses,Dresses,Volcom,Men,15.13,24.85,SKU-01560,8
+1561,Volcom Modern Active,Active,Volcom,Men,17.25,36.58,SKU-01561,7
+1562,Carhartt Regular Fit Socks & Hosiery,Socks & Hosiery,Carhartt,Women,6.65,18.35,SKU-01562,2
+1563,Columbia Urban Skirts,Skirts,Columbia,Men,27.0,52.8,SKU-01563,1
+1564,Levi's Comfort Pants,Pants,Levi's,Men,14.57,37.85,SKU-01564,7
+1565,Under Armour Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Under Armour,Men,39.95,75.12,SKU-01565,1
+1566,Tommy Hilfiger Regular Fit Pants,Pants,Tommy Hilfiger,Men,35.29,70.34,SKU-01566,7
+1567,Lacoste Slim Fit Sweaters,Sweaters,Lacoste,Men,59.15,118.63,SKU-01567,7
+1568,Levi's Modern Leggings,Leggings,Levi's,Women,19.26,32.81,SKU-01568,7
+1569,Adidas Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Adidas,Men,21.75,44.08,SKU-01569,10
+1570,Dockers Comfort Sleep & Lounge,Sleep & Lounge,Dockers,Women,8.86,22.91,SKU-01570,5
+1571,Dockers Vintage Sweaters,Sweaters,Dockers,Men,55.96,117.63,SKU-01571,6
+1572,Lucky Brand Classic Tops & Tees,Tops & Tees,Lucky Brand,Women,4.79,9.34,SKU-01572,10
+1573,Columbia Classic Outerwear & Coats,Outerwear & Coats,Columbia,Men,65.33,166.66,SKU-01573,9
+1574,Calvin Klein Premium Jumpsuits & Rompers,Jumpsuits & Rompers,Calvin Klein,Women,31.23,70.99,SKU-01574,5
+1575,Lacoste Premium Blazers & Jackets,Blazers & Jackets,Lacoste,Men,63.86,137.54,SKU-01575,5
+1576,Polo Ralph Lauren Classic Jeans,Jeans,Polo Ralph Lauren,Women,39.95,107.63,SKU-01576,8
+1577,Volcom Comfort Pants,Pants,Volcom,Women,38.68,80.18,SKU-01577,6
+1578,Hurley Comfort Tops & Tees,Tops & Tees,Hurley,Women,6.69,15.5,SKU-01578,5
+1579,Columbia Classic Skirts,Skirts,Columbia,Women,31.02,48.01,SKU-01579,9
+1580,Carhartt Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Carhartt,Women,45.58,91.58,SKU-01580,8
+1581,BCBGMAXAZRIA Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,BCBGMAXAZRIA,Men,9.28,17.22,SKU-01581,5
+1582,Polo Ralph Lauren Modern Tops & Tees,Tops & Tees,Polo Ralph Lauren,Men,4.75,13.44,SKU-01582,4
+1583,True Religion Comfort Sweaters,Sweaters,True Religion,Women,59.57,91.24,SKU-01583,7
+1584,Polo Ralph Lauren Modern Outerwear & Coats,Outerwear & Coats,Polo Ralph Lauren,Men,60.55,154.41,SKU-01584,1
+1585,Hugo Boss Regular Fit Accessories,Accessories,Hugo Boss,Men,19.29,50.82,SKU-01585,8
+1586,Under Armour Classic Sleep & Lounge,Sleep & Lounge,Under Armour,Women,13.44,26.86,SKU-01586,5
+1587,Columbia Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Columbia,Men,31.37,59.15,SKU-01587,9
+1588,Hurley Sport Dresses,Dresses,Hurley,Men,56.25,98.28,SKU-01588,6
+1589,Nike Urban Tops & Tees,Tops & Tees,Nike,Men,19.96,38.24,SKU-01589,4
+1590,Lucky Brand Pro Dresses,Dresses,Lucky Brand,Women,33.1,95.03,SKU-01590,2
+1591,Adidas Slim Fit Active,Active,Adidas,Men,16.16,25.29,SKU-01591,1
+1592,Lacoste Pro Underwear,Underwear,Lacoste,Men,9.11,19.91,SKU-01592,7
+1593,Lacoste Urban Jeans,Jeans,Lacoste,Women,30.44,57.73,SKU-01593,2
+1594,Diesel Classic Blazers & Jackets,Blazers & Jackets,Diesel,Women,68.26,173.64,SKU-01594,9
+1595,Lacoste Modern Blazers & Jackets,Blazers & Jackets,Lacoste,Men,67.37,134.8,SKU-01595,5
+1596,Hugo Boss Comfort Accessories,Accessories,Hugo Boss,Men,35.99,72.66,SKU-01596,9
+1597,Dockers Original Sweaters,Sweaters,Dockers,Women,10.19,16.18,SKU-01597,5
+1598,Volcom Modern Shorts,Shorts,Volcom,Women,8.44,24.19,SKU-01598,4
+1599,BCBGMAXAZRIA Urban Socks & Hosiery,Socks & Hosiery,BCBGMAXAZRIA,Men,8.12,18.53,SKU-01599,2
+1600,Polo Ralph Lauren Sport Shorts,Shorts,Polo Ralph Lauren,Women,20.01,32.09,SKU-01600,5
+1601,Tommy Hilfiger Sport Active,Active,Tommy Hilfiger,Women,8.44,22.18,SKU-01601,9
+1602,Dockers Premium Skirts,Skirts,Dockers,Men,38.16,101.89,SKU-01602,9
+1603,Hanes Modern Skirts,Skirts,Hanes,Men,28.81,63.14,SKU-01603,5
+1604,Hugo Boss Pro Socks & Hosiery,Socks & Hosiery,Hugo Boss,Women,5.48,16.27,SKU-01604,10
+1605,Volcom Premium Sweaters,Sweaters,Volcom,Women,48.98,90.07,SKU-01605,1
+1606,Tommy Hilfiger Original Tops & Tees,Tops & Tees,Tommy Hilfiger,Women,16.52,45.7,SKU-01606,1
+1607,Under Armour Pro Skirts,Skirts,Under Armour,Men,19.95,55.25,SKU-01607,1
+1608,Adidas Urban Underwear,Underwear,Adidas,Women,5.86,13.37,SKU-01608,1
+1609,Polo Ralph Lauren Comfort Outerwear & Coats,Outerwear & Coats,Polo Ralph Lauren,Men,78.95,182.39,SKU-01609,1
+1610,Hugo Boss Urban Accessories,Accessories,Hugo Boss,Women,20.06,33.47,SKU-01610,1
+1611,Dockers Urban Skirts,Skirts,Dockers,Women,30.79,52.34,SKU-01611,8
+1612,Adidas Classic Outerwear & Coats,Outerwear & Coats,Adidas,Women,81.49,173.91,SKU-01612,5
+1613,Allegra K Original Jumpsuits & Rompers,Jumpsuits & Rompers,Allegra K,Men,10.73,30.87,SKU-01613,8
+1614,True Religion Modern Leggings,Leggings,True Religion,Men,22.43,40.86,SKU-01614,8
+1615,Volcom Vintage Jeans,Jeans,Volcom,Men,15.34,33.94,SKU-01615,7
+1616,Hanes Essential Skirts,Skirts,Hanes,Women,35.08,56.0,SKU-01616,1
+1617,Dockers Regular Fit Skirts,Skirts,Dockers,Men,30.66,59.75,SKU-01617,2
+1618,Polo Ralph Lauren Modern Jeans,Jeans,Polo Ralph Lauren,Men,40.7,83.76,SKU-01618,7
+1619,Under Armour Modern Accessories,Accessories,Under Armour,Men,19.26,56.71,SKU-01619,10
+1620,Under Armour Pro Leggings,Leggings,Under Armour,Women,10.13,18.13,SKU-01620,2
+1621,Hanes Pro Active,Active,Hanes,Men,31.54,52.07,SKU-01621,7
+1622,True Religion Pro Shorts,Shorts,True Religion,Women,8.63,13.64,SKU-01622,1
+1623,Levi's Modern Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Levi's,Women,33.39,76.23,SKU-01623,2
+1624,True Religion Original Sweaters,Sweaters,True Religion,Women,19.17,43.69,SKU-01624,6
+1625,Levi's Urban Outerwear & Coats,Outerwear & Coats,Levi's,Women,97.59,175.05,SKU-01625,7
+1626,Tommy Hilfiger Original Jeans,Jeans,Tommy Hilfiger,Women,19.26,36.04,SKU-01626,6
+1627,Columbia Pro Leggings,Leggings,Columbia,Women,8.27,16.36,SKU-01627,5
+1628,Calvin Klein Essential Active,Active,Calvin Klein,Men,24.36,36.89,SKU-01628,3
+1629,Under Armour Original Outerwear & Coats,Outerwear & Coats,Under Armour,Men,112.27,306.0,SKU-01629,8
+1630,Under Armour Urban Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Under Armour,Men,18.02,47.92,SKU-01630,4
+1631,True Religion Slim Fit Socks & Hosiery,Socks & Hosiery,True Religion,Women,5.58,11.05,SKU-01631,8
+1632,True Religion Urban Swim,Swim,True Religion,Men,33.16,78.31,SKU-01632,4
+1633,Calvin Klein Modern Suits & Sport Coats,Suits & Sport Coats,Calvin Klein,Women,124.31,247.66,SKU-01633,6
+1634,Polo Ralph Lauren Pro Socks & Hosiery,Socks & Hosiery,Polo Ralph Lauren,Men,6.45,9.93,SKU-01634,10
+1635,Polo Ralph Lauren Regular Fit Shorts,Shorts,Polo Ralph Lauren,Women,11.28,26.9,SKU-01635,4
+1636,Hurley Slim Fit Active,Active,Hurley,Men,10.86,28.05,SKU-01636,9
+1637,Calvin Klein Regular Fit Shorts,Shorts,Calvin Klein,Women,9.58,19.17,SKU-01637,1
+1638,Lucky Brand Essential Blazers & Jackets,Blazers & Jackets,Lucky Brand,Women,97.72,181.96,SKU-01638,6
+1639,Levi's Premium Accessories,Accessories,Levi's,Women,5.29,10.03,SKU-01639,6
+1640,Carhartt Vintage Blazers & Jackets,Blazers & Jackets,Carhartt,Women,28.73,58.14,SKU-01640,10
+1641,Carhartt Original Jumpsuits & Rompers,Jumpsuits & Rompers,Carhartt,Men,18.23,40.13,SKU-01641,3
+1642,Volcom Classic Suits & Sport Coats,Suits & Sport Coats,Volcom,Women,164.37,432.68,SKU-01642,6
+1643,Allegra K Slim Fit Shorts,Shorts,Allegra K,Women,15.55,27.97,SKU-01643,6
+1644,Adidas Slim Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Adidas,Men,41.64,106.58,SKU-01644,2
+1645,Nike Essential Socks & Hosiery,Socks & Hosiery,Nike,Women,4.89,14.41,SKU-01645,10
+1646,Hanes Classic Dresses,Dresses,Hanes,Men,61.66,109.16,SKU-01646,5
+1647,Levi's Essential Jeans,Jeans,Levi's,Men,54.98,124.33,SKU-01647,5
+1648,True Religion Modern Shorts,Shorts,True Religion,Men,16.74,34.18,SKU-01648,9
+1649,Volcom Vintage Sleep & Lounge,Sleep & Lounge,Volcom,Women,29.67,71.23,SKU-01649,1
+1650,Nike Comfort Active,Active,Nike,Men,42.38,119.57,SKU-01650,7
+1651,Tommy Hilfiger Urban Shorts,Shorts,Tommy Hilfiger,Women,6.37,18.02,SKU-01651,1
+1652,Hanes Premium Sleep & Lounge,Sleep & Lounge,Hanes,Women,19.54,42.3,SKU-01652,10
+1653,Hurley Slim Fit Pants,Pants,Hurley,Women,36.28,95.63,SKU-01653,9
+1654,Tommy Hilfiger Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Women,43.73,99.13,SKU-01654,6
+1655,Diesel Essential Underwear,Underwear,Diesel,Men,10.75,28.57,SKU-01655,4
+1656,Under Armour Premium Underwear,Underwear,Under Armour,Men,10.95,30.95,SKU-01656,10
+1657,Nike Essential Blazers & Jackets,Blazers & Jackets,Nike,Women,40.33,103.56,SKU-01657,3
+1658,Calvin Klein Regular Fit Dresses,Dresses,Calvin Klein,Women,63.34,100.78,SKU-01658,8
+1659,True Religion Slim Fit Leggings,Leggings,True Religion,Women,7.52,14.05,SKU-01659,5
+1660,Lucky Brand Modern Socks & Hosiery,Socks & Hosiery,Lucky Brand,Women,6.99,18.72,SKU-01660,9
+1661,Under Armour Essential Jeans,Jeans,Under Armour,Women,21.7,33.19,SKU-01661,8
+1662,Under Armour Modern Suits & Sport Coats,Suits & Sport Coats,Under Armour,Men,160.62,365.72,SKU-01662,10
+1663,Volcom Urban Outerwear & Coats,Outerwear & Coats,Volcom,Men,122.73,296.47,SKU-01663,7
+1664,Lucky Brand Slim Fit Pants,Pants,Lucky Brand,Men,16.99,46.38,SKU-01664,4
+1665,Calvin Klein Modern Outerwear & Coats,Outerwear & Coats,Calvin Klein,Men,123.16,333.75,SKU-01665,9
+1666,True Religion Pro Sweaters,Sweaters,True Religion,Men,51.87,83.5,SKU-01666,7
+1667,Hugo Boss Classic Socks & Hosiery,Socks & Hosiery,Hugo Boss,Men,1.67,4.21,SKU-01667,8
+1668,Hugo Boss Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hugo Boss,Women,26.06,69.98,SKU-01668,3
+1669,Columbia Comfort Leggings,Leggings,Columbia,Men,10.62,17.61,SKU-01669,6
+1670,Tommy Hilfiger Slim Fit Outerwear & Coats,Outerwear & Coats,Tommy Hilfiger,Women,36.43,81.17,SKU-01670,9
+1671,Carhartt Regular Fit Leggings,Leggings,Carhartt,Women,25.29,62.57,SKU-01671,4
+1672,Columbia Vintage Suits & Sport Coats,Suits & Sport Coats,Columbia,Women,81.25,163.6,SKU-01672,6
+1673,Calvin Klein Original Tops & Tees,Tops & Tees,Calvin Klein,Men,17.52,36.02,SKU-01673,3
+1674,Lucky Brand Premium Blazers & Jackets,Blazers & Jackets,Lucky Brand,Men,16.31,26.98,SKU-01674,2
+1675,Dockers Comfort Tops & Tees,Tops & Tees,Dockers,Men,5.67,15.09,SKU-01675,8
+1676,Hanes Original Socks & Hosiery,Socks & Hosiery,Hanes,Men,6.57,12.19,SKU-01676,5
+1677,Diesel Urban Leggings,Leggings,Diesel,Women,14.89,32.05,SKU-01677,3
+1678,Tommy Hilfiger Modern Blazers & Jackets,Blazers & Jackets,Tommy Hilfiger,Men,89.9,204.48,SKU-01678,2
+1679,Hurley Regular Fit Socks & Hosiery,Socks & Hosiery,Hurley,Men,1.92,3.13,SKU-01679,2
+1680,Levi's Premium Outerwear & Coats,Outerwear & Coats,Levi's,Men,101.09,217.01,SKU-01680,5
+1681,Lucky Brand Slim Fit Socks & Hosiery,Socks & Hosiery,Lucky Brand,Men,7.39,12.77,SKU-01681,4
+1682,Carhartt Sport Swim,Swim,Carhartt,Women,26.78,49.51,SKU-01682,1
+1683,Diesel Classic Suits & Sport Coats,Suits & Sport Coats,Diesel,Women,146.36,297.76,SKU-01683,5
+1684,True Religion Pro Accessories,Accessories,True Religion,Men,11.47,25.63,SKU-01684,10
+1685,Hanes Original Sweaters,Sweaters,Hanes,Women,48.36,104.04,SKU-01685,10
+1686,Diesel Vintage Active,Active,Diesel,Men,27.63,44.41,SKU-01686,6
+1687,Carhartt Sport Shorts,Shorts,Carhartt,Men,24.91,50.46,SKU-01687,6
+1688,Levi's Original Pants,Pants,Levi's,Women,14.87,23.18,SKU-01688,10
+1689,Columbia Sport Pants,Pants,Columbia,Men,15.08,28.29,SKU-01689,8
+1690,Hugo Boss Modern Socks & Hosiery,Socks & Hosiery,Hugo Boss,Men,4.68,7.62,SKU-01690,2
+1691,True Religion Modern Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,True Religion,Women,24.37,42.67,SKU-01691,6
+1692,Nike Essential Leggings,Leggings,Nike,Women,9.08,20.46,SKU-01692,4
+1693,Nike Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Nike,Men,11.41,32.99,SKU-01693,2
+1694,Columbia Sport Shorts,Shorts,Columbia,Women,7.94,14.23,SKU-01694,10
+1695,Diesel Modern Leggings,Leggings,Diesel,Men,7.26,18.85,SKU-01695,6
+1696,Columbia Original Accessories,Accessories,Columbia,Women,3.26,5.1,SKU-01696,7
+1697,Under Armour Pro Pants,Pants,Under Armour,Men,42.31,84.78,SKU-01697,8
+1698,Hurley Slim Fit Suits & Sport Coats,Suits & Sport Coats,Hurley,Women,189.08,397.46,SKU-01698,1
+1699,Carhartt Original Pants,Pants,Carhartt,Women,27.03,44.94,SKU-01699,4
+1700,Carhartt Classic Outerwear & Coats,Outerwear & Coats,Carhartt,Women,44.28,108.71,SKU-01700,9
+1701,Calvin Klein Premium Accessories,Accessories,Calvin Klein,Men,14.48,24.88,SKU-01701,3
+1702,Allegra K Comfort Dresses,Dresses,Allegra K,Women,63.2,170.7,SKU-01702,2
+1703,Columbia Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Columbia,Men,47.03,112.27,SKU-01703,7
+1704,Columbia Pro Suits & Sport Coats,Suits & Sport Coats,Columbia,Women,72.1,188.32,SKU-01704,3
+1705,Hurley Comfort Tops & Tees,Tops & Tees,Hurley,Women,4.64,8.1,SKU-01705,9
+1706,True Religion Slim Fit Jeans,Jeans,True Religion,Women,26.81,52.97,SKU-01706,8
+1707,Hurley Premium Sleep & Lounge,Sleep & Lounge,Hurley,Women,15.25,39.01,SKU-01707,8
+1708,BCBGMAXAZRIA Original Swim,Swim,BCBGMAXAZRIA,Men,6.1,13.3,SKU-01708,8
+1709,BCBGMAXAZRIA Regular Fit Outerwear & Coats,Outerwear & Coats,BCBGMAXAZRIA,Men,108.59,265.88,SKU-01709,2
+1710,True Religion Essential Jeans,Jeans,True Religion,Men,17.98,38.12,SKU-01710,7
+1711,Calvin Klein Classic Jeans,Jeans,Calvin Klein,Men,15.93,39.96,SKU-01711,2
+1712,Lacoste Sport Underwear,Underwear,Lacoste,Men,11.35,27.95,SKU-01712,1
+1713,Columbia Urban Underwear,Underwear,Columbia,Men,12.02,23.43,SKU-01713,10
+1714,Lacoste Urban Active,Active,Lacoste,Women,13.18,37.2,SKU-01714,3
+1715,Levi's Urban Skirts,Skirts,Levi's,Women,32.59,84.69,SKU-01715,7
+1716,BCBGMAXAZRIA Essential Sweaters,Sweaters,BCBGMAXAZRIA,Men,24.87,39.85,SKU-01716,4
+1717,Columbia Classic Jumpsuits & Rompers,Jumpsuits & Rompers,Columbia,Women,22.32,34.74,SKU-01717,8
+1718,Allegra K Modern Tops & Tees,Tops & Tees,Allegra K,Women,6.57,16.91,SKU-01718,5
+1719,Tommy Hilfiger Modern Swim,Swim,Tommy Hilfiger,Women,13.7,33.54,SKU-01719,5
+1720,Volcom Classic Jeans,Jeans,Volcom,Women,13.86,40.01,SKU-01720,1
+1721,Hanes Urban Skirts,Skirts,Hanes,Men,29.5,74.14,SKU-01721,5
+1722,Allegra K Comfort Accessories,Accessories,Allegra K,Men,34.35,62.25,SKU-01722,7
+1723,Hugo Boss Pro Skirts,Skirts,Hugo Boss,Men,9.55,14.93,SKU-01723,8
+1724,Adidas Modern Sleep & Lounge,Sleep & Lounge,Adidas,Women,12.13,27.88,SKU-01724,9
+1725,Levi's Original Active,Active,Levi's,Men,19.5,43.77,SKU-01725,6
+1726,Hanes Sport Suits & Sport Coats,Suits & Sport Coats,Hanes,Women,97.95,284.65,SKU-01726,10
+1727,Allegra K Modern Pants,Pants,Allegra K,Women,42.97,110.11,SKU-01727,7
+1728,Dockers Modern Socks & Hosiery,Socks & Hosiery,Dockers,Women,1.58,4.5,SKU-01728,8
+1729,Volcom Urban Underwear,Underwear,Volcom,Men,9.98,26.3,SKU-01729,2
+1730,BCBGMAXAZRIA Regular Fit Underwear,Underwear,BCBGMAXAZRIA,Women,8.92,22.22,SKU-01730,3
+1731,Columbia Urban Sleep & Lounge,Sleep & Lounge,Columbia,Men,26.12,61.24,SKU-01731,6
+1732,Tommy Hilfiger Premium Skirts,Skirts,Tommy Hilfiger,Men,17.79,42.16,SKU-01732,6
+1733,Hanes Classic Pants,Pants,Hanes,Women,14.07,31.81,SKU-01733,5
+1734,True Religion Classic Swim,Swim,True Religion,Women,10.44,28.8,SKU-01734,10
+1735,Lacoste Regular Fit Shorts,Shorts,Lacoste,Men,21.13,39.13,SKU-01735,5
+1736,Under Armour Modern Underwear,Underwear,Under Armour,Women,9.09,26.11,SKU-01736,1
+1737,Lacoste Urban Suits & Sport Coats,Suits & Sport Coats,Lacoste,Men,131.5,307.61,SKU-01737,6
+1738,Under Armour Original Accessories,Accessories,Under Armour,Women,7.21,15.55,SKU-01738,3
+1739,Dockers Classic Swim,Swim,Dockers,Women,7.44,13.52,SKU-01739,1
+1740,Diesel Sport Skirts,Skirts,Diesel,Women,26.13,50.02,SKU-01740,3
+1741,Lucky Brand Essential Blazers & Jackets,Blazers & Jackets,Lucky Brand,Women,22.81,54.2,SKU-01741,1
+1742,Levi's Regular Fit Jeans,Jeans,Levi's,Men,56.62,97.82,SKU-01742,7
+1743,Nike Urban Sleep & Lounge,Sleep & Lounge,Nike,Men,25.28,38.05,SKU-01743,5
+1744,True Religion Original Pants,Pants,True Religion,Women,17.2,32.49,SKU-01744,10
+1745,BCBGMAXAZRIA Sport Blazers & Jackets,Blazers & Jackets,BCBGMAXAZRIA,Men,66.22,129.54,SKU-01745,1
+1746,Carhartt Essential Socks & Hosiery,Socks & Hosiery,Carhartt,Men,2.36,6.87,SKU-01746,5
+1747,True Religion Classic Jeans,Jeans,True Religion,Men,56.94,135.1,SKU-01747,10
+1748,True Religion Original Pants,Pants,True Religion,Men,33.58,70.81,SKU-01748,6
+1749,Polo Ralph Lauren Essential Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Polo Ralph Lauren,Men,21.35,63.51,SKU-01749,4
+1750,Carhartt Essential Socks & Hosiery,Socks & Hosiery,Carhartt,Women,7.19,14.75,SKU-01750,7
+1751,Diesel Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Diesel,Men,10.1,29.67,SKU-01751,3
+1752,Hugo Boss Essential Leggings,Leggings,Hugo Boss,Men,12.91,37.6,SKU-01752,9
+1753,Levi's Comfort Blazers & Jackets,Blazers & Jackets,Levi's,Women,35.67,90.42,SKU-01753,7
+1754,Under Armour Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Under Armour,Women,23.85,54.57,SKU-01754,3
+1755,Nike Regular Fit Active,Active,Nike,Men,9.33,25.5,SKU-01755,1
+1756,Dockers Vintage Sleep & Lounge,Sleep & Lounge,Dockers,Women,29.23,58.05,SKU-01756,7
+1757,Under Armour Urban Blazers & Jackets,Blazers & Jackets,Under Armour,Women,55.3,113.46,SKU-01757,9
+1758,Adidas Urban Suits & Sport Coats,Suits & Sport Coats,Adidas,Men,175.88,318.4,SKU-01758,10
+1759,Hugo Boss Premium Pants,Pants,Hugo Boss,Men,12.38,23.31,SKU-01759,7
+1760,Under Armour Pro Shorts,Shorts,Under Armour,Women,26.28,44.8,SKU-01760,10
+1761,Nike Classic Jumpsuits & Rompers,Jumpsuits & Rompers,Nike,Women,36.12,100.27,SKU-01761,9
+1762,Under Armour Premium Underwear,Underwear,Under Armour,Women,10.82,16.25,SKU-01762,4
+1763,Calvin Klein Comfort Sweaters,Sweaters,Calvin Klein,Women,50.32,107.52,SKU-01763,9
+1764,Nike Premium Active,Active,Nike,Women,26.52,54.27,SKU-01764,2
+1765,Hurley Essential Pants,Pants,Hurley,Women,35.36,73.6,SKU-01765,9
+1766,Lucky Brand Vintage Leggings,Leggings,Lucky Brand,Men,27.59,76.3,SKU-01766,10
+1767,Volcom Regular Fit Blazers & Jackets,Blazers & Jackets,Volcom,Women,26.51,72.41,SKU-01767,6
+1768,True Religion Modern Tops & Tees,Tops & Tees,True Religion,Men,5.17,12.9,SKU-01768,10
+1769,Dockers Original Accessories,Accessories,Dockers,Men,39.34,99.67,SKU-01769,2
+1770,Allegra K Vintage Skirts,Skirts,Allegra K,Men,36.21,97.96,SKU-01770,1
+1771,Columbia Slim Fit Sweaters,Sweaters,Columbia,Men,35.7,74.17,SKU-01771,4
+1772,True Religion Essential Sleep & Lounge,Sleep & Lounge,True Religion,Women,24.74,53.83,SKU-01772,1
+1773,Under Armour Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Under Armour,Men,45.28,84.54,SKU-01773,3
+1774,Hurley Essential Socks & Hosiery,Socks & Hosiery,Hurley,Women,5.31,9.86,SKU-01774,2
+1775,Lucky Brand Classic Leggings,Leggings,Lucky Brand,Men,8.35,24.23,SKU-01775,5
+1776,Tommy Hilfiger Modern Dresses,Dresses,Tommy Hilfiger,Men,41.24,108.91,SKU-01776,7
+1777,Carhartt Pro Sweaters,Sweaters,Carhartt,Men,27.57,60.09,SKU-01777,2
+1778,Lacoste Classic Swim,Swim,Lacoste,Men,6.79,10.58,SKU-01778,4
+1779,Nike Comfort Blazers & Jackets,Blazers & Jackets,Nike,Men,96.56,252.43,SKU-01779,8
+1780,Nike Vintage Swim,Swim,Nike,Women,30.34,88.68,SKU-01780,3
+1781,Under Armour Sport Accessories,Accessories,Under Armour,Women,31.86,92.08,SKU-01781,4
+1782,Nike Classic Active,Active,Nike,Women,29.27,75.26,SKU-01782,8
+1783,BCBGMAXAZRIA Urban Jeans,Jeans,BCBGMAXAZRIA,Women,24.92,61.59,SKU-01783,4
+1784,Hurley Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Hurley,Men,33.39,56.14,SKU-01784,3
+1785,Carhartt Pro Pants,Pants,Carhartt,Women,37.21,60.6,SKU-01785,9
+1786,Tommy Hilfiger Comfort Swim,Swim,Tommy Hilfiger,Men,26.31,49.93,SKU-01786,10
+1787,Columbia Pro Swim,Swim,Columbia,Women,10.32,24.21,SKU-01787,10
+1788,Dockers Premium Suits & Sport Coats,Suits & Sport Coats,Dockers,Men,168.68,484.08,SKU-01788,5
+1789,Polo Ralph Lauren Urban Pants,Pants,Polo Ralph Lauren,Men,21.9,61.47,SKU-01789,1
+1790,Adidas Sport Pants,Pants,Adidas,Women,25.87,50.68,SKU-01790,5
+1791,Hurley Sport Active,Active,Hurley,Women,27.48,56.32,SKU-01791,8
+1792,Polo Ralph Lauren Vintage Blazers & Jackets,Blazers & Jackets,Polo Ralph Lauren,Women,98.12,192.86,SKU-01792,10
+1793,Under Armour Premium Tops & Tees,Tops & Tees,Under Armour,Women,10.56,24.24,SKU-01793,1
+1794,Nike Modern Shorts,Shorts,Nike,Women,7.01,19.02,SKU-01794,2
+1795,Columbia Modern Leggings,Leggings,Columbia,Women,29.34,78.48,SKU-01795,3
+1796,Adidas Slim Fit Tops & Tees,Tops & Tees,Adidas,Men,24.11,68.22,SKU-01796,2
+1797,Volcom Original Socks & Hosiery,Socks & Hosiery,Volcom,Men,2.94,6.71,SKU-01797,2
+1798,Diesel Regular Fit Sleep & Lounge,Sleep & Lounge,Diesel,Men,25.9,64.42,SKU-01798,5
+1799,Levi's Original Dresses,Dresses,Levi's,Women,69.78,204.52,SKU-01799,3
+1800,Nike Urban Active,Active,Nike,Men,6.51,16.36,SKU-01800,6
+1801,Levi's Classic Active,Active,Levi's,Women,35.44,62.04,SKU-01801,10
+1802,Tommy Hilfiger Premium Skirts,Skirts,Tommy Hilfiger,Men,13.76,27.39,SKU-01802,6
+1803,Hurley Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hurley,Women,42.74,68.96,SKU-01803,6
+1804,Diesel Comfort Skirts,Skirts,Diesel,Men,8.67,14.44,SKU-01804,10
+1805,Hanes Premium Accessories,Accessories,Hanes,Women,28.27,63.26,SKU-01805,7
+1806,Columbia Essential Leggings,Leggings,Columbia,Women,25.6,66.76,SKU-01806,10
+1807,Lucky Brand Urban Blazers & Jackets,Blazers & Jackets,Lucky Brand,Women,18.99,33.87,SKU-01807,10
+1808,Hanes Vintage Dresses,Dresses,Hanes,Men,59.21,117.24,SKU-01808,1
+1809,Lucky Brand Modern Dresses,Dresses,Lucky Brand,Women,17.72,35.53,SKU-01809,10
+1810,Volcom Modern Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Volcom,Women,11.32,31.25,SKU-01810,2
+1811,Diesel Original Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Diesel,Men,46.67,82.89,SKU-01811,3
+1812,Hanes Premium Swim,Swim,Hanes,Men,37.38,57.98,SKU-01812,6
+1813,Lacoste Modern Dresses,Dresses,Lacoste,Men,58.17,141.69,SKU-01813,8
+1814,Allegra K Classic Underwear,Underwear,Allegra K,Men,13.57,31.08,SKU-01814,10
+1815,Allegra K Classic Shorts,Shorts,Allegra K,Women,6.4,9.63,SKU-01815,5
+1816,Volcom Vintage Shorts,Shorts,Volcom,Men,18.28,48.39,SKU-01816,3
+1817,Columbia Urban Sweaters,Sweaters,Columbia,Men,53.58,114.44,SKU-01817,4
+1818,Levi's Regular Fit Accessories,Accessories,Levi's,Men,35.93,83.42,SKU-01818,4
+1819,Dockers Pro Sweaters,Sweaters,Dockers,Men,28.35,71.05,SKU-01819,3
+1820,Diesel Original Sweaters,Sweaters,Diesel,Women,26.23,41.37,SKU-01820,3
+1821,Carhartt Classic Socks & Hosiery,Socks & Hosiery,Carhartt,Men,7.36,12.94,SKU-01821,8
+1822,Hurley Pro Dresses,Dresses,Hurley,Women,13.91,30.53,SKU-01822,10
+1823,BCBGMAXAZRIA Urban Accessories,Accessories,BCBGMAXAZRIA,Men,31.66,55.65,SKU-01823,6
+1824,Hanes Urban Blazers & Jackets,Blazers & Jackets,Hanes,Women,36.97,61.92,SKU-01824,2
+1825,BCBGMAXAZRIA Pro Leggings,Leggings,BCBGMAXAZRIA,Men,18.52,36.81,SKU-01825,7
+1826,Polo Ralph Lauren Original Pants,Pants,Polo Ralph Lauren,Women,17.7,37.88,SKU-01826,6
+1827,Adidas Comfort Jeans,Jeans,Adidas,Women,47.25,131.11,SKU-01827,5
+1828,Columbia Classic Dresses,Dresses,Columbia,Men,72.17,172.66,SKU-01828,1
+1829,Volcom Original Jeans,Jeans,Volcom,Women,37.96,109.86,SKU-01829,8
+1830,Calvin Klein Urban Skirts,Skirts,Calvin Klein,Men,38.42,83.98,SKU-01830,7
+1831,Dockers Essential Leggings,Leggings,Dockers,Men,15.65,34.57,SKU-01831,3
+1832,Adidas Original Socks & Hosiery,Socks & Hosiery,Adidas,Men,3.72,7.32,SKU-01832,4
+1833,True Religion Comfort Suits & Sport Coats,Suits & Sport Coats,True Religion,Men,172.89,280.49,SKU-01833,6
+1834,Nike Vintage Accessories,Accessories,Nike,Men,3.44,6.05,SKU-01834,6
+1835,Dockers Sport Tops & Tees,Tops & Tees,Dockers,Women,9.9,15.86,SKU-01835,7
+1836,Nike Comfort Sweaters,Sweaters,Nike,Men,44.52,113.76,SKU-01836,1
+1837,Adidas Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Adidas,Men,15.93,32.23,SKU-01837,6
+1838,True Religion Regular Fit Sweaters,Sweaters,True Religion,Women,54.52,84.36,SKU-01838,1
+1839,Carhartt Regular Fit Swim,Swim,Carhartt,Women,22.39,58.85,SKU-01839,2
+1840,Diesel Premium Accessories,Accessories,Diesel,Women,11.34,21.34,SKU-01840,1
+1841,Hurley Urban Leggings,Leggings,Hurley,Men,14.91,42.35,SKU-01841,7
+1842,Carhartt Slim Fit Socks & Hosiery,Socks & Hosiery,Carhartt,Men,3.7,10.12,SKU-01842,9
+1843,Columbia Premium Jumpsuits & Rompers,Jumpsuits & Rompers,Columbia,Men,38.04,74.39,SKU-01843,10
+1844,Adidas Classic Blazers & Jackets,Blazers & Jackets,Adidas,Men,25.23,46.77,SKU-01844,8
+1845,Dockers Regular Fit Blazers & Jackets,Blazers & Jackets,Dockers,Men,87.71,262.22,SKU-01845,8
+1846,Dockers Vintage Jumpsuits & Rompers,Jumpsuits & Rompers,Dockers,Women,15.95,43.54,SKU-01846,2
+1847,Tommy Hilfiger Urban Jumpsuits & Rompers,Jumpsuits & Rompers,Tommy Hilfiger,Men,21.3,61.56,SKU-01847,1
+1848,Polo Ralph Lauren Comfort Active,Active,Polo Ralph Lauren,Women,30.44,46.44,SKU-01848,4
+1849,Lucky Brand Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Lucky Brand,Men,22.88,54.85,SKU-01849,4
+1850,Adidas Classic Outerwear & Coats,Outerwear & Coats,Adidas,Women,86.31,163.99,SKU-01850,5
+1851,Calvin Klein Classic Sleep & Lounge,Sleep & Lounge,Calvin Klein,Women,19.66,40.54,SKU-01851,7
+1852,Dockers Essential Jumpsuits & Rompers,Jumpsuits & Rompers,Dockers,Men,20.36,33.32,SKU-01852,1
+1853,Allegra K Regular Fit Active,Active,Allegra K,Women,26.85,70.42,SKU-01853,2
+1854,Adidas Classic Shorts,Shorts,Adidas,Men,28.54,65.31,SKU-01854,9
+1855,Columbia Urban Sleep & Lounge,Sleep & Lounge,Columbia,Men,6.06,16.29,SKU-01855,6
+1856,Volcom Original Jeans,Jeans,Volcom,Women,40.62,68.03,SKU-01856,4
+1857,Columbia Vintage Dresses,Dresses,Columbia,Men,30.81,92.3,SKU-01857,9
+1858,Lacoste Sport Shorts,Shorts,Lacoste,Men,26.69,53.99,SKU-01858,7
+1859,Hurley Essential Skirts,Skirts,Hurley,Men,11.09,32.46,SKU-01859,9
+1860,Under Armour Classic Swim,Swim,Under Armour,Women,8.06,20.27,SKU-01860,7
+1861,Hanes Urban Underwear,Underwear,Hanes,Men,7.26,12.08,SKU-01861,6
+1862,Allegra K Sport Underwear,Underwear,Allegra K,Men,10.76,28.76,SKU-01862,10
+1863,Adidas Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Adidas,Women,8.27,19.36,SKU-01863,10
+1864,Hanes Sport Active,Active,Hanes,Women,37.64,67.11,SKU-01864,8
+1865,Diesel Pro Accessories,Accessories,Diesel,Men,14.79,26.34,SKU-01865,7
+1866,Volcom Sport Jumpsuits & Rompers,Jumpsuits & Rompers,Volcom,Women,46.81,137.14,SKU-01866,1
+1867,Levi's Original Skirts,Skirts,Levi's,Men,36.98,110.86,SKU-01867,9
+1868,Under Armour Urban Leggings,Leggings,Under Armour,Men,24.33,57.52,SKU-01868,2
+1869,Under Armour Urban Suits & Sport Coats,Suits & Sport Coats,Under Armour,Women,155.82,277.47,SKU-01869,1
+1870,Diesel Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Diesel,Men,33.23,66.81,SKU-01870,5
+1871,Volcom Sport Dresses,Dresses,Volcom,Women,61.64,112.06,SKU-01871,1
+1872,Polo Ralph Lauren Essential Jumpsuits & Rompers,Jumpsuits & Rompers,Polo Ralph Lauren,Men,17.12,41.28,SKU-01872,1
+1873,Hanes Slim Fit Sweaters,Sweaters,Hanes,Men,50.86,106.83,SKU-01873,5
+1874,Levi's Urban Dresses,Dresses,Levi's,Women,46.74,96.62,SKU-01874,4
+1875,Levi's Regular Fit Swim,Swim,Levi's,Women,32.59,88.06,SKU-01875,2
+1876,Lacoste Urban Leggings,Leggings,Lacoste,Women,17.85,52.57,SKU-01876,10
+1877,Polo Ralph Lauren Vintage Swim,Swim,Polo Ralph Lauren,Women,27.45,49.29,SKU-01877,3
+1878,Nike Slim Fit Jeans,Jeans,Nike,Men,28.4,60.25,SKU-01878,3
+1879,Under Armour Regular Fit Pants,Pants,Under Armour,Women,26.98,62.18,SKU-01879,9
+1880,Calvin Klein Modern Outerwear & Coats,Outerwear & Coats,Calvin Klein,Men,67.42,126.0,SKU-01880,8
+1881,Volcom Classic Tops & Tees,Tops & Tees,Volcom,Men,19.55,41.11,SKU-01881,4
+1882,Hurley Modern Skirts,Skirts,Hurley,Women,14.42,22.84,SKU-01882,3
+1883,Nike Premium Pants,Pants,Nike,Women,47.22,73.75,SKU-01883,10
+1884,Hugo Boss Vintage Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hugo Boss,Women,42.83,114.76,SKU-01884,1
+1885,Carhartt Slim Fit Accessories,Accessories,Carhartt,Women,34.75,69.8,SKU-01885,7
+1886,Adidas Comfort Sleep & Lounge,Sleep & Lounge,Adidas,Women,27.94,71.56,SKU-01886,1
+1887,BCBGMAXAZRIA Urban Sleep & Lounge,Sleep & Lounge,BCBGMAXAZRIA,Women,16.46,26.74,SKU-01887,1
+1888,BCBGMAXAZRIA Premium Dresses,Dresses,BCBGMAXAZRIA,Men,67.97,170.33,SKU-01888,2
+1889,Diesel Premium Jeans,Jeans,Diesel,Women,33.32,82.64,SKU-01889,6
+1890,Hugo Boss Vintage Skirts,Skirts,Hugo Boss,Men,11.25,30.74,SKU-01890,3
+1891,Lucky Brand Sport Swim,Swim,Lucky Brand,Women,7.69,13.9,SKU-01891,7
+1892,Hurley Slim Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Hurley,Women,12.54,29.18,SKU-01892,10
+1893,Calvin Klein Sport Underwear,Underwear,Calvin Klein,Men,4.44,12.66,SKU-01893,1
+1894,Hurley Classic Active,Active,Hurley,Men,20.03,36.65,SKU-01894,7
+1895,Dockers Slim Fit Socks & Hosiery,Socks & Hosiery,Dockers,Women,9.82,16.57,SKU-01895,10
+1896,Carhartt Modern Swim,Swim,Carhartt,Men,14.2,28.64,SKU-01896,2
+1897,Lacoste Comfort Jumpsuits & Rompers,Jumpsuits & Rompers,Lacoste,Women,46.52,137.14,SKU-01897,5
+1898,BCBGMAXAZRIA Regular Fit Leggings,Leggings,BCBGMAXAZRIA,Women,25.45,44.18,SKU-01898,1
+1899,Lacoste Urban Skirts,Skirts,Lacoste,Women,35.56,59.71,SKU-01899,2
+1900,Lucky Brand Vintage Accessories,Accessories,Lucky Brand,Women,31.82,95.35,SKU-01900,10
+1901,Hurley Comfort Leggings,Leggings,Hurley,Men,29.35,61.33,SKU-01901,3
+1902,Carhartt Premium Pants,Pants,Carhartt,Men,14.79,25.5,SKU-01902,2
+1903,Adidas Original Outerwear & Coats,Outerwear & Coats,Adidas,Women,82.27,192.34,SKU-01903,9
+1904,Carhartt Modern Dresses,Dresses,Carhartt,Women,32.28,49.09,SKU-01904,3
+1905,Columbia Vintage Socks & Hosiery,Socks & Hosiery,Columbia,Men,3.7,7.91,SKU-01905,3
+1906,Allegra K Slim Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Allegra K,Women,26.77,41.61,SKU-01906,9
+1907,Nike Comfort Leggings,Leggings,Nike,Men,17.54,41.18,SKU-01907,8
+1908,Hurley Classic Jeans,Jeans,Hurley,Men,59.33,144.6,SKU-01908,6
+1909,Lucky Brand Vintage Blazers & Jackets,Blazers & Jackets,Lucky Brand,Men,38.23,57.55,SKU-01909,9
+1910,True Religion Sport Swim,Swim,True Religion,Men,37.0,83.96,SKU-01910,3
+1911,BCBGMAXAZRIA Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,BCBGMAXAZRIA,Women,15.01,43.79,SKU-01911,8
+1912,Lucky Brand Comfort Outerwear & Coats,Outerwear & Coats,Lucky Brand,Women,106.46,223.26,SKU-01912,7
+1913,Volcom Regular Fit Blazers & Jackets,Blazers & Jackets,Volcom,Men,41.65,122.11,SKU-01913,6
+1914,Dockers Modern Active,Active,Dockers,Women,43.45,127.97,SKU-01914,4
+1915,Allegra K Essential Jeans,Jeans,Allegra K,Men,42.46,78.99,SKU-01915,2
+1916,Calvin Klein Comfort Socks & Hosiery,Socks & Hosiery,Calvin Klein,Men,1.77,4.19,SKU-01916,6
+1917,Lacoste Essential Jeans,Jeans,Lacoste,Men,56.33,154.65,SKU-01917,9
+1918,Hanes Slim Fit Shorts,Shorts,Hanes,Women,13.05,33.46,SKU-01918,1
+1919,Polo Ralph Lauren Pro Sweaters,Sweaters,Polo Ralph Lauren,Women,56.37,148.83,SKU-01919,2
+1920,Adidas Premium Tops & Tees,Tops & Tees,Adidas,Men,4.28,8.1,SKU-01920,9
+1921,Calvin Klein Slim Fit Sleep & Lounge,Sleep & Lounge,Calvin Klein,Women,11.25,32.37,SKU-01921,9
+1922,Diesel Regular Fit Dresses,Dresses,Diesel,Men,28.1,52.08,SKU-01922,6
+1923,Tommy Hilfiger Original Jeans,Jeans,Tommy Hilfiger,Women,45.02,111.07,SKU-01923,5
+1924,True Religion Sport Socks & Hosiery,Socks & Hosiery,True Religion,Women,8.22,23.24,SKU-01924,1
+1925,True Religion Regular Fit Suits & Sport Coats,Suits & Sport Coats,True Religion,Men,137.86,281.13,SKU-01925,10
+1926,Lacoste Comfort Shorts,Shorts,Lacoste,Men,7.49,17.44,SKU-01926,6
+1927,Under Armour Essential Accessories,Accessories,Under Armour,Women,18.48,46.86,SKU-01927,1
+1928,Adidas Sport Sleep & Lounge,Sleep & Lounge,Adidas,Women,17.86,51.66,SKU-01928,4
+1929,Adidas Regular Fit Swim,Swim,Adidas,Women,18.2,39.53,SKU-01929,9
+1930,Nike Urban Sweaters,Sweaters,Nike,Men,30.98,74.5,SKU-01930,10
+1931,Lacoste Urban Shorts,Shorts,Lacoste,Women,17.58,30.11,SKU-01931,7
+1932,Tommy Hilfiger Essential Underwear,Underwear,Tommy Hilfiger,Men,9.2,14.7,SKU-01932,2
+1933,Calvin Klein Regular Fit Outerwear & Coats,Outerwear & Coats,Calvin Klein,Men,102.02,156.31,SKU-01933,2
+1934,Lucky Brand Urban Pants,Pants,Lucky Brand,Men,18.4,40.75,SKU-01934,4
+1935,Hurley Premium Socks & Hosiery,Socks & Hosiery,Hurley,Women,9.13,21.17,SKU-01935,8
+1936,Lucky Brand Comfort Shorts,Shorts,Lucky Brand,Women,25.87,42.16,SKU-01936,8
+1937,Polo Ralph Lauren Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Polo Ralph Lauren,Women,41.46,73.45,SKU-01937,8
+1938,Volcom Modern Skirts,Skirts,Volcom,Men,33.79,64.18,SKU-01938,3
+1939,Adidas Modern Tops & Tees,Tops & Tees,Adidas,Women,15.03,42.64,SKU-01939,4
+1940,BCBGMAXAZRIA Modern Active,Active,BCBGMAXAZRIA,Men,43.17,71.18,SKU-01940,4
+1941,Columbia Regular Fit Underwear,Underwear,Columbia,Women,6.76,15.11,SKU-01941,8
+1942,Tommy Hilfiger Vintage Sweaters,Sweaters,Tommy Hilfiger,Men,31.0,83.19,SKU-01942,8
+1943,Columbia Original Pants,Pants,Columbia,Men,42.65,119.64,SKU-01943,1
+1944,Dockers Classic Sleep & Lounge,Sleep & Lounge,Dockers,Women,26.86,68.22,SKU-01944,8
+1945,Under Armour Premium Underwear,Underwear,Under Armour,Women,7.84,14.88,SKU-01945,4
+1946,BCBGMAXAZRIA Classic Blazers & Jackets,Blazers & Jackets,BCBGMAXAZRIA,Men,87.23,146.73,SKU-01946,4
+1947,Diesel Comfort Swim,Swim,Diesel,Women,27.53,47.82,SKU-01947,6
+1948,Columbia Slim Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Columbia,Men,25.52,67.77,SKU-01948,5
+1949,Dockers Classic Tops & Tees,Tops & Tees,Dockers,Women,23.02,44.77,SKU-01949,10
+1950,Under Armour Essential Jumpsuits & Rompers,Jumpsuits & Rompers,Under Armour,Women,30.13,60.47,SKU-01950,6
+1951,True Religion Slim Fit Shorts,Shorts,True Religion,Women,26.38,46.52,SKU-01951,9
+1952,Levi's Premium Jeans,Jeans,Levi's,Women,51.0,109.75,SKU-01952,9
+1953,BCBGMAXAZRIA Sport Sweaters,Sweaters,BCBGMAXAZRIA,Men,14.83,29.69,SKU-01953,10
+1954,BCBGMAXAZRIA Classic Blazers & Jackets,Blazers & Jackets,BCBGMAXAZRIA,Women,89.17,181.51,SKU-01954,7
+1955,Hugo Boss Urban Blazers & Jackets,Blazers & Jackets,Hugo Boss,Men,29.64,45.96,SKU-01955,10
+1956,Tommy Hilfiger Original Tops & Tees,Tops & Tees,Tommy Hilfiger,Women,21.09,46.27,SKU-01956,6
+1957,Diesel Original Accessories,Accessories,Diesel,Women,30.71,51.22,SKU-01957,4
+1958,Dockers Essential Blazers & Jackets,Blazers & Jackets,Dockers,Men,77.92,179.49,SKU-01958,9
+1959,True Religion Essential Skirts,Skirts,True Religion,Men,37.47,93.82,SKU-01959,9
+1960,Calvin Klein Original Jeans,Jeans,Calvin Klein,Men,40.83,94.69,SKU-01960,4
+1961,Hanes Comfort Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hanes,Men,22.22,38.21,SKU-01961,10
+1962,True Religion Modern Sweaters,Sweaters,True Religion,Men,39.66,96.17,SKU-01962,5
+1963,Tommy Hilfiger Urban Pants,Pants,Tommy Hilfiger,Women,37.85,80.21,SKU-01963,3
+1964,BCBGMAXAZRIA Essential Swim,Swim,BCBGMAXAZRIA,Women,18.4,37.52,SKU-01964,7
+1965,True Religion Regular Fit Skirts,Skirts,True Religion,Women,16.14,27.81,SKU-01965,3
+1966,Columbia Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Columbia,Women,28.57,85.47,SKU-01966,5
+1967,Polo Ralph Lauren Sport Underwear,Underwear,Polo Ralph Lauren,Women,13.68,28.58,SKU-01967,6
+1968,Levi's Essential Jumpsuits & Rompers,Jumpsuits & Rompers,Levi's,Women,35.22,76.94,SKU-01968,5
+1969,Adidas Premium Underwear,Underwear,Adidas,Men,13.66,22.42,SKU-01969,2
+1970,Hurley Regular Fit Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hurley,Men,27.95,70.24,SKU-01970,2
+1971,Nike Modern Tops & Tees,Tops & Tees,Nike,Women,23.89,45.96,SKU-01971,1
+1972,Levi's Essential Dresses,Dresses,Levi's,Men,61.45,160.4,SKU-01972,7
+1973,Tommy Hilfiger Urban Accessories,Accessories,Tommy Hilfiger,Men,15.47,24.76,SKU-01973,10
+1974,Adidas Sport Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Adidas,Men,26.83,52.19,SKU-01974,7
+1975,Under Armour Original Sleep & Lounge,Sleep & Lounge,Under Armour,Women,29.95,78.42,SKU-01975,6
+1976,Nike Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Nike,Men,48.15,100.83,SKU-01976,9
+1977,Under Armour Regular Fit Swim,Swim,Under Armour,Men,19.95,30.95,SKU-01977,1
+1978,Diesel Modern Suits & Sport Coats,Suits & Sport Coats,Diesel,Men,172.04,461.81,SKU-01978,1
+1979,Under Armour Urban Shorts,Shorts,Under Armour,Men,27.83,82.05,SKU-01979,10
+1980,Levi's Modern Accessories,Accessories,Levi's,Men,11.57,23.89,SKU-01980,9
+1981,Lucky Brand Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Lucky Brand,Men,30.7,74.67,SKU-01981,6
+1982,Lacoste Comfort Underwear,Underwear,Lacoste,Men,11.84,24.38,SKU-01982,1
+1983,Columbia Premium Active,Active,Columbia,Women,9.0,20.99,SKU-01983,2
+1984,Adidas Original Blazers & Jackets,Blazers & Jackets,Adidas,Men,83.68,218.22,SKU-01984,8
+1985,Volcom Pro Leggings,Leggings,Volcom,Women,11.07,27.11,SKU-01985,3
+1986,BCBGMAXAZRIA Vintage Blazers & Jackets,Blazers & Jackets,BCBGMAXAZRIA,Women,56.23,110.89,SKU-01986,6
+1987,Hugo Boss Premium Accessories,Accessories,Hugo Boss,Women,16.26,29.15,SKU-01987,8
+1988,Under Armour Slim Fit Blazers & Jackets,Blazers & Jackets,Under Armour,Women,78.17,181.08,SKU-01988,5
+1989,Lucky Brand Modern Jumpsuits & Rompers,Jumpsuits & Rompers,Lucky Brand,Women,19.33,48.12,SKU-01989,5
+1990,Nike Original Sleep & Lounge,Sleep & Lounge,Nike,Women,17.19,40.6,SKU-01990,10
+1991,Volcom Vintage Dresses,Dresses,Volcom,Men,27.26,46.13,SKU-01991,10
+1992,Columbia Original Skirts,Skirts,Columbia,Women,9.75,19.82,SKU-01992,5
+1993,Levi's Modern Tops & Tees,Tops & Tees,Levi's,Men,21.71,56.81,SKU-01993,3
+1994,BCBGMAXAZRIA Sport Tops & Tees,Tops & Tees,BCBGMAXAZRIA,Men,8.71,14.98,SKU-01994,1
+1995,Hurley Premium Fashion Hoodies & Sweatshirts,Fashion Hoodies & Sweatshirts,Hurley,Women,17.76,50.17,SKU-01995,2
+1996,True Religion Sport Accessories,Accessories,True Religion,Men,3.78,8.32,SKU-01996,6
+1997,Tommy Hilfiger Essential Accessories,Accessories,Tommy Hilfiger,Men,21.1,56.69,SKU-01997,10
+1998,Nike Regular Fit Jumpsuits & Rompers,Jumpsuits & Rompers,Nike,Men,20.76,41.75,SKU-01998,6
+1999,BCBGMAXAZRIA Slim Fit Swim,Swim,BCBGMAXAZRIA,Women,25.23,51.44,SKU-01999,10
+2000,BCBGMAXAZRIA Modern Leggings,Leggings,BCBGMAXAZRIA,Men,23.36,68.92,SKU-02000,8

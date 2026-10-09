@@ -1,0 +1,57 @@
+name: Data Pipeline Orchestration (dlt + dbt)
+
+# Déclencheurs de l'orchestration
+on:
+  # Permet de lancer le pipeline manuellement depuis l'interface GitHub
+  workflow_dispatch:
+  # (Optionnel) Planification : Tous les jours à 4h00 du matin
+  # schedule:
+  #   - cron: '0 4 * * *'
+
+jobs:
+  run-data-pipeline:
+    runs-on: ubuntu-latest
+    
+    # Variables d'environnement récupérées depuis les Secrets GitHub
+    env:
+      GOOGLE_APPLICATION_CREDENTIALS: /tmp/gcp_key.json
+      DBT_PROFILES_DIR: ./02_labs/day2_transformation/04_dbt_project
+
+    steps:
+      - name: 📥 Cloner le dépôt
+        uses: actions/checkout@v4
+
+      - name: 🐍 Installer Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 🛠️ Installer l'outil 'uv'
+        run: curl -LsSf https://astral.sh/uv/install.sh | sh
+
+      - name: 📦 Installer les dépendances du pipeline
+        run: |
+          # Utilisation de uv pour aller très vite
+          $HOME/.cargo/bin/uv pip install --system dlt[bigquery] dbt-bigquery
+
+      - name: 🔑 Configurer l'authentification Google Cloud
+        # Écrit le secret GitHub dans un fichier temporaire
+        run: |
+          echo "${{ secrets.GCP_CREDENTIALS_JSON }}" > /tmp/gcp_key.json
+
+      - name: 🚀 Étape 1 : Ingestion des données (dlt)
+        run: |
+          echo "Démarrage de l'ingestion vers la couche Bronze..."
+          python ./02_labs/day1_ingestion/05_dlt_pipeline_ingestion.py
+
+      - name: 🔄 Étape 2 : Transformation des données (dbt run)
+        run: |
+          echo "Démarrage des transformations Silver & Gold..."
+          cd ./02_labs/day2_transformation/04_dbt_project
+          dbt run --target dev
+
+      - name: ✅ Étape 3 : Tests de Qualité (dbt test)
+        run: |
+          echo "Vérification des contrats de données..."
+          cd ./02_labs/day2_transformation/04_dbt_project
+          dbt test --target dev

@@ -1,0 +1,9 @@
+scripts/
+.venv/
+__pycache__/
+.DS_Store
+**/04_infrastructure/
+data_manipulation/02_notebooks/solutions/08_capstone_eda_thelook_solution.ipynb
+big_data/03_evaluation/solutions
+*.duckdb
+big_data/cle-examen.json

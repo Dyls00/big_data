@@ -1,0 +1,11 @@
+dbt_bigdata_lasalle:
+  outputs:
+    dev:
+      type: bigquery
+      method: oauth # Ou service-account / gcloud
+      project: "VOTRE_PROJECT_ID_GCP"
+      dataset: dbt_dev
+      threads: 4
+      timeout_seconds: 300
+      location: EU
+  target: dev

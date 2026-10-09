@@ -1,0 +1,5 @@
+{"event_id": "evt_101", "timestamp": "2026-09-29T10:00:00Z", "user_id": "usr_882", "event_type": "page_view", "device": {"os": "iOS", "browser": "Safari"}, "payload": {"page": "/products/laptop-pro", "referrer": "google.com"}}
+{"event_id": "evt_102", "timestamp": "2026-09-29T10:01:15Z", "user_id": "usr_882", "event_type": "add_to_cart", "device": {"os": "iOS", "browser": "Safari"}, "payload": {"product_id": "prod_3301", "price": 1299.99, "quantity": 1}}
+{"event_id": "evt_103", "timestamp": "2026-09-29T10:05:00Z", "user_id": "usr_410", "event_type": "page_view", "device": {"os": "Windows", "browser": "Chrome"}, "payload": {"page": "/home", "referrer": "direct"}}
+{"event_id": "evt_104", "timestamp": "2026-09-29T10:08:45Z", "user_id": "usr_882", "event_type": "checkout_start", "device": {"os": "iOS", "browser": "Safari"}, "payload": {"cart_total": 1299.99, "items_count": 1}}
+{"event_id": "evt_105", "timestamp": "2026-09-29T10:10:30Z", "user_id": "usr_882", "event_type": "purchase_success", "device": {"os": "iOS", "browser": "Safari"}, "payload": {"order_id": "ord_9901", "total_paid": 1299.99, "payment_method": "credit_card"}}
